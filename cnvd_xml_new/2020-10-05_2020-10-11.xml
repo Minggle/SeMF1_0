@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vulnerabilitys><vulnerability><number>CNVD-2020-54951</number><cves><cve><cveNumber>CVE-2020-6849</cveNumber><cveUrl>https://nvd.nist.gov/vuln/detail/CVE-2020-6849</cveUrl></cve></cves><title>WordPress marketo-forms-and-tracking跨站请求伪造漏洞</title><serverity>中</serverity><products><product>WordPress marketo-forms-and-tracking plugin &lt;=1.0.2</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-02-17</submitTime><openTime>2020-10-09</openTime><referenceLink>https://wpscan.com/vulnerabilities/10031</referenceLink><formalWay>厂商尚未提供漏洞修复方案，请关注厂商主页更新:&#xD;
+https://wordpress.org/plugins/marketo-forms-and-tracking/</formalWay><description>WordPress是WordPress基金会的一套使用PHP语言开发的博客平台。
+
+WordPress marketo-forms-and-tracking plugin 1.0.2及之前版本中的wp-admin/admin.php?page=marketo_fat存在跨站请求伪造漏洞。该漏洞源于未充分验证请求是否来自可信用户。攻击者可利用该漏洞通过受影响客户端向服务器发送非预期的请求。 </description></vulnerability><vulnerability><number>CNVD-2020-54835</number><title>WPS Office校园版存在内存破坏漏洞（CNVD-2020-54835）</title><serverity>中</serverity><products><product>珠海金山办公软件有限公司 WPS Office校园版 11.3.0.9228</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-08-21</submitTime><openTime>2020-10-05</openTime><discovererName>绿盟科技集团股份有限公司</discovererName><formalWay>厂商尚未提供漏洞修复方案，请关注厂商主页更新：&#xD;
+https://www.wps.cn/</formalWay><description>WPS Office校园版是一款为老师学生量身定做的终身免费办公软件。
+
+WPS Office校园版存在内存破坏漏洞，攻击者可利用该漏洞导致程序崩溃。</description></vulnerability><vulnerability><number>CNVD-2020-54883</number><title>陌声APP存在拒绝服务漏洞</title><serverity>中</serverity><products><product>深圳市齐力成科技合伙企业（有限合伙） 陌声APP 4.8.4</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-08-21</submitTime><openTime>2020-10-05</openTime><discovererName>爱加密安全服务中心</discovererName><formalWay>厂商尚未提供漏洞修复方案，请关注厂商主页更新：&#xD;
+http://www.qilicheng520.com/ </formalWay><description>陌声APP是一款单身男女都在玩的交友APP。
+
+陌声APP存在拒绝服务漏洞，攻击者可利用该漏洞导致应用崩溃。</description></vulnerability><vulnerability><number>CNVD-2020-54884</number><title>MikroTik RouterOS存在拒绝服务漏洞</title><serverity>中</serverity><products><product>MikroTik RouterOS 6.47</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-08-21</submitTime><openTime>2020-10-05</openTime><discovererName>李伟光</discovererName><formalWay>厂商已发布了漏洞修复程序，请及时关注更新：&#xD;
+https://mikrotik.com/download/changelogs</formalWay><description>MikroTik RouterOS是拉脱维亚MikroTik公司的一套基于Linux开发的路由器操作系统。该系统可部署在PC中，使其提供路由器功能。
+
+MikroTik RouterOS存在拒绝服务漏洞，攻击者可利用该漏洞导致路由器崩溃重启。</description></vulnerability><vulnerability><number>CNVD-2020-54841</number><title>石家庄帝易广告有限公司建站系统存在SQL注入漏洞</title><serverity>高</serverity><products><product>石家庄帝易广告有限公司 建站系统 </product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-08-21</submitTime><openTime>2020-10-05</openTime><discovererName>Auyuth</discovererName><formalWay>厂商尚未提供漏洞修复方案，请关注厂商主页更新：&#xD;
+http://www.denet.cn/</formalWay><description>石家庄帝易广告有限公司是一家致力于企业品牌策划和营销策划的公司。
+
+石家庄帝易广告有限公司建站系统存在SQL注入漏洞，攻击者可利用该漏洞获取数据库敏感信息。</description></vulnerability><vulnerability><number>CNVD-2020-54319</number><title>北京网瑞达科技有限公司资源访问控制系统（WebVPN）存在命令执行漏洞</title><serverity>高</serverity><products><product>北京网瑞达科技有限公司 资源访问控制系统（WebVPN） </product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-08-21</submitTime><openTime>2020-10-05</openTime><discovererName>BaoGuo</discovererName><formalWay>厂商尚未提供漏洞修复方案，请关注厂商主页更新：&#xD;
+https://www.wrdtech.com/</formalWay><description>资源访问控制系统（WebVPN）是一款为用户提供免客户端的资源便捷访问工具。
+
+北京网瑞达科技有限公司资源访问控制系统（WebVPN）存在命令执行漏洞，攻击者可利用该漏洞获取网站服务器控制权。</description><patchName>RCE漏洞解决方案</patchName><patchDescription>所述漏洞通过Basic Auth的方式绕过了权限控制，进而触发内部服务的漏洞，已经处理禁止该方式访问</patchDescription></vulnerability><vulnerability><number>CNVD-2020-54803</number><title>开平市联科网络科技有限公司cms建站系统存在SQL注入漏洞（CNVD-2020-54803）</title><serverity>高</serverity><products><product>开平市联科网络科技有限公司 建站系统 </product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-08-21</submitTime><openTime>2020-10-05</openTime><discovererName>白帽-Tc</discovererName><formalWay>厂商尚未提供漏洞修复方案，请关注厂商主页更新：&#xD;
+http://www.linkor.cn</formalWay><description>开平市联科网络科技有限公司是一家主营网站建设、网站推广、速达软件、卫浴ERP管理软件、微信营销的公司。
+
+开平市联科网络科技有限公司建站系统存在SQL注入漏洞，攻击者可利用该漏洞获取数据库敏感信息。</description></vulnerability><vulnerability><number>CNVD-2020-54871</number><title>江苏易安联网络技术有限公司EnCASB存在未授权访问漏洞</title><serverity>中</serverity><products><product>江苏易安联网络技术有限公司 EnCASB </product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-08-21</submitTime><openTime>2020-10-05</openTime><discovererName>Aaim</discovererName><formalWay>厂商尚未提供漏洞修复方案，请关注厂商主页更新：&#xD;
+https://www.enlink.com.cn/</formalWay><description>EnCASB是一款部署在云服务使用者和提供商之间的安全连接门户。
+
+江苏易安联网络技术有限公司EnCASB存在未授权访问漏洞，攻击者可利用该漏洞获取敏感信息。</description></vulnerability><vulnerability><number>CNVD-2020-54801</number><title>KiteCMS后台存在文件读取漏洞</title><serverity>低</serverity><products><product>KiteCMS KiteCMS v1.1</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-08-21</submitTime><openTime>2020-10-05</openTime><discovererName>guoke</discovererName><formalWay>厂商尚未提供漏洞修复方案，请关注厂商主页更新：&#xD;
+http://www.19981.com/</formalWay><description>KiteCMS开源网站内容管理系统(CMS)，系统基于框架ThinkPHP 5.1.*版本开发，适用个人、企业快速建站及开发需求。
+
+KiteCMS后台存在文件读取漏洞，攻击者可利用该漏洞读取文件。</description></vulnerability><vulnerability><number>CNVD-2020-54874</number><title>科华恒盛股份有限公司WiseWay UPS网络监控系统存在未授权访问漏洞</title><serverity>低</serverity><products><product>科华恒盛股份有限公司 WiseWay UPS网络监控系统 </product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-08-21</submitTime><openTime>2020-10-05</openTime><discovererName>平安银河实验室</discovererName><formalWay>厂商尚未提供漏洞修复方案，请关注厂商主页更新：&#xD;
+http://www.kehua.com.cn/</formalWay><description>科华恒盛股份有限公司是一家以研究电力电子技术为核心的高科技企业。
+
+科华恒盛股份有限公司WiseWay UPS网络监控系统存在未授权访问漏洞，攻击者可利用该漏洞添加账号密码或查询配置信息。</description></vulnerability><vulnerability><number>CNVD-2020-54885</number><title>litemall存在逻辑缺陷漏洞</title><serverity>中</serverity><products><product>litemall litemall 1.7.0</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-08-21</submitTime><openTime>2020-10-05</openTime><discovererName>平安银河实验室</discovererName><formalWay>厂商尚未提供漏洞修复方案，请关注厂商主页更新：&#xD;
+https://github.com/linlinjava/litemall </formalWay><description>litemall是一套小商场系统。
+
+litemall存在逻辑缺陷漏洞，攻击者可利用该漏洞伪造Token。</description></vulnerability><vulnerability><number>CNVD-2020-54840</number><title>上海师廉网络科技发展有限公司建站系统si***.php页面存在SQL注入漏洞（CNVD-2020-54840）</title><serverity>高</serverity><products><product>上海师廉网络科技发展有限公司 建站系统 </product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-08-21</submitTime><openTime>2020-10-05</openTime><discovererName>小k</discovererName><formalWay>厂商尚未提供漏洞修复方案，请关注厂商主页更新：&#xD;
+http://www.shilian.net/</formalWay><description>上海师廉网络科技发展有限公司是一家为中小企业提供网站建设服务为核心，并配套提供相关的企业信息化应用服务的专业网络服务商。
+
+上海师廉网络科技发展有限公司建站系统si***.php页面存在SQL注入漏洞，攻击者可利用该漏洞获取数据库敏感信息。</description></vulnerability><vulnerability><number>CNVD-2020-56167</number><title>锐捷网络股份有限公司无线smartweb管理系统存在弱口令漏洞</title><serverity>中</serverity><products><product>锐捷网络股份有限公司 无线smartweb管理系统 </product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-08-22</submitTime><openTime>2020-10-06</openTime><discovererName>田龙坤</discovererName><formalWay>厂商已发布相关漏洞补丁链接，请关注厂商主页及时更新：&#xD;
+http://www.ruijie.com.cn/</formalWay><description>锐捷网络是一家拥有包括交换机、路由器、软件、安全防火墙、无线产品、存储等全系列的网络设备产品线及解决方案的专业化网络厂商。
+
+锐捷网络股份有限公司无线smartweb管理系统存在弱口令漏洞，攻击者可利用该漏洞获取敏感信息。</description></vulnerability><vulnerability><number>CNVD-2020-56146</number><title>深圳市大点科技有限公司建站系统存在SQL注入漏洞（CNVD-2020-56146）</title><serverity>高</serverity><products><product>深圳市大点科技有限公司 建站系统 </product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-08-22</submitTime><openTime>2020-10-06</openTime><discovererName>白帽-Tc</discovererName><formalWay>目前厂商尚未提供相关漏洞补丁链接，请关注厂商主页随时更新：&#xD;
+https://www.dadianstudio.com</formalWay><description>深圳市大点科技有限公司成立于2017年08月，经营范围包括技术开发、技术服务、技术咨询；软件开发；网站设计等。
+
+深圳市大点科技有限公司建站系统存在SQL注入漏洞，攻击者可利用该漏洞获取数据库敏感信息。</description></vulnerability><vulnerability><number>CNVD-2020-57099</number><title>海南易而优科技有限公司EbuyCMS存在SQL注入漏洞</title><serverity>高</serverity><products><product>海南易而优科技有限公司 EbuyCMS 1.5</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-08-22</submitTime><openTime>2020-10-07</openTime><discovererName>hq404</discovererName><formalWay>厂商尚未提供漏洞修补方案，请关注厂商主页及时更新：&#xD;
+https://www.ebuycms.com/index.html</formalWay><description>Ebuycm是一款为中小企业开发的专业级电子商务商城平台系统。
+
+海南易而优科技有限公司EbuyCMS存在SQL注入漏洞。攻击者可利用该漏洞获取数据库敏感信息。</description></vulnerability><vulnerability><number>CNVD-2020-57098</number><title>济南白菜网络技术有限公司建站系统ne***.php页面存在SQL注入漏洞</title><serverity>高</serverity><products><product>济南白菜网络技术有限公司 建站系统 </product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-08-23</submitTime><openTime>2020-10-07</openTime><discovererName>bhg</discovererName><formalWay>目前厂商尚未提供相关漏洞补丁链接，请关注厂商主页随时更新：&#xD;
+http://www.baicaidi.net</formalWay><description>济南白菜网络技术有限公司是一家从事网站建设、技术外包、WAP手机网站建设、微信及小程序定制开发、系统UI及平面设计、PHP系统开发、网易企业邮箱的公司。
+
+济南白菜网络技术有限公司建站系统ne***.php页面存在SQL注入漏洞。攻击者可利用该漏洞获取数据库敏感信息。</description></vulnerability><vulnerability><number>CNVD-2020-57097</number><title>湖北国昇科技有限公司建站系统存在SQL注入漏洞（CNVD-2020-57097）</title><serverity>高</serverity><products><product>湖北国昇科技有限公司  建站系统 </product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-08-23</submitTime><openTime>2020-10-08</openTime><discovererName>bhg</discovererName><formalWay>厂商尚未提供漏洞修补方案，请关注厂商主页及时更新：&#xD;
+http://www.hbgskj.cn/ </formalWay><description>湖北国昇科技有限公司是一家专注于网站建设、小程序商城、微分销系统等服务的企业。
+
+湖北国昇科技有限公司建站系统存在SQL注入漏洞，攻击者可利用该漏洞获取数据库敏感信息。</description></vulnerability><vulnerability><number>CNVD-2020-56651</number><title>UCMS存在信息泄露漏洞</title><serverity>中</serverity><products><product>UCMS UCMS 1.4.8</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-08-23</submitTime><openTime>2020-10-07</openTime><discovererName>Leafer</discovererName><formalWay>目前厂商尚未提供相关漏洞补丁链接，请关注厂商主页随时更新：&#xD;
+http://uuu.la/</formalWay><description>UCMS是一款简单高效的PHP开源建站系统。
+
+UCMS存在信息泄露漏洞，攻击者可利用该漏洞获取敏感信息。</description></vulnerability><vulnerability><number>CNVD-2020-57096</number><title>上海物创信息科技有限公司仓储系统和物流管理系统存在SQL注入漏洞</title><serverity>高</serverity><products><product>上海物创信息科技有限公司 仓储系统 </product><product>上海物创信息科技有限公司 物流管理系统 </product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-08-23</submitTime><openTime>2020-10-08</openTime><discovererName>熊劢</discovererName><formalWay>厂商尚未提供漏洞修补方案，请关注厂商主页及时更新：&#xD;
+http://www.56gyl.com/</formalWay><description>上海物创信息科技有限公司致力于用互联网技术，促进物流与供应链行业管理和服务创新，提升制造业升级服务手段。
+
+上海物创信息科技有限公司仓储系统和物流管理系统存在SQL注入漏洞。攻击者可利用该漏洞获取数据库敏感信息。</description></vulnerability><vulnerability><number>CNVD-2020-57095</number><title>浙江易舸软件有限公司OfficeFly V6网络办公自动化系统存在SQL注入漏洞</title><serverity>高</serverity><products><product>浙江易舸软件有限公司 OfficeFly V6网络办公自动化系统 </product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-08-23</submitTime><openTime>2020-10-08</openTime><discovererName>熊劢</discovererName><formalWay>厂商尚未提供漏洞修补方案，请关注厂商主页及时更新：&#xD;
+http://www.eaglesoft.cn </formalWay><description>浙江易舸软件有限公司（ZheJiang Eagle Soft Co.,LTD）于2004年11月成立，为企业、行政事业单位提供信息化解决方案和软件服务。
+
+浙江易舸软件有限公司OfficeFly V6网络办公自动化系统存在SQL注入漏洞，攻击者可利用该漏洞获取数据库敏感信息。</description></vulnerability><vulnerability><number>CNVD-2020-53155</number><title>VMware Workstation Pro for Windows存在二进制漏洞</title><serverity>中</serverity><products><product>VMware VMware Workstation Pro for Windows 15.5.6</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-08-24</submitTime><openTime>2020-10-08</openTime><discovererName>卢帅兵</discovererName><formalWay>厂商尚未提供漏洞修复方案，请关注厂商主页更新：&#xD;
+https://www.vmware.com/</formalWay><description>VMware Workstation Pro for Windows是美国威睿（VMware）公司的基于Windows平台的虚拟机软件产品。
+
+VMware Workstation Pro for Windows存在二进制漏洞，攻击者可利用该漏洞导致系统崩溃。</description></vulnerability><vulnerability><number>CNVD-2020-53154</number><title>VMware Workstation Pro for Windows存在二进制漏洞（CNVD-2020-53154）</title><serverity>中</serverity><products><product>VMware VMware Workstation Pro for Windows 15.5.6</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-08-26</submitTime><openTime>2020-10-08</openTime><discovererName>卢帅兵</discovererName><formalWay>厂商尚未提供漏洞修复方案，请关注厂商主页更新：&#xD;
+https://www.vmware.com/</formalWay><description>VMware Workstation Pro for Windows是美国威睿（VMware）公司的基于Windows平台的虚拟机软件产品。
+
+VMware Workstation Pro for Windows存在二进制漏洞，攻击者可利用该漏洞导致系统崩溃。</description></vulnerability><vulnerability><number>CNVD-2020-53153</number><title>Oracle VM VirtualBox存在二进制漏洞</title><serverity>中</serverity><products><product>Oracle VM VirtualBox 6.1.12.139181</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-08-24</submitTime><openTime>2020-10-08</openTime><discovererName>卢帅兵</discovererName><formalWay>厂商尚未提供漏洞修复方案，请关注厂商主页更新：&#xD;
+https://www.oracle.com</formalWay><description>Oracle VM VirtualBox是Virtualization中的一个虚拟机组件。
+
+Oracle VM VirtualBox存在二进制漏洞，攻击者可利用该漏洞导致系统崩溃。</description></vulnerability><vulnerability><number>CNVD-2020-53152</number><title>北京猎豹移动科技有限公司驱动精灵标准版存在二进制漏洞</title><serverity>中</serverity><products><product>北京猎豹移动科技有限公司 驱动精灵标准版 9.61.3708.3054</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-08-25</submitTime><openTime>2020-10-08</openTime><discovererName>卢帅兵</discovererName><formalWay>厂商尚未提供漏洞修复方案，请关注厂商主页更新：&#xD;
+http://www.drivergenius.com/</formalWay><description>驱动精灵是一款集驱动管理和硬件检测于一体的驱动管理和维护工具。
+
+北京猎豹移动科技有限公司驱动精灵标准版存在二进制漏洞，攻击者可利用该漏洞导致系统崩溃。</description></vulnerability><vulnerability><number>CNVD-2020-57094</number><title>济南卓源软件有限公司JeeSite存在SQL注入漏洞（CNVD-2020-57094）</title><serverity>高</serverity><products><product>济南卓源软件有限公司 Jeesite 1.2.7</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-08-24</submitTime><openTime>2020-10-09</openTime><discovererName>seedis</discovererName><formalWay>厂商尚未提供漏洞修补方案，请关注厂商主页及时更新：&#xD;
+http://jeesite.com</formalWay><description>JeeSite是一个企业信息化开发基础平台，Java企业应用开源框架。
+
+济南卓源软件有限公司JeeSite存在SQL注入漏洞。攻击者可利用该漏洞获取数据库敏感信息。</description></vulnerability><vulnerability><number>CNVD-2020-56662</number><title>沈阳点动科技有限公司SIYUCMS存在文件上传漏洞（CNVD-2020-56662）</title><serverity>高</serverity><products><product>沈阳点动科技有限公司 SIYUCMS v6.1</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-08-24</submitTime><openTime>2020-10-08</openTime><discovererName>王成雷</discovererName><formalWay>厂商已提供漏洞修补方案，建议用户下载使用：&#xD;
+https://gitee.com/ruoshuiyx/tp6/commit/46bc86ee9478da8dbd790278a6e9460bb6a875a7</formalWay><description>SIYUCMS是基于最新版本的ThinkPHP-5.1.X框架，后台前端框架采用AdminLTE。系统的核心理念就是“ 做最适合企业的CMS ”。
+
+沈阳点动科技有限公司SIYUCMS存在文件上传漏洞，攻击者可利用该漏洞获取网站服务器控制权。</description></vulnerability><vulnerability><number>CNVD-2020-56652</number><title>湖北诺千金网络科技有限公司建站系统存在XSS漏洞</title><serverity>中</serverity><products><product>湖北诺千金网络科技有限公司 建站系统 </product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-08-24</submitTime><openTime>2020-10-08</openTime><discovererName>Leafer</discovererName><formalWay>厂商尚未提供漏洞修补方案，请关注厂商主页及时更新： &#xD;
+http://www.nuoqianjin.cn/ </formalWay><description>湖北诺千金网络科技有限公司专注于营销型网站建设 、SEO整合推广等。
+
+湖北诺千金网络科技有限公司建站系统存在XSS漏洞，攻击者可利用该漏洞获取用户cookie等敏感信息。</description></vulnerability><vulnerability><number>CNVD-2020-57088</number><title>深圳市龙艺脉网络科技有限公司建站系统存在SQL注入漏洞（CNVD-2020-57088）</title><serverity>高</serverity><products><product>深圳市龙艺脉网络科技有限公司 网站建设系统 </product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-08-24</submitTime><openTime>2020-10-09</openTime><discovererName>dashu</discovererName><formalWay>厂商尚未提供漏洞修补方案，请关注厂商主页及时更新：&#xD;
+http://www.szlongmai.com/</formalWay><description>龙脉科技成立于2005年7月，致力于网站建设、动画设计、程序开发、域名空间服务、网络服务以及为企业和个人提供信息服务。
+
+深圳市龙艺脉网络科技有限公司建站系统存在SQL注入漏洞，攻击者可利用漏洞获取数据库敏感信息。</description></vulnerability><vulnerability><number>CNVD-2020-56653</number><title>山东艾弗信息科技有限公司FH Admin CMS存在文件上传漏洞</title><serverity>高</serverity><products><product>山东艾弗信息科技有限公司 FH Admin CMS  </product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-08-24</submitTime><openTime>2020-10-08</openTime><discovererName>Leafer</discovererName><formalWay>厂商尚未提供漏洞修复方案，请关注厂商主页更新： &#xD;
+http://www.fhadmin.org</formalWay><description>FH Admin是目前主流的java快速开发平台。
+
+山东艾弗信息科技有限公司FH Admin CMS存在文件上传漏洞，攻击者可利用该漏洞获取网站服务器控制权。</description></vulnerability><vulnerability><number>CNVD-2020-56371</number><title>深圳市三旺通信股份有限公司NP301存在拒绝服务漏洞</title><serverity>中</serverity><products><product>深圳市三旺通信股份有限公司 NP301 4.2.0</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-08-25</submitTime><openTime>2020-10-09</openTime><discovererName>彭广明、刘健飞、张嘉玮、曹可建</discovererName><formalWay>厂商尚未提供漏洞修复方案，请关注厂商主页更新：&#xD;
+https://www.3onedata.com.cn</formalWay><description>NP301是一款能让串口设备立即具备联网能力的串口联网服务器。
+
+深圳市三旺通信股份有限公司NP301存在拒绝服务漏洞，攻击者可利用该漏洞导致设备重启。</description></vulnerability><vulnerability><number>CNVD-2020-56370</number><title>珠海金山办公软件有限公司WPS Office校园版存在内存破坏漏洞（CNVD-2020-56370）</title><serverity>中</serverity><products><product>珠海金山办公软件有限公司 WPS Office校园版 11.3.0.9228</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-08-25</submitTime><openTime>2020-10-09</openTime><discovererName>绿盟科技集团股份有限公司</discovererName><formalWay>厂商尚未提供漏洞修复方案，请关注厂商主页更新：&#xD;
+https://www.wps.cn/ </formalWay><description>WPS Office校园版是一款为老师学生量身定做的终身免费办公软件。
+
+珠海金山办公软件有限公司WPS Office校园版存在内存破坏漏洞，攻击者可利用该漏洞导致程序崩溃。</description></vulnerability><vulnerability><number>CNVD-2020-56391</number><title>ED01-CMS存在文件上传漏洞</title><serverity>高</serverity><products><product>ED01-CMS ED01-CMS内容管理系统 </product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-08-25</submitTime><openTime>2020-10-09</openTime><discovererName>Danie1</discovererName><formalWay>厂商尚未提供漏洞修复方案，请关注厂商主页更新：&#xD;
+https://github.com/chilin89117/ED01-CMS</formalWay><description>ED01-CMS是一款内容管理系统。
+
+ED01-CMS存在文件上传漏洞，攻击者可利用该漏洞获取网站服务器控制权。</description></vulnerability><vulnerability><number>CNVD-2020-56392</number><title>西安旲博智能科技有限公司多个系统存在万能密码登入漏洞</title><serverity>高</serverity><products><product>西安旲博智能科技有限公司 烟花爆竹行业运输预警及易制爆危险化学品管理系统 </product><product>西安旲博智能科技有限公司 污水处理设备远程监测及控制平台 </product><product>西安旲博智能科技有限公司 远程监测数据分析管理系统 </product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-08-25</submitTime><openTime>2020-10-09</openTime><discovererName>王晓帅</discovererName><formalWay>厂商尚未提供漏洞修复方案，请关注厂商主页更新：&#xD;
+http://www.tbi-t.com</formalWay><description>西安旲博智能科技有限公司是一家专注于提供工业智能控制的定制开发，面向工控企业提供详细、完善的整体解决方案的公司。
+
+西安旲博智能科技有限公司多个系统存在万能密码登入漏洞，攻击者可利用该漏洞获取数据库敏感信息。</description></vulnerability><vulnerability><number>CNVD-2020-56368</number><title>常州巨细信息科技有限公司智能织造生产管理系统存在万能密码登录漏洞</title><serverity>高</serverity><products><product>常州巨细信息科技有限公司 智能织造生产管理系统 2.0</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-08-25</submitTime><openTime>2020-10-09</openTime><discovererName>王晓帅</discovererName><formalWay>厂商尚未提供漏洞修复方案，请关注厂商主页更新：&#xD;
+http://www.szjuxi.cn</formalWay><description>常州巨细信息科技有限公司是一家集研发与运营为一体的综合性软件公司。
+
+常州巨细信息科技有限公司智能织造生产管理系统存在万能密码登录漏洞，攻击者可利用该获取数据库敏感信息。</description></vulnerability><vulnerability><number>CNVD-2020-56390</number><title>成都康菲顿特网络科技有限公司UsualToolCMS a***_bo***_ca***.php文件存在SQL注入漏洞</title><serverity>中</serverity><products><product>成都康菲顿特网络科技有限公司 UsualToolCMS 8.0</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-08-25</submitTime><openTime>2020-10-09</openTime><discovererName>北京华云安信息技术有限公司</discovererName><formalWay>厂商尚未提供漏洞修复方案，请关注厂商主页更新：&#xD;
+http://cms.usualtool.com/index.php</formalWay><description>UsualToolCMS(UTCMS) 是一款内容管理系统及快速建站框架。
+
+成都康菲顿特网络科技有限公司UsualToolCMS a***_bo***_ca***.php文件存在SQL注入漏洞，攻击者可利用该漏洞获取数据库敏感信息。</description></vulnerability><vulnerability><number>CNVD-2020-56388</number><title>深圳市网心科技有限公司网心云设备存在未授权访问漏洞（CNVD-2020-56388）</title><serverity>中</serverity><products><product>深圳市网心科技有限公司 网心云设备 V3.1.5</product><product>深圳市网心科技有限公司 网心云设备 3.1.8</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-08-25</submitTime><openTime>2020-10-09</openTime><discovererName>happyuser</discovererName><formalWay>厂商尚未提供漏洞修复方案，请关注厂商主页更新：&#xD;
+http://www.onethingtech.net/</formalWay><description>深圳市网心科技有限公司是一家专注于技术创新的共享经济云计算公司。
+
+深圳市网心科技有限公司网心云设备存在未授权访问漏洞，攻击者可利用该漏洞设置网络。</description></vulnerability><vulnerability><number>CNVD-2020-56386</number><title>苹果CMS存在未授权访问漏洞</title><serverity>中</serverity><products><product>苹果CMS 苹果CMS v10</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-08-25</submitTime><openTime>2020-10-09</openTime><discovererName>邓阮叶</discovererName><formalWay>厂商尚未提供漏洞修复方案，请关注厂商主页更新：&#xD;
+http://www.maccms.cn/</formalWay><description>苹果CMS是一套采用PHP+MYSQL环境下运行的完善而强大的快速建站系统。
+
+苹果CMS存在未授权访问漏洞，攻击者可利用该漏洞获取敏感信息。</description></vulnerability><vulnerability><number>CNVD-2020-56385</number><title>石家庄捷搜网络科技有限公司沐风CMS存在文件上传漏洞</title><serverity>高</serverity><products><product>石家庄捷搜网络科技有限公司 沐风CMS 1.0</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-08-25</submitTime><openTime>2020-10-09</openTime><discovererName>王成雷</discovererName><formalWay>厂商尚未提供漏洞修复方案，请关注厂商主页更新：&#xD;
+https://www.sjzjinyi.com</formalWay><description>沐风CMS是石家庄捷搜网络202年推出的一款最新的采用think PHP框架的网站后台管理系统。
+
+石家庄捷搜网络科技有限公司沐风CMS存在文件上传漏洞，攻击者可利用该漏洞获取网站服务器控制权。</description></vulnerability><vulnerability><number>CNVD-2020-56383</number><title>宜兴易发cms存在XSS漏洞</title><serverity>中</serverity><products><product>宜兴易发网络服务有限公司 建站系统 </product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-08-26</submitTime><openTime>2020-10-10</openTime><discovererName>hpb0715</discovererName><formalWay>厂商尚未提供漏洞修复方案，请关注厂商主页更新： &#xD;
+http://www.yx18.net/</formalWay><description>宜兴易发网络服务有限公司是一家为企业提供互联网解决方案，提供网站建设、微信公众平台、微信营销、网站推广、网站维护运营、域名注册、虚拟主机、企业邮局、企业QQ、企业形象设计和企业样本画册设计等多种信息产品和服务。
+
+宜兴易发cms存在XSS漏洞,攻击者可利用该漏洞获取用户cookie信息。</description></vulnerability><vulnerability><number>CNVD-2020-56382</number><title>daozicms V1.4存在文件删除漏洞</title><serverity>低</serverity><products><product>daozicms daozicms v1.4</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-08-26</submitTime><openTime>2020-10-10</openTime><discovererName>木已成舟</discovererName><description>daozicms企业建站系统是一个由Thinkphp6.0.2+layui-v2.3.0+Mysql5.7开发而成的cms企业建站系统。
+
+daozicms V1.4存在文件删除漏洞，攻击者可利用该漏洞造成拒绝服务攻击。</description></vulnerability><vulnerability><number>CNVD-2020-56110</number><title>daozicms V1.4存在文件上传漏洞</title><serverity>高</serverity><products><product>daozicms daozicms v1.4</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-08-26</submitTime><openTime>2020-10-10</openTime><discovererName>木已成舟</discovererName><description>daozicms企业建站系统是一个由Thinkphp6.0.2+layui-v2.3.0+Mysql5.7开发而成的cms企业建站系统。
+
+daozicms V1.4存在文件上传漏洞，攻击者可利用该漏洞获取服务器管理权限。</description></vulnerability><vulnerability><number>CNVD-2020-56381</number><title>shopxo存在任意文件下载漏洞</title><serverity>中</serverity><products><product>上海纵之格科技有限公司 ShopXO v1.9</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-08-26</submitTime><openTime>2020-10-10</openTime><discovererName>中科华威（北京）信息技术研究院</discovererName><formalWay>厂商尚未提供漏洞修复方案，请关注厂商主页更新： &#xD;
+https://shopxo.net/</formalWay><description>ShopXO是一套开源的企业级开源电子商务系统。
+
+shopxo存在任意文件下载漏洞，攻击者可利用该漏洞获取敏感信息。</description></vulnerability><vulnerability><number>CNVD-2020-56380</number><title>ShopXO开源电商系统存在文件上传漏洞</title><serverity>高</serverity><products><product>上海纵之格科技有限公司 ShopXO v1.9</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-08-26</submitTime><openTime>2020-10-10</openTime><discovererName>中科华威（北京）信息技术研究院</discovererName><formalWay>厂商尚未提供漏洞修复方案，请关注厂商主页更新： &#xD;
+https://shopxo.net/</formalWay><description>ShopXO是一套开源的企业级开源电子商务系统。
+
+ShopXO开源电商系统存在文件上传漏洞，攻击者可利用该漏洞获取服务器管理权限。</description></vulnerability><vulnerability><number>CNVD-2020-56379</number><title>NiuShop存在SQL注入漏洞（CNVD-2020-56379）</title><serverity>中</serverity><products><product>上海牛之云网络科技有限公司 NiuShop v4</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-08-26</submitTime><openTime>2020-10-10</openTime><discovererName>中科华威（北京）信息技术研究院</discovererName><formalWay>厂商尚未提供漏洞修复方案，请关注厂商主页更新： &#xD;
+https://www.niushop.com.cn/</formalWay><description>Niushop是由山西牛酷信息科技有限公司设计、研发的一套PHP的开源商城。 
+
+NiuShop存在SQL注入漏洞，攻击者可利用该漏洞获取网站数据库数据。</description></vulnerability><vulnerability><number>CNVD-2020-56378</number><title>YouDianCMS存在SQL注入漏洞（CNVD-2020-56378）</title><serverity>高</serverity><products><product>长沙友点软件科技有限公司 YouDianCMS 8.2</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-08-26</submitTime><openTime>2020-10-10</openTime><discovererName>中科华威（北京）信息技术研究院</discovererName><formalWay>厂商尚未提供漏洞修复方案，请关注厂商主页更新：&#xD;
+http://www.youdiancms.com</formalWay><description>YouDianCMS集电脑网站、手机网站、微信、APP、小程序于一体，共用空间，数据自动同步，是国内开源五站合一优秀解决方案。
+
+YouDianCMS存在SQL注入漏洞，攻击者可利用该漏洞获取数据库敏感信息。</description></vulnerability><vulnerability><number>CNVD-2020-56377</number><title>YouDianCMS存在SQL注入漏洞（CNVD-2020-56377）</title><serverity>高</serverity><products><product>长沙友点软件科技有限公司 YouDianCMS 8.2</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-08-26</submitTime><openTime>2020-10-10</openTime><discovererName>中科华威（北京）信息技术研究院</discovererName><formalWay>厂商尚未提供漏洞修复方案，请关注厂商主页更新：&#xD;
+http://www.youdiancms.com/&#xD;
+</formalWay><description>YouDianCMS集电脑网站、手机网站、微信、APP、小程序于一体，共用空间，数据自动同步，是国内开源五站合一优秀解决方案。
+
+YouDianCMS存在SQL注入漏洞，攻击者可利用该漏洞获取数据库敏感信息。</description></vulnerability><vulnerability><number>CNVD-2020-56376</number><title>YouDianCMS存在SQL注入漏洞（CNVD-2020-56376）</title><serverity>高</serverity><products><product>长沙友点软件科技有限公司 YouDianCMS 8.2</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-08-26</submitTime><openTime>2020-10-10</openTime><discovererName>中科华威（北京）信息技术研究院</discovererName><formalWay>厂商尚未提供漏洞修复方案，请关注厂商主页更新：&#xD;
+http://www.youdiancms.com/</formalWay><description>YouDianCMS集电脑网站、手机网站、微信、APP、小程序于一体，共用空间，数据自动同步，是国内开源五站合一优秀解决方案。
+
+YouDianCMS存在SQL注入漏洞，攻击者可利用该漏洞获取数据库敏感信息。</description></vulnerability><vulnerability><number>CNVD-2020-56375</number><title>YouDianCMS存在SQL注入漏洞（CNVD-2020-56375）</title><serverity>高</serverity><products><product>长沙友点软件科技有限公司 YouDianCMS 8.2</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-08-26</submitTime><openTime>2020-10-10</openTime><discovererName>中科华威（北京）信息技术研究院</discovererName><formalWay>厂商尚未提供漏洞修复方案，请关注厂商主页更新： &#xD;
+http://www.youdiancms.com/</formalWay><description>YouDianCMS集电脑网站、手机网站、微信、APP、小程序于一体，共用空间，数据自动同步，是国内开源五站合一优秀解决方案。
+
+YouDianCMS存在SQL注入漏洞，攻击者可利用该漏洞获取数据库敏感信息。</description></vulnerability><vulnerability><number>CNVD-2020-56374</number><title>YouDianCMS存在SQL注入漏洞（CNVD-2020-56374）</title><serverity>高</serverity><products><product>长沙友点软件科技有限公司 YouDianCMS 8.2</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-08-26</submitTime><openTime>2020-10-10</openTime><discovererName>中科华威（北京）信息技术研究院</discovererName><formalWay>厂商尚未提供漏洞修复方案，请关注厂商主页更新： &#xD;
+http://www.youdiancms.com/</formalWay><description>YouDianCMS集电脑网站、手机网站、微信、APP、小程序于一体，共用空间，数据自动同步，是国内开源五站合一优秀解决方案。
+
+YouDianCMS存在SQL注入漏洞，攻击者可利用该漏洞获取数据库敏感信息。</description></vulnerability><vulnerability><number>CNVD-2020-56373</number><title>重庆扬浪科技有限责任公司oa办公系统存在SQL注入漏洞</title><serverity>高</serverity><products><product>重庆扬浪科技有限责任公司 办公OA系统 </product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-08-26</submitTime><openTime>2020-10-10</openTime><discovererName>noyes</discovererName><formalWay>厂商尚未提供漏洞修复方案，请关注厂商主页更新： &#xD;
+http://www.cqylsoft.com/</formalWay><description>协同办公系统是一款通过流程管理、公文管理、新闻管理、知识中心、人力资源、工作总结等多领域协同模块的部署，实现从学习到工作的全程电子化，提高企业运营效率的web应用系统。
+
+重庆扬浪科技有限责任公司oa办公系统存在SQL注入漏洞，攻击者可利用该漏洞获取数据库敏感信息。</description></vulnerability><vulnerability><number>CNVD-2020-56109</number><title>正方数字化校园信息统一身份认证中心系统存在文件上传漏洞</title><serverity>高</serverity><products><product>正方软件股份有限公司 信息平台统一身份认证中心 </product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-08-26</submitTime><openTime>2020-10-10</openTime><discovererName>good_test</discovererName><formalWay>厂商已提供漏洞修补方案，请关注厂商主页及时更新：&#xD;
+http://www.zfsoft.com/</formalWay><description>正方软件股份有限公司（以下简称“正方公司”）成立于1999年1月，注册资金5050万元，是一家专业从事高校教育信息化领域咨询、规划、建设和服务的软件企业和高新技术企业。
+
+正方数字化校园信息统一身份认证中心系统存在文件上传漏洞，攻击者可利用该漏洞获取服务器控制权。</description></vulnerability><vulnerability><number>CNVD-2020-56116</number><title>凡诺企业网站管理系统PHP 3.5存在文件包含漏洞</title><serverity>高</serverity><products><product>沧州市凡诺广告传媒有限公司 凡诺企业网站管理系统（PHP版） 3.5</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-08-26</submitTime><openTime>2020-10-10</openTime><discovererName>276793422</discovererName><formalWay>厂商尚未提供漏洞修复方案，请关注厂商主页更新&#xD;
+http://www.fannuo.cn</formalWay><description>凡诺企业网站管理系统PHP是基于php+MySQL开发的企业网站管理系统。
+
+凡诺企业网站管理系统PHP 3.5存在文件包含漏洞，攻击者可利用该漏洞获取服务器控制权。</description></vulnerability><vulnerability><number>CNVD-2020-56115</number><title>凡诺企业网站管理系统PHP 3.5存在逻辑缺陷漏洞</title><serverity>中</serverity><products><product>沧州市凡诺广告传媒有限公司 凡诺企业网站管理系统（PHP版） 3.5</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-08-26</submitTime><openTime>2020-10-10</openTime><discovererName>276793422</discovererName><formalWay>厂商尚未提供漏洞修复方案，请关注厂商主页更新&#xD;
+http://www.fannuo.cn</formalWay><description>凡诺企业网站管理系统PHP是基于php+MySQL开发的企业网站管理系统。 
+
+凡诺企业网站管理系统PHP 3.5存在逻辑缺陷漏洞，攻击者可利用该漏洞暴力枚举管理员用户名密码，以此获得网站敏感信息。</description></vulnerability><vulnerability><number>CNVD-2020-56114</number><title>YouDianCMS存在SQL注入漏洞（CNVD-2020-56114）</title><serverity>中</serverity><products><product>长沙友点软件科技有限公司 YouDianCMS 8.2</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-08-26</submitTime><openTime>2020-10-10</openTime><discovererName>中科华威（北京）信息技术研究院</discovererName><formalWay>厂商尚未提供漏洞修复方案，请关注厂商主页更新： &#xD;
+http://www.youdiancms.com/</formalWay><description>YouDianCMS集电脑网站、手机网站、微信、APP、小程序于一体，共用空间，数据自动同步，是国内开源五站合一优秀解决方案。
+
+YouDianCMS存在SQL注入漏洞，攻击者可利用该漏洞获取数据库敏感信息。</description></vulnerability><vulnerability><number>CNVD-2020-56108</number><title>Vertiv UPS管理模块FTP服务任意文件修改漏洞</title><serverity>中</serverity><products><product>维谛技术有限公司 UPS </product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-08-26</submitTime><openTime>2020-10-10</openTime><discovererName>平安银河实验室</discovererName><formalWay>厂商尚未提供漏洞修复方案，请关注厂商主页更新：&#xD;
+https://www.vertiv.com/zh-CN/about/</formalWay><description>维谛技术有限公司（Vertiv），成立于2000年。维谛技术公司设计、制造关键基础设备并提供相关服务，保障数据中心、通信网、商业和工业设施良好运行，为移动和云计算市场提供供配电、热管理和基础设施管理解决方案。 
+
+Vertiv UPS管理模块FTP服务任意文件修改漏洞，攻击者能够通过该漏洞修改/etc/passwd文件中的root密码。</description></vulnerability><vulnerability><number>CNVD-2020-56107</number><title>大黄蜂网校系统V5.0.4存在任意文件上传漏洞</title><serverity>高</serverity><products><product>深圳市超时代软件有限公司 大黄蜂网校系统 V5.0.4</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-08-26</submitTime><openTime>2020-10-10</openTime><discovererName>oneradish2</discovererName><formalWay>厂商暂未提供修复方案，请关注厂商网站及时更新: &#xD;
+https://www.360dhf.cn/ </formalWay><description>大黄蜂网校系统是一款使用国内优秀开源框架THinkPHP，基于PHP+MySQL开发，采用B/S架构，是为中小企业提供的开源视频管理系统。
+
+大黄蜂网校系统V5.0.4存在任意文件上传漏洞，攻击者可利用该漏洞向服务器提交任意文件，获取服务器控制权限。</description></vulnerability><vulnerability><number>CNVD-2020-56102</number><title>Windows rndis 5.1驱动存在二进制漏洞</title><serverity>中</serverity><products><product>Microsoft rndis 5.1</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-08-26</submitTime><openTime>2020-10-10</openTime><discovererName>陈楠、施伟铭、马新杰</discovererName><formalWay>厂商尚未提供漏洞修复方案，请关注厂商主页更新： &#xD;
+https://www.microsoft.com/</formalWay><description>rndis是W10系统远端网络驱动接口协议。
+
+Windows rndis 5.1驱动存在二进制漏洞,攻击者可利用该漏洞造成拒绝服务攻击。</description></vulnerability><vulnerability><number>CNVD-2020-56103</number><title>安徽环美智能科技有限公司多个系统存在未授权访问漏洞</title><serverity>中</serverity><products><product>安徽环美智能科技有限公司 污染源智能数据管理云平台 </product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-08-26</submitTime><openTime>2020-10-10</openTime><discovererName>王晓帅</discovererName><formalWay>厂商尚未提供漏洞修复方案，请关注厂商主页更新： &#xD;
+http://www.huanmei.cc/</formalWay><description>安徽环美智能科技有限公司（以下简称"环美智能"），成立于2007年5月11日，是专业从事环境物联网、环保信息化、智能数据采集等环保行业技术咨询、技术研发和技术服务的国家高新技术企业，提供"感知监测、数据采集传输、软件研发、应用集成及运营维护"的环保一体化解决方案。
+
+安徽环美智能科技有限公司多个系统存在未授权访问漏洞，攻击者可利用该漏洞获取敏感信息。</description></vulnerability><vulnerability><number>CNVD-2020-56101</number><title>Windows rndis 5.1驱动存在二进制漏洞（CNVD-2020-56101）</title><serverity>中</serverity><products><product>Microsoft rndis 5.1</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-08-26</submitTime><openTime>2020-10-10</openTime><discovererName>陈楠、施伟铭、马新杰</discovererName><formalWay>厂商尚未提供漏洞修复方案，请关注厂商主页更新： &#xD;
+https://www.microsoft.com/</formalWay><description>rndis是W10系统远端网络驱动接口协议。
+
+Windows rndis 5.1驱动存在二进制漏洞,攻击者可利用该漏洞造成拒绝服务攻击。</description></vulnerability><vulnerability><number>CNVD-2020-56100</number><title>Windows rndis 6.0驱动存在二进制漏洞</title><serverity>中</serverity><products><product>Microsoft rndis 6.0</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-08-26</submitTime><openTime>2020-10-10</openTime><discovererName>陈楠、施伟铭、马新杰</discovererName><formalWay>厂商尚未提供漏洞修复方案，请关注厂商主页更新：&#xD;
+https://www.microsoft.com/&#xD;
+&#xD;
+</formalWay><description>rndis是W10系统远端网络驱动接口协议。
+
+Windows rndis 6.0驱动存在二进制漏洞，攻击者可利用该漏洞造成拒绝服务。</description></vulnerability><vulnerability><number>CNVD-2020-56099</number><title>Windows rndis 6.0驱动存在二进制漏洞（CNVD-2020-56099）</title><serverity>中</serverity><products><product>Microsoft rndis 6.0</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-08-26</submitTime><openTime>2020-10-10</openTime><discovererName>陈楠、施伟铭、马新杰</discovererName><formalWay>厂商尚未提供漏洞修复方案，请关注厂商主页更新： &#xD;
+https://www.microsoft.com/</formalWay><description>rndis是W10系统远端网络驱动接口协议。
+
+Windows rndis 6.0 驱动存在二进制漏洞，攻击者可利用该漏洞造成拒绝服务。</description></vulnerability><vulnerability><number>CNVD-2020-56098</number><title>UCMS存在命令执行漏洞</title><serverity>高</serverity><products><product>UCMS UCMS 1.4.8</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-08-26</submitTime><openTime>2020-10-10</openTime><discovererName>素念</discovererName><formalWay>厂商尚未提供漏洞修复方案，请关注厂商主页更新： &#xD;
+http://uuu.la</formalWay><description>UCMS是一款简单的网站内容管理系统。
+
+UCMS存在命令执行漏洞，攻击者可利用该漏洞获取服务器管理权限。</description></vulnerability><vulnerability><number>CNVD-2020-55992</number><title>海南易而优科技有限公司Ebuycms存在统逻辑缺陷漏洞</title><serverity>中</serverity><products><product>海南易而优科技有限公司 Ebuycms 1.5</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-08-27</submitTime><openTime>2020-10-11</openTime><discovererName>jjb</discovererName><formalWay>厂商尚未提供漏洞修复方案，请关注厂商主页更新：&#xD;
+https://www.ebuycms.com/</formalWay><description>Ebuycms是一款专为广大中小企业开发的电子商务商城平台系统。
+
+海南易而优科技有限公司Ebuycms存在统逻辑缺陷漏洞，攻击者可利用该漏洞重复获取优惠券。</description></vulnerability><vulnerability><number>CNVD-2020-55991</number><title>首岳资讯网络股份有限公司建站系统存在SQL注入漏洞</title><serverity>高</serverity><products><product>首岳资讯网路股份有限公司 建站系统  </product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-08-27</submitTime><openTime>2020-10-11</openTime><discovererName>dashu</discovererName><formalWay>厂商尚未提供漏洞修复方案，请关注厂商主页更新：&#xD;
+https://www.atteipo.com.tw/</formalWay><description>首岳资讯网络股份有限公司是一家结合资讯网络、行销通路、系统软件等各项专长人才的公司。
+
+首岳资讯网络股份有限公司建站系统存在SQL注入漏洞，攻击者可利用该漏洞获取数据库敏感信息。</description></vulnerability><vulnerability><number>CNVD-2020-55990</number><title>北京东土科技股份有限公司KPS2204存在命令执行漏洞</title><serverity>高</serverity><products><product>北京东土科技股份有限公司 KPS2204 </product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-08-27</submitTime><openTime>2020-10-11</openTime><discovererName>涂腾飞，秦佳伟，齐振庆，黄越，彭广明，张嘉玮</discovererName><formalWay>厂商尚未提供漏洞修复方案，请关注厂商主页更新：&#xD;
+https://www.kyland.com.cn/</formalWay><description>KPS2204是专为串口设备联网应用而开发的可编程协议转换器。
+
+北京东土科技股份有限公司KPS2204存在命令执行漏洞，攻击者可利用该漏洞执行任意命令。</description></vulnerability><vulnerability><number>CNVD-2020-55989</number><title>上海二三四五移动科技有限公司2345看图王存在二进制漏洞</title><serverity>中</serverity><products><product>上海二三四五移动科技有限公司 2345看图王 9.3正式版</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-08-27</submitTime><openTime>2020-10-11</openTime><discovererName>fstark</discovererName><formalWay>厂商尚未提供漏洞修复方案，请关注厂商主页更新：&#xD;
+http://pic.2345.cc/</formalWay><description>2345看图王是上海二三四五网络科技有限公司主推的一款图片浏览管理软件。
+
+上海二三四五移动科技有限公司2345看图王存在二进制漏洞，攻击者可利用该漏洞导致拒绝服务。</description></vulnerability><vulnerability><number>CNVD-2020-55988</number><title>北京东土科技股份有限公司KPS2204存在信息泄露漏洞</title><serverity>中</serverity><products><product>北京东土科技股份有限公司 KPS2204 </product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-08-27</submitTime><openTime>2020-10-11</openTime><discovererName>涂腾飞、秦佳伟、陈佳豪、赵春辉、彭广明、曹可建</discovererName><formalWay>厂商尚未提供漏洞修复方案，请关注厂商主页更新：&#xD;
+https://www.kyland.com.cn/</formalWay><description>KPS2204是专为串口设备联网应用而开发的可编程协议转换器。
+
+北京东土科技股份有限公司KPS2204存在信息泄露漏洞，攻击者可利用该漏洞获取敏感信息。</description></vulnerability><vulnerability><number>CNVD-2020-55986</number><title>ClickHouse存在未授权访问漏洞</title><serverity>中</serverity><products><product>ClickHouse ClickHouse </product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-08-27</submitTime><openTime>2020-10-11</openTime><discovererName>Admin@123</discovererName><formalWay>厂商尚未提供漏洞修复方案，请关注厂商主页更新：&#xD;
+https://clickhouse.tech/</formalWay><description>ClickHouse是一款开源的列式数据库。
+
+ClickHouse存在未授权访问漏洞，攻击者可利用该漏洞获取敏感信息。</description></vulnerability><vulnerability><number>CNVD-2020-54948</number><cves><cve><cveNumber>CVE-2020-24313</cveNumber><cveUrl>https://nvd.nist.gov/vuln/detail/CVE-2020-24313</cveUrl></cve></cves><title>WordPress跨站脚本漏洞（CNVD-2020-54948）</title><serverity>中</serverity><products><product>WordPress Ultimate Appointment Booking &amp; Scheduling &lt;=1.1.9</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-08-28</submitTime><openTime>2020-10-08</openTime><referenceLink>https://zeroaptitude.com/zerodetail/wordpress-plugin-bug-hunting-part-1/</referenceLink><formalWay>目前厂商暂未发布修复措施解决此安全问题，建议使用此软件的用户随时关注厂商主页或参考网址以获取解决办法：&#xD;
+&#xD;
+https://wordpress.org/plugins/ultimate-appointment-scheduling/ </formalWay><description>WordPress是一种使用PHP语言开发的博客平台，该平台支持在PHP和MySQL的服务器上架设个人博客网站。在国际上广泛使用了，可以兼容自开发的插件。功能强大，应用广泛。Ultimate Appointment Booking &amp; Scheduling插件让客户使用易于使用的日历和预订表格直接在网站上安排约会。
+
+Ultimate Appointment Booking &amp; Scheduling v1.1.9及之前版本存在跨站脚本漏洞。该漏洞与受影响版本未能正确验证客户端数据有关。Ultimate Appointment Booking &amp; Scheduling在将其回显到输入标签之前未清理“ Appointment_ID” GET参数的值，这导致了反射型XSS漏洞，攻击者可以使用特制URL加以利用。攻击者可利用该漏洞执行客户端代码。</description></vulnerability><vulnerability><number>CNVD-2020-54957</number><cves><cve><cveNumber>CVE-2020-24739</cveNumber><cveUrl>https://nvd.nist.gov/vuln/detail/CVE-2020-24739</cveUrl></cve></cves><title>iCMS跨站请求伪造漏洞（CNVD-2020-54957）</title><serverity>中</serverity><products><product>iCMS iCMS 7.0.0</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-09-12</submitTime><openTime>2020-10-09</openTime><referenceLink>https://nvd.nist.gov/vuln/detail/CVE-2020-15188</referenceLink><formalWay>厂商尚未提供漏洞修复方案，请关注厂商主页更新：&#xD;
+https://github.com/idreamsoft/iCMS/issues/76</formalWay><description>iCMS是一套采用PHP和MySQL数据库构建的内容管理系统（CMS）。
+
+iCMS v7.0.0中存在跨站请求伪造漏洞。该漏洞源于WEB应用未充分验证请求是否来自可信用户。攻击者可利用该漏洞通过受影响客户端向服务器发送非预期的请求。</description></vulnerability><vulnerability><number>CNVD-2020-54947</number><cves><cve><cveNumber>CVE-2020-25727</cveNumber><cveUrl>https://nvd.nist.gov/vuln/detail/CVE-2020-25727</cveUrl></cve></cves><title>Alfresco sql注入漏洞</title><serverity>中</serverity><products><product>Alfresco Alfresco &lt;1.2.0</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-09-18</submitTime><openTime>2020-10-08</openTime><referenceLink>https://nvd.nist.gov/vuln/detail/CVE-2020-19455</referenceLink><formalWay>厂商已发布了漏洞修复程序，请及时关注更新：&#xD;
+https://amriunix.com/post/alfresco-reset-password-add-on-0-day-vulnerabilities/</formalWay><description>Alfresco是一款开源的企业内容管理系统。该平台页面采用Freemarker开发，主要功能包括文档管理、协作、记录管理、知识库管理、Web内容管理等。
+
+Alfresco 1.2.0之前版本中存在sql注入漏洞。攻击者可利用该漏洞在电子邮件输入字段中注入查询。 </description><patchName>Alfresco sql注入漏洞的补丁</patchName><patchDescription>Alfresco是一款开源的企业内容管理系统。该平台页面采用Freemarker开发，主要功能包括文档管理、协作、记录管理、知识库管理、Web内容管理等。&#xD;
+&#xD;
+Alfresco 1.2.0之前版本中存在sql注入漏洞。攻击者可利用该漏洞在电子邮件输入字段中注入查询。目前，供应商发布了安全公告及相关补丁信息，修复了此漏洞。</patchDescription></vulnerability><vulnerability><number>CNVD-2020-55000</number><cves><cve><cveNumber>CVE-2020-15677</cveNumber><cveUrl>https://nvd.nist.gov/vuln/detail/CVE-2020-15677</cveUrl></cve></cves><title>Mozilla Firefox输入验证错误漏洞（CNVD-2020-55000）</title><serverity>中</serverity><products><product>Mozilla Firefox &lt; 81</product><product>Mozilla Thunderbird &lt; 78.3</product><product>Mozilla Firefox ESR &lt; 78.3</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-09-23</submitTime><openTime>2020-10-10</openTime><referenceLink>https://access.redhat.com/security/cve/cve-2020-15677</referenceLink><formalWay>厂商已发布了漏洞修复程序，请及时关注更新：&#xD;
+https://www.mozilla.org/en-US/firefox/81.0/releasenotes/</formalWay><description>Mozilla Firefox是美国Mozilla基金会的一款开源Web浏览器。
+
+Mozilla Firefox 存在输入验证错误漏洞。该漏洞源于网络系统或产品未对输入的数据进行正确的验证。远程攻击者可利用该漏洞覆盖或列出设备上的任意文件。</description><patchName>Mozilla Firefox输入验证错误漏洞（CNVD-2020-55000）的补丁</patchName><patchDescription>Mozilla Firefox是美国Mozilla基金会的一款开源Web浏览器。&#xD;
+&#xD;
+Mozilla Firefox 存在输入验证错误漏洞。该漏洞源于网络系统或产品未对输入的数据进行正确的验证。远程攻击者可利用该漏洞覆盖或列出设备上的任意文件。目前，供应商发布了安全公告及相关补丁信息，修复了此漏洞。</patchDescription></vulnerability><vulnerability><number>CNVD-2020-54999</number><cves><cve><cveNumber>CVE-2020-15678</cveNumber><cveUrl>https://nvd.nist.gov/vuln/detail/CVE-2020-15678</cveUrl></cve></cves><title>Mozilla Firefox资源管理错误漏洞（CNVD-2020-54999）</title><serverity>中</serverity><products><product>Mozilla Firefox &lt; 81</product><product>Mozilla Thunderbird &lt; 78.3</product><product>Mozilla Firefox ESR &lt; 78.3</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-09-23</submitTime><openTime>2020-10-10</openTime><referenceLink>https://access.redhat.com/security/cve/cve-2020-15678</referenceLink><formalWay>厂商已发布了漏洞修复程序，请及时关注更新：&#xD;
+https://www.mozilla.org/en-US/firefox/81.0/releasenotes/</formalWay><description>Mozilla Firefox是美国Mozilla基金会的一款开源Web浏览器。
+
+Mozilla Firefox 存在资源管理错误漏洞。该漏洞源于网络系统或产品对系统资源（如内存、磁盘空间、文件等）的管理不当。攻击者可利用该漏洞对系统资源进行非法访问或破坏。</description><patchName>Mozilla Firefox资源管理错误漏洞（CNVD-2020-54999）的补丁</patchName><patchDescription>Mozilla Firefox是美国Mozilla基金会的一款开源Web浏览器。&#xD;
+&#xD;
+Mozilla Firefox 存在资源管理错误漏洞。该漏洞源于网络系统或产品对系统资源（如内存、磁盘空间、文件等）的管理不当。攻击者可利用该漏洞对系统资源进行非法访问或破坏。目前，供应商发布了安全公告及相关补丁信息，修复了此漏洞。</patchDescription></vulnerability><vulnerability><number>CNVD-2020-55183</number><cves><cve><cveNumber>CVE-2020-2280</cveNumber><cveUrl>https://nvd.nist.gov/vuln/detail/CVE-2020-2280</cveUrl></cve></cves><title>CloudBees Jenkins跨站请求伪造漏洞（CNVD-2020-55183）</title><serverity>中</serverity><products><product>CloudBees Jenkins Warnings &lt;=5.0.1</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-09-25</submitTime><openTime>2020-10-09</openTime><referenceLink>https://nvd.nist.gov/vuln/detail/CVE-2020-2280</referenceLink><formalWay>目前厂商已发布升级补丁以修复漏洞，补丁获取链接：&#xD;
+https://www.jenkins.io/security/advisory/2020-09-23/#SECURITY-1958</formalWay><description>CloudBees Jenkins（Hudson Labs）是美国CloudBees公司的一套基于Java开发的持续集成工具。该产品主要用于监控持续的软件版本发布/测试项目和一些定时执行的任务。
+
+Jenkins Warnings 插件5.0.1版本及之前版本存在跨站请求伪造漏洞，该漏洞源于WEB应用未充分验证请求是否来自可信用户。攻击者可利用该漏洞通过受影响客户端向服务器发送非预期的请求。</description><patchName>CloudBees Jenkins跨站请求伪造漏洞（CNVD-2020-55183）的补丁</patchName><patchDescription>CloudBees Jenkins（Hudson Labs）是美国CloudBees公司的一套基于Java开发的持续集成工具。该产品主要用于监控持续的软件版本发布/测试项目和一些定时执行的任务。&#xD;
+&#xD;
+Jenkins Warnings 插件5.0.1版本及之前版本存在跨站请求伪造漏洞，该漏洞源于WEB应用未充分验证请求是否来自可信用户。攻击者可利用该漏洞通过受影响客户端向服务器发送非预期的请求。目前，供应商发布了安全公告及相关补丁信息，修复了此漏洞。</patchDescription></vulnerability><vulnerability><number>CNVD-2020-55182</number><cves><cve><cveNumber>CVE-2020-15206</cveNumber><cveUrl>https://nvd.nist.gov/vuln/detail/CVE-2020-15206</cveUrl></cve></cves><title>Google TensorFlow输入验证错误漏洞（CNVD-2020-55182）</title><serverity>中</serverity><products><product>Google TensorFlow &lt;1.15.4</product><product>Google TensorFlow 2.0.3</product><product>Google TensorFlow 2.1.2</product><product>Google TensorFlow 2.2.1</product><product>Google TensorFlow 2.3.1</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-09-28</submitTime><openTime>2020-10-09</openTime><referenceLink>https://nvd.nist.gov/vuln/detail/CVE-2020-15206</referenceLink><formalWay>目前厂商已发布升级补丁以修复漏洞，补丁获取链接：&#xD;
+https://github.com/tensorflow/tensorflow/releases/tag/v2.3.1</formalWay><description>Google TensorFlow是美国谷歌（Google）公司的一套用于机器学习的端到端开源平台。
+
+Tensorflow 1.15.4之前版本, 2.0.3版本, 2.1.2版本, 2.2.1版本，2.3.1版本中存在输入验证错误漏洞，该漏洞源于程序未能充分进行路径限制。该漏洞允许攻击者使用tensorflow-serving服务或其他分期付款的产品导致拒绝服务。</description><patchName>Google TensorFlow输入验证错误漏洞（CNVD-2020-55182）的补丁</patchName><patchDescription>Google TensorFlow是美国谷歌（Google）公司的一套用于机器学习的端到端开源平台。&#xD;
+&#xD;
+Tensorflow 1.15.4之前版本, 2.0.3版本, 2.1.2版本, 2.2.1版本，2.3.1版本中存在输入验证错误漏洞，该漏洞源于程序未能充分进行路径限制。该漏洞允许攻击者使用tensorflow-serving服务或其他分期付款的产品导致拒绝服务。目前，供应商发布了安全公告及相关补丁信息，修复了此漏洞。</patchDescription></vulnerability><vulnerability><number>CNVD-2020-55181</number><cves><cve><cveNumber>CVE-2019-11556</cveNumber><cveUrl>https://nvd.nist.gov/vuln/detail/CVE-2019-11556</cveUrl></cve></cves><title>Pagure输入验证错误漏洞</title><serverity>低</serverity><products><product>Pagure Pagure &lt;5.6</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-09-28</submitTime><openTime>2020-10-09</openTime><referenceLink>https://nvd.nist.gov/vuln/detail/CVE-2019-11556</referenceLink><formalWay>目前厂商已发布升级补丁以修复漏洞，补丁获取链接：&#xD;
+https://pagure.io/pagure/c/31a0d2950ed409550074ca52ba492f9b87ec3318?branch=ab39e95ed4dc8367e5e146e6d9a9fa6925b75618</formalWay><description>Pagure是一款使用Python编写的提供Web服务的Git仓库。
+
+Pagure 5.6之前版本存在跨站脚本漏洞，该漏洞源于WEB应用缺少对客户端数据的正确验证。攻击者可利用该漏洞执行客户端代码。</description><patchName>Pagure输入验证错误漏洞的补丁</patchName><patchDescription>Pagure是一款使用Python编写的提供Web服务的Git仓库。&#xD;
+&#xD;
+Pagure 5.6之前版本存在跨站脚本漏洞，该漏洞源于WEB应用缺少对客户端数据的正确验证。攻击者可利用该漏洞执行客户端代码。目前，供应商发布了安全公告及相关补丁信息，修复了此漏洞。</patchDescription></vulnerability><vulnerability><number>CNVD-2020-55180</number><cves><cve><cveNumber>CVE-2020-26115</cveNumber><cveUrl>https://nvd.nist.gov/vuln/detail/CVE-2020-26115</cveUrl></cve></cves><title>cPanel跨站脚本漏洞（CNVD-2020-55180）</title><serverity>中</serverity><products><product>cPanel cPanel &lt;90.0.10</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-09-28</submitTime><openTime>2020-10-09</openTime><referenceLink>https://nvd.nist.gov/vuln/detail/CVE-2020-26115</referenceLink><formalWay>目前厂商已发布升级补丁以修复漏洞，补丁获取链接：&#xD;
+https://docs.cpanel.net/changelogs/90-change-log/</formalWay><description>cPanel是美国cPanel公司的一套基于Web的自动化主机托管平台。该平台主要用于自动化管理网站和服务器。
+
+cPanel 90.0.10之前版本存在跨站脚本漏洞，该漏洞源于允许通过Cron编辑器接口进行self XSS。目前没有详细漏洞细节提供。</description><patchName>cPanel跨站脚本漏洞（CNVD-2020-55180）的补丁</patchName><patchDescription>cPanel是美国cPanel公司的一套基于Web的自动化主机托管平台。该平台主要用于自动化管理网站和服务器。&#xD;
+&#xD;
+cPanel 90.0.10之前版本存在跨站脚本漏洞，该漏洞源于允许通过Cron编辑器接口进行self XSS。目前没有详细漏洞细节提供。目前，供应商发布了安全公告及相关补丁信息，修复了此漏洞。</patchDescription></vulnerability><vulnerability><number>CNVD-2020-55179</number><cves><cve><cveNumber>CVE-2020-26114</cveNumber><cveUrl>https://nvd.nist.gov/vuln/detail/CVE-2020-26114</cveUrl></cve></cves><title>cPanel跨站脚本漏洞（CNVD-2020-55179）</title><serverity>中</serverity><products><product>cPanel cPanel &lt;90.0.10</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-09-28</submitTime><openTime>2020-10-09</openTime><referenceLink>https://nvd.nist.gov/vuln/detail/CVE-2020-26114</referenceLink><formalWay>目前厂商已发布升级补丁以修复漏洞，补丁获取链接：&#xD;
+https://docs.cpanel.net/changelogs/90-change-log/</formalWay><description>cPanel是美国cPanel公司的一套基于Web的自动化主机托管平台。该平台主要用于自动化管理网站和服务器。
+
+cPanel 90.0.10之前版本存在跨站脚本漏洞，该漏洞源于允许通过Cron作业接口进行self XSS。目前没有详细漏洞细节提供。</description><patchName>cPanel跨站脚本漏洞（CNVD-2020-55179）的补丁</patchName><patchDescription>cPanel是美国cPanel公司的一套基于Web的自动化主机托管平台。该平台主要用于自动化管理网站和服务器。&#xD;
+&#xD;
+cPanel 90.0.10之前版本存在跨站脚本漏洞，该漏洞源于允许通过Cron作业接口进行self XSS。目前没有详细漏洞细节提供。目前，供应商发布了安全公告及相关补丁信息，修复了此漏洞。</patchDescription></vulnerability><vulnerability><number>CNVD-2020-55177</number><cves><cve><cveNumber>CVE-2020-26111</cveNumber><cveUrl>https://nvd.nist.gov/vuln/detail/CVE-2020-26111</cveUrl></cve></cves><title>cPanel跨站脚本漏洞（CNVD-2020-55177）</title><serverity>中</serverity><products><product>cPanel cPanel &lt;90.0.10</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-09-28</submitTime><openTime>2020-10-09</openTime><referenceLink>https://nvd.nist.gov/vuln/detail/CVE-2020-26111</referenceLink><formalWay>目前厂商已发布升级补丁以修复漏洞，补丁获取链接：&#xD;
+https://docs.cpanel.net/changelogs/90-change-log/</formalWay><description>cPanel是美国cPanel公司的一套基于Web的自动化主机托管平台。该平台主要用于自动化管理网站和服务器。
+
+cPanel 90.0.10之前版本存在跨站脚本漏洞，该漏洞源于允许通过WHM编辑DNS区域接口的self XSS。目前没有详细漏洞细节提供。</description><patchName>cPanel跨站脚本漏洞（CNVD-2020-55177）的补丁</patchName><patchDescription>cPanel是美国cPanel公司的一套基于Web的自动化主机托管平台。该平台主要用于自动化管理网站和服务器。&#xD;
+&#xD;
+cPanel 90.0.10之前版本存在跨站脚本漏洞，该漏洞源于允许通过WHM编辑DNS区域接口的self XSS。目前没有详细漏洞细节提供。目前，供应商发布了安全公告及相关补丁信息，修复了此漏洞。</patchDescription></vulnerability><vulnerability><number>CNVD-2020-55178</number><cves><cve><cveNumber>CVE-2020-26110</cveNumber><cveUrl>https://nvd.nist.gov/vuln/detail/CVE-2020-26110</cveUrl></cve></cves><title>cPanel跨站脚本漏洞（CNVD-2020-55178）</title><serverity>中</serverity><products><product>cPanel cPanel &lt;88.0.13</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-09-28</submitTime><openTime>2020-10-09</openTime><referenceLink>https://nvd.nist.gov/vuln/detail/CVE-2020-26110</referenceLink><formalWay>目前厂商已发布升级补丁以修复漏洞，补丁获取链接：&#xD;
+https://docs.cpanel.net/changelogs/88-change-log/</formalWay><description>cPanel是美国cPanel公司的一套基于Web的自动化主机托管平台。该平台主要用于自动化管理网站和服务器。
+
+cPanel 88.0.13之前版本存在跨站脚本漏洞，该漏洞源于允许通过DNS区域管理器DNSSEC接口进行self XSS。目前没有详细漏洞细节提供。</description><patchName>cPanel跨站脚本漏洞（CNVD-2020-55178）的补丁</patchName><patchDescription>cPanel是美国cPanel公司的一套基于Web的自动化主机托管平台。该平台主要用于自动化管理网站和服务器。&#xD;
+&#xD;
+cPanel 88.0.13之前版本存在跨站脚本漏洞，该漏洞源于允许通过DNS区域管理器DNSSEC接口进行self XSS。目前没有详细漏洞细节提供。目前，供应商发布了安全公告及相关补丁信息，修复了此漏洞。</patchDescription></vulnerability><vulnerability><number>CNVD-2020-55176</number><cves><cve><cveNumber>CVE-2020-26099</cveNumber><cveUrl>https://nvd.nist.gov/vuln/detail/CVE-2020-26099</cveUrl></cve></cves><title>cPanel访问控制错误漏洞（CNVD-2020-55176）</title><serverity>中</serverity><products><product>cPanel cPanel &lt;88.0.3</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-09-28</submitTime><openTime>2020-10-09</openTime><referenceLink>https://nvd.nist.gov/vuln/detail/CVE-2020-26099</referenceLink><formalWay>目前厂商已发布升级补丁以修复漏洞，补丁获取链接：&#xD;
+https://docs.cpanel.net/changelogs/88-change-log/</formalWay><description>cPanel是美国cPanel公司的一套基于Web的自动化主机托管平台。该平台主要用于自动化管理网站和服务器。
+
+cPanel 88.0.3之前版本存在安全漏洞，攻击者可利用该漏洞绕过SMTP灰名单保护机制。</description><patchName>cPanel访问控制错误漏洞（CNVD-2020-55176）的补丁</patchName><patchDescription>cPanel是美国cPanel公司的一套基于Web的自动化主机托管平台。该平台主要用于自动化管理网站和服务器。&#xD;
+&#xD;
+cPanel 88.0.3之前版本存在安全漏洞，攻击者可利用该漏洞绕过SMTP灰名单保护机制。目前，供应商发布了安全公告及相关补丁信息，修复了此漏洞。</patchDescription></vulnerability><vulnerability><number>CNVD-2020-55175</number><cves><cve><cveNumber>CVE-2020-24615</cveNumber><cveUrl>https://nvd.nist.gov/vuln/detail/CVE-2020-24615</cveUrl></cve></cves><title>Pexip Infinity输入验证错误漏洞（CNVD-2020-55175）</title><serverity>中</serverity><products><product>Pexip Pexip Infinity &lt;24.1</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-09-28</submitTime><openTime>2020-10-09</openTime><referenceLink>https://nvd.nist.gov/vuln/detail/CVE-2020-24615</referenceLink><formalWay>目前厂商已发布升级补丁以修复漏洞，补丁获取链接：&#xD;
+https://docs.pexip.com/admin/security_bulletins.htm</formalWay><description>Pexip Infinity是挪威派世（pexip）公司的一款视频会议云协作平台，组织可以在其IT基础设施、公共或私有云或任何混合组合中部署的视频通信软件，以使每个人都可以拥有自己的个人高质量视频、音频及移动会议体验。
+
+Pexip Infinity 24.1之前版本存在输入验证错误漏洞，该漏洞源于输入验证不当。攻击者可通过SIP利用该漏洞导致暂时拒绝服务。</description><patchName>Pexip Infinity输入验证错误漏洞（CNVD-2020-55175）的补丁</patchName><patchDescription>Pexip Infinity是挪威派世（pexip）公司的一款视频会议云协作平台，组织可以在其IT基础设施、公共或私有云或任何混合组合中部署的视频通信软件，以使每个人都可以拥有自己的个人高质量视频、音频及移动会议体验。&#xD;
+&#xD;
+Pexip Infinity 24.1之前版本存在输入验证错误漏洞，该漏洞源于输入验证不当。攻击者可通过SIP利用该漏洞导致暂时拒绝服务。目前，供应商发布了安全公告及相关补丁信息，修复了此漏洞。</patchDescription></vulnerability><vulnerability><number>CNVD-2020-55174</number><cves><cve><cveNumber>CVE-2020-13387</cveNumber><cveUrl>https://nvd.nist.gov/vuln/detail/CVE-2020-13387</cveUrl></cve></cves><title>Pexip Infinity输入验证错误漏洞（CNVD-2020-55174）</title><serverity>中</serverity><products><product>Pexip Pexip Infinity &lt;23.4</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-09-28</submitTime><openTime>2020-10-09</openTime><referenceLink>https://nvd.nist.gov/vuln/detail/CVE-2020-13387</referenceLink><formalWay>目前厂商已发布升级补丁以修复漏洞，补丁获取链接：&#xD;
+https://docs.pexip.com/admin/security_bulletins.htm</formalWay><description>Pexip Infinity是挪威派世（pexip）公司的一款视频会议云协作平台，组织可以在其IT基础设施、公共或私有云或任何混合组合中部署的视频通信软件，以使每个人都可以拥有自己的个人高质量视频、音频及移动会议体验。
+
+Pexip Infinity 23.4 之前版本存在输入验证错误漏洞，该漏洞源于缺少输入验证。攻击者可通过H.323利用该漏洞导致暂时拒绝服务。</description><patchName>Pexip Infinity输入验证错误漏洞（CNVD-2020-55174）的补丁</patchName><patchDescription>Pexip Infinity是挪威派世（pexip）公司的一款视频会议云协作平台，组织可以在其IT基础设施、公共或私有云或任何混合组合中部署的视频通信软件，以使每个人都可以拥有自己的个人高质量视频、音频及移动会议体验。&#xD;
+&#xD;
+Pexip Infinity 23.4 之前版本存在输入验证错误漏洞，该漏洞源于缺少输入验证。攻击者可通过H.323利用该漏洞导致暂时拒绝服务。目前，供应商发布了安全公告及相关补丁信息，修复了此漏洞。</patchDescription></vulnerability><vulnerability><number>CNVD-2020-57075</number><cves><cve><cveNumber>CVE-2020-15192</cveNumber><cveUrl>https://nvd.nist.gov/vuln/detail/CVE-2020-15192</cveUrl></cve></cves><title>Google Tensorflow存在未明漏洞（CNVD-2020-57075）</title><serverity>中</serverity><products><product>Google Google TensorFlow-lite 2.3.1</product><product>Google Google TensorFlow &lt;2.2.1</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-10-10</submitTime><openTime>2020-10-07</openTime><referenceLink>https://github.com/tensorflow/tensorflow/releases/tag/v2.3.1</referenceLink><formalWay>目前厂商已发布升级补丁以修复漏洞，补丁获取链接：&#xD;
+https://github.com/tensorflow/tensorflow/releases/tag/v2.3.1</formalWay><description>Google TensorFlow是美国谷歌（Google）公司的一套用于机器学习的端到端开源平台。
+
+Tensorflow  2.2.1之前版本，2.3.1版本中存在安全漏洞，攻击者可利用该漏洞造成内存泄漏问题。</description><patchName>Google Tensorflow存在未明漏洞（CNVD-2020-57075）的补丁</patchName><patchDescription>Google TensorFlow是美国谷歌（Google）公司的一套用于机器学习的端到端开源平台。&#xD;
+&#xD;
+Tensorflow  2.2.1之前版本，2.3.1版本中存在安全漏洞，攻击者可利用该漏洞造成内存泄漏问题。目前，供应商发布了安全公告及相关补丁信息，修复了此漏洞。</patchDescription></vulnerability><vulnerability><number>CNVD-2020-57074</number><cves><cve><cveNumber>CVE-2020-15194</cveNumber><cveUrl>https://nvd.nist.gov/vuln/detail/CVE-2020-15194</cveUrl></cve></cves><title>Google Tensorflow  SparseFillEmptyRowsGrad存在未明漏洞</title><serverity>中</serverity><products><product>Google Google TensorFlow-lite &lt;1.15.4</product><product>Google Google TensorFlow-lite 2.0.3</product><product>Google Google TensorFlow-lite 2.1.2</product><product>Google Google TensorFlow-lite 2.2.1</product><product>Google Google TensorFlow-lite 2.3.1</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-10-10</submitTime><openTime>2020-10-07</openTime><referenceLink>https://github.com/tensorflow/tensorflow/releases/tag/v2.3.1</referenceLink><formalWay>目前厂商已发布升级补丁以修复漏洞，补丁获取链接：&#xD;
+https://github.com/tensorflow/tensorflow/releases/tag/v2.3.1</formalWay><description>Google TensorFlow是美国谷歌（Google）公司的一套用于机器学习的端到端开源平台。
+
+Tensorflow  SparseFillEmptyRowsGrad 1.15.4之前版本, 2.0.3版本, 2.1.2版本, 2.2.1版本，2.3.1版本中存在安全漏洞，该漏洞源于SparseFillEmptyRowsGrad实现对其参数形状的验证不完全，攻击者可利用该漏洞通过传递错误的grad_values_t来触发vec中的断言失败，从而导致服务安装中的服务被拒绝。</description><patchName>Google Tensorflow  SparseFillEmptyRowsGrad存在未明漏洞的补丁</patchName><patchDescription>Google TensorFlow是美国谷歌（Google）公司的一套用于机器学习的端到端开源平台。&#xD;
+&#xD;
+Tensorflow  SparseFillEmptyRowsGrad 1.15.4之前版本, 2.0.3版本, 2.1.2版本, 2.2.1版本，2.3.1版本中存在安全漏洞，该漏洞源于SparseFillEmptyRowsGrad实现对其参数形状的验证不完全，攻击者可利用该漏洞通过传递错误的grad_values_t来触发vec中的断言失败，从而导致服务安装中的服务被拒绝。目前，供应商发布了安全公告及相关补丁信息，修复了此漏洞。</patchDescription></vulnerability></vulnerabilitys>

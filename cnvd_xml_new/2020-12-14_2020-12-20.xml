@@ -1,0 +1,808 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vulnerabilitys><vulnerability><number>CNVD-2020-72715</number><cves><cve><cveNumber>CVE-2020-2934</cveNumber></cve></cves><title>Oracle MySQL Connectors存在未明漏洞（CNVD-2020-72715 ）</title><serverity>中</serverity><products><product>Oracle MySQL Connectors &lt;5.1.48</product><product>Oracle MySQL Connectors &lt;=8.0.19</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-04-16</submitTime><openTime>2020-12-18</openTime><referenceLink>https://www.debian.org/security/2020/dsa-4703</referenceLink><formalWay>目前厂商已发布升级补丁以修复漏洞，补丁获取链接：&#xD;
+https://www.oracle.com/security-alerts/cpuapr2020.html</formalWay><description>Oracle MySQL是美国甲骨文（Oracle）公司的一套开源的关系数据库管理系统。MySQL Connectors是其中的一个连接使用MySQL的应用程序的驱动程序。
+
+Oracle MySQL Connectors存在安全漏洞。攻击者可利用该漏洞未授权读取、更新、插入或删除数据，造成拒绝服务，影响数据的可用性、保密性和完整性。</description><patchName>Oracle MySQL Connectors存在未明漏洞（CNVD-2020-72715 ）的补丁</patchName><patchDescription>Oracle MySQL是美国甲骨文（Oracle）公司的一套开源的关系数据库管理系统。MySQL Connectors是其中的一个连接使用MySQL的应用程序的驱动程序。&#xD;
+&#xD;
+Oracle MySQL Connectors存在未明漏洞。攻击者可利用该漏洞未授权读取、更新、插入或删除数据，造成拒绝服务，影响数据的可用性、保密性和完整性。目前，供应商发布了安全公告及相关补丁信息，修复了此漏洞。</patchDescription></vulnerability><vulnerability><number>CNVD-2020-72714</number><cves><cve><cveNumber>CVE-2020-2756</cveNumber></cve></cves><title>Oracle Java SE和Java SE Embedded Serialization组件存在未明漏洞</title><serverity>中</serverity><products><product>Oracle Java SE 8u241</product><product>Oracle Java SE 7u251</product><product>Oracle Java SE 11.0.6</product><product>Oracle Java SE 14</product><product>Oracle Java SE Embedded 8u241</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-04-16</submitTime><openTime>2020-12-18</openTime><referenceLink>https://www.oracle.com/security-alerts/cpuapr2020.html</referenceLink><formalWay>目前厂商已发布升级补丁以修复漏洞，补丁获取链接：&#xD;
+https://www.oracle.com/security-alerts/cpuapr2020.html </formalWay><description>Oracle Java SE和Oracle Java SE Embedded都是美国甲骨文（Oracle）公司的产品。Oracle Java SE是一款用于开发和部署桌面、服务器以及嵌入设备和实时环境中的Java应用程序。Oracle Java SE Embedded是一款针对嵌入式系统的、可移植的应用程序的Java平台。
+
+Oracle Java SE和Java SE Embedded中的Serialization组件存在安全漏洞。攻击者可利用该漏洞造成拒绝服务，影响数据的可用性。</description><patchName>Oracle Java SE和Java SE Embedded Serialization组件存在未明漏洞的补丁</patchName><patchDescription>Oracle Java SE和Oracle Java SE Embedded都是美国甲骨文（Oracle）公司的产品。Oracle Java SE是一款用于开发和部署桌面、服务器以及嵌入设备和实时环境中的Java应用程序。Oracle Java SE Embedded是一款针对嵌入式系统的、可移植的应用程序的Java平台。&#xD;
+&#xD;
+Oracle Java SE和Java SE Embedded中的Serialization组件存在安全漏洞。攻击者可利用该漏洞造成拒绝服务，影响数据的可用性。目前，供应商发布了安全公告及相关补丁信息，修复了此漏洞。</patchDescription></vulnerability><vulnerability><number>CNVD-2020-72713</number><cves><cve><cveNumber>CVE-2020-2754</cveNumber></cve></cves><title>Oracle Java SE和Java SE Embedded Scripting存在未明漏洞</title><serverity>中</serverity><products><product>Oracle Java SE 8u241</product><product>Oracle Java SE 11.0.6</product><product>Oracle Java SE 14</product><product>Oracle Java SE Embedded 8u241</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-04-16</submitTime><openTime>2020-12-18</openTime><referenceLink>https://www.oracle.com/security-alerts/cpuapr2020.html</referenceLink><formalWay>目前厂商已发布升级补丁以修复漏洞，补丁获取链接：&#xD;
+https://www.oracle.com/security-alerts/cpuapr2020.html </formalWay><description>Oracle Java SE和Oracle Java SE Embedded都是美国甲骨文（Oracle）公司的产品。Oracle Java SE是一款用于开发和部署桌面、服务器以及嵌入设备和实时环境中的Java应用程序。Oracle Java SE Embedded是一款针对嵌入式系统的、可移植的应用程序的Java平台。
+
+Oracle Java SE和Java SE Embedded中的Scripting组件存在安全漏洞。攻击者可利用该漏洞造成拒绝服务，影响数据的可用性。</description><patchName>Oracle Java SE和Java SE Embedded Scripting存在未明漏洞的补丁</patchName><patchDescription>Oracle Java SE和Oracle Java SE Embedded都是美国甲骨文（Oracle）公司的产品。Oracle Java SE是一款用于开发和部署桌面、服务器以及嵌入设备和实时环境中的Java应用程序。Oracle Java SE Embedded是一款针对嵌入式系统的、可移植的应用程序的Java平台。&#xD;
+&#xD;
+Oracle Java SE和Java SE Embedded中的Scripting组件存在安全漏洞。攻击者可利用该漏洞造成拒绝服务，影响数据的可用性。目前，供应商发布了安全公告及相关补丁信息，修复了此漏洞。</patchDescription></vulnerability><vulnerability><number>CNVD-2020-72712</number><cves><cve><cveNumber>CVE-2020-2764</cveNumber></cve></cves><title>Oracle Java SE Advanced Management Console组件存在未明漏洞</title><serverity>中</serverity><products><product>Oracle Java Advanced Management Console 2.16</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-04-16</submitTime><openTime>2020-12-18</openTime><referenceLink>https://www.oracle.com/security-alerts/cpuapr2020.html </referenceLink><formalWay>目前厂商已发布升级补丁以修复漏洞，补丁获取链接：&#xD;
+https://www.oracle.com/security-alerts/cpuapr2020.html </formalWay><description>Oracle Java SE是美国甲骨文（Oracle）公司的一款用于开发和部署桌面、服务器以及嵌入设备和实时环境中的Java应用程序。
+
+Oracle Java SE中的Advanced Management Console组件2.16版本存在安全漏洞。攻击者可利用该漏洞未授权读取数据，影响数据的保密性。 </description><patchName>Oracle Java SE Advanced Management Console组件存在未明漏洞的补丁</patchName><patchDescription>Oracle Java SE是美国甲骨文（Oracle）公司的一款用于开发和部署桌面、服务器以及嵌入设备和实时环境中的Java应用程序。&#xD;
+&#xD;
+Oracle Java SE中的Advanced Management Console组件2.16版本存在安全漏洞。攻击者可利用该漏洞未授权读取数据，影响数据的保密性。目前，供应商发布了安全公告及相关补丁信息，修复了此漏洞。</patchDescription></vulnerability><vulnerability><number>CNVD-2020-72711</number><cves><cve><cveNumber>CVE-2020-2755</cveNumber></cve></cves><title>Oracle Java SE和Java SE Embedded存在未明漏洞（CNVD-2020-72711）</title><serverity>中</serverity><products><product>Oracle Java SE 8u241</product><product>Oracle Java SE 11.0.6</product><product>Oracle Java SE 14</product><product>Oracle Java SE Embedded 8u241</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-04-16</submitTime><openTime>2020-12-18</openTime><referenceLink>https://www.oracle.com/security-alerts/cpuapr2020.html</referenceLink><formalWay>目前厂商已发布升级补丁以修复漏洞，补丁获取链接：&#xD;
+https://www.oracle.com/security-alerts/cpuapr2020.html </formalWay><description>Oracle Java SE和Oracle Java SE Embedded都是美国甲骨文（Oracle）公司的产品。Oracle Java SE是一款用于开发和部署桌面、服务器以及嵌入设备和实时环境中的Java应用程序。Oracle Java SE Embedded是一款针对嵌入式系统的、可移植的应用程序的Java平台。
+
+Oracle Java SE和Java SE Embedded中的Scripting组件存在安全漏洞。攻击者可利用该漏洞造成拒绝服务，影响数据的可用性。</description><patchName>Oracle Java SE和Java SE Embedded存在未明漏洞（CNVD-2020-72711）的补丁</patchName><patchDescription>Oracle Java SE和Oracle Java SE Embedded都是美国甲骨文（Oracle）公司的产品。Oracle Java SE是一款用于开发和部署桌面、服务器以及嵌入设备和实时环境中的Java应用程序。Oracle Java SE Embedded是一款针对嵌入式系统的、可移植的应用程序的Java平台。&#xD;
+&#xD;
+Oracle Java SE和Java SE Embedded中的Scripting组件存在安全漏洞。攻击者可利用该漏洞造成拒绝服务，影响数据的可用性。目前，供应商发布了安全公告及相关补丁信息，修复了此漏洞。</patchDescription></vulnerability><vulnerability><number>CNVD-2020-72710</number><cves><cve><cveNumber>CVE-2020-2767</cveNumber></cve></cves><title>Oracle Java SE存在未明漏洞（CNVD-2020-72710）</title><serverity>中</serverity><products><product>Oracle Java SE 11.0.6</product><product>Oracle Java SE 14</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-04-16</submitTime><openTime>2020-12-18</openTime><referenceLink>https://www.oracle.com/security-alerts/cpuapr2020.html</referenceLink><formalWay>目前厂商已发布升级补丁以修复漏洞，补丁获取链接：&#xD;
+https://www.oracle.com/security-alerts/cpuapr2020.html </formalWay><description>Oracle Java SE是美国甲骨文（Oracle）公司的一款用于开发和部署桌面、服务器以及嵌入设备和实时环境中的Java应用程序。
+
+Oracle Java SE 11.0.6版本和14版本中的JSSE组件存在安全漏洞。攻击者可利用该漏洞未授权读取、更新、插入或删除数据，影响数据的保密性和完整性。 </description><patchName>Oracle Java SE存在未明漏洞（CNVD-2020-72710）的补丁</patchName><patchDescription>Oracle Java SE是美国甲骨文（Oracle）公司的一款用于开发和部署桌面、服务器以及嵌入设备和实时环境中的Java应用程序。&#xD;
+&#xD;
+Oracle Java SE 11.0.6版本和14版本中的JSSE组件存在安全漏洞。攻击者可利用该漏洞未授权读取、更新、插入或删除数据，影响数据的保密性和完整性。目前，供应商发布了安全公告及相关补丁信息，修复了此漏洞。</patchDescription></vulnerability><vulnerability><number>CNVD-2020-72709</number><cves><cve><cveNumber>CVE-2020-2773</cveNumber></cve></cves><title>Oracle Java SE和Java SE Embedded Security组件存在未明漏洞</title><serverity>中</serverity><products><product>Oracle Java SE 8u241</product><product>Oracle Java SE 7u251</product><product>Oracle Java SE 11.0.6</product><product>Oracle Java SE 14</product><product>Oracle Java SE Embedded 8u241</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-04-16</submitTime><openTime>2020-12-18</openTime><referenceLink>https://www.oracle.com/security-alerts/cpuapr2020.html</referenceLink><formalWay>目前厂商已发布升级补丁以修复漏洞，补丁获取链接：&#xD;
+https://www.oracle.com/security-alerts/cpuapr2020.html </formalWay><description>Oracle Java SE和Oracle Java SE Embedded都是美国甲骨文（Oracle）公司的产品。Oracle Java SE是一款用于开发和部署桌面、服务器以及嵌入设备和实时环境中的Java应用程序。Oracle Java SE Embedded是一款针对嵌入式系统的、可移植的应用程序的Java平台。
+
+Oracle Java SE和Java SE Embedded中的Security组件存在安全漏洞。攻击者可利用该漏洞造成拒绝服务，影响数据的可用性。</description><patchName>Oracle Java SE和Java SE Embedded Security组件存在未明漏洞的补丁</patchName><patchDescription>Oracle Java SE和Oracle Java SE Embedded都是美国甲骨文（Oracle）公司的产品。Oracle Java SE是一款用于开发和部署桌面、服务器以及嵌入设备和实时环境中的Java应用程序。Oracle Java SE Embedded是一款针对嵌入式系统的、可移植的应用程序的Java平台。&#xD;
+&#xD;
+Oracle Java SE和Java SE Embedded中的Security组件存在安全漏洞。攻击者可利用该漏洞造成拒绝服务，影响数据的可用性。目前，供应商发布了安全公告及相关补丁信息，修复了此漏洞。</patchDescription></vulnerability><vulnerability><number>CNVD-2020-72708</number><cves><cve><cveNumber>CVE-2020-2778</cveNumber></cve></cves><title>Oracle Java SE JSSE组件存在未明漏洞（CNVD-2020-72708）</title><serverity>中</serverity><products><product>Oracle Java SE 11.0.6</product><product>Oracle Java SE 14</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-04-16</submitTime><openTime>2020-12-18</openTime><referenceLink>https://www.oracle.com/security-alerts/cpuapr2020.html</referenceLink><formalWay>目前厂商已发布升级补丁以修复漏洞，补丁获取链接：&#xD;
+https://www.oracle.com/security-alerts/cpuapr2020.html </formalWay><description>Oracle Java SE是一款用于开发和部署桌面、服务器以及嵌入设备和实时环境中的Java应用程序。
+
+Oracle Java SE 11.0.6版本和14版本中的JSSE组件存在安全漏洞。攻击者可利用该漏洞未授权读取数据，影响数据的保密性。 </description><patchName>Oracle Java SE JSSE组件存在未明漏洞（CNVD-2020-72708）的补丁</patchName><patchDescription>Oracle Java SE是一款用于开发和部署桌面、服务器以及嵌入设备和实时环境中的Java应用程序。&#xD;
+&#xD;
+Oracle Java SE 11.0.6版本和14版本中的JSSE组件存在安全漏洞。攻击者可利用该漏洞未授权读取数据，影响数据的保密性。目前，供应商发布了安全公告及相关补丁信息，修复了此漏洞。</patchDescription></vulnerability><vulnerability><number>CNVD-2020-72707</number><cves><cve><cveNumber>CVE-2020-2803</cveNumber></cve></cves><title>Oracle GraalVM、Java SE和Java SE Embedded存在漏洞</title><serverity>中</serverity><products><product>Oracle Java SE 8u241</product><product>Oracle Java SE 7u251</product><product>Oracle Java SE 11.0.6</product><product>Oracle Java SE 14</product><product>Oracle Java SE Embedded 8u241</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-04-16</submitTime><openTime>2020-12-18</openTime><referenceLink>https://www.oracle.com/security-alerts/cpuapr2020.html</referenceLink><formalWay>目前厂商已发布升级补丁以修复漏洞，补丁获取链接：&#xD;
+https://www.oracle.com/security-alerts/cpuapr2020.html </formalWay><description>Oracle Java SE等都是美国甲骨文（Oracle）公司的产品。Oracle Java SE是一款用于开发和部署桌面、服务器以及嵌入设备和实时环境中的Java应用程序。Oracle Java SE Embedded是一款针对嵌入式系统的、可移植的应用程序的Java平台。Oracle GraalVM是一套使用Java语言编写的即时编译器。该产品支持多种编程语言和执行模式。GraalVM Enterprise Edition是GraalVM的企业版。
+
+Oracle GraalVM Enterprise Edition的Java组件和Oracle Java SE、Java SE Embedded的Libraries组件存在安全漏洞。攻击者可利用该漏洞控制GraalVM Enterprise Edition、Java SE和Java SE Embedded，影响数据的可用性、保密性和完整性。</description><patchName>Oracle GraalVM、Java SE和Java SE Embedded存在漏洞的补丁</patchName><patchDescription>Oracle Java SE等都是美国甲骨文（Oracle）公司的产品。Oracle Java SE是一款用于开发和部署桌面、服务器以及嵌入设备和实时环境中的Java应用程序。Oracle Java SE Embedded是一款针对嵌入式系统的、可移植的应用程序的Java平台。Oracle GraalVM是一套使用Java语言编写的即时编译器。该产品支持多种编程语言和执行模式。GraalVM Enterprise Edition是GraalVM的企业版。&#xD;
+&#xD;
+Oracle GraalVM Enterprise Edition的Java组件和Oracle Java SE、Java SE Embedded的Libraries组件存在安全漏洞。攻击者可利用该漏洞控制GraalVM Enterprise Edition、Java SE和Java SE Embedded，影响数据的可用性、保密性和完整性。目前，供应商发布了安全公告及相关补丁信息，修复了此漏洞。</patchDescription></vulnerability><vulnerability><number>CNVD-2020-72706</number><cves><cve><cveNumber>CVE-2020-2781</cveNumber></cve></cves><title>Oracle Java SE和Java SE Embedded存在未明漏洞（CNVD-2020-72706）</title><serverity>中</serverity><products><product>Oracle Java SE 8u241</product><product>Oracle Java SE 7u251</product><product>Oracle Java SE 11.0.6</product><product>Oracle Java SE 14</product><product>Oracle Java SE Embedded 8u241</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-04-16</submitTime><openTime>2020-12-18</openTime><referenceLink>https://www.oracle.com/security-alerts/cpuapr2020.html</referenceLink><formalWay>目前厂商已发布升级补丁以修复漏洞，补丁获取链接：&#xD;
+https://www.oracle.com/security-alerts/cpuapr2020.html </formalWay><description>Oracle Java SE和Oracle Java SE Embedded都是美国甲骨文（Oracle）公司的产品。Oracle Java SE是一款用于开发和部署桌面、服务器以及嵌入设备和实时环境中的Java应用程序。Oracle Java SE Embedded是一款针对嵌入式系统的、可移植的应用程序的Java平台。
+
+Oracle Java SE和Java SE Embedded中的JSSE组件存在安全漏洞。攻击者可利用该漏洞造成拒绝服务，影响数据的可用性。</description><patchName>Oracle Java SE和Java SE Embedded存在未明漏洞（CNVD-2020-72706）的补丁</patchName><patchDescription>Oracle Java SE和Oracle Java SE Embedded都是美国甲骨文（Oracle）公司的产品。Oracle Java SE是一款用于开发和部署桌面、服务器以及嵌入设备和实时环境中的Java应用程序。Oracle Java SE Embedded是一款针对嵌入式系统的、可移植的应用程序的Java平台。&#xD;
+&#xD;
+Oracle Java SE和Java SE Embedded中的JSSE组件存在安全漏洞。攻击者可利用该漏洞造成拒绝服务，影响数据的可用性。目前，供应商发布了安全公告及相关补丁信息，修复了此漏洞。</patchDescription></vulnerability><vulnerability><number>CNVD-2020-72725</number><cves><cve><cveNumber>CVE-2020-2830</cveNumber></cve></cves><title>Oracle Java SE和Java SE Embedded存在未明漏洞（CNVD-2020-72725）</title><serverity>低</serverity><products><product>Oracle Java SE 8u241</product><product>Oracle Java SE 7u251</product><product>Oracle Java SE 11.0.6</product><product>Oracle Java SE 14</product><product>Oracle Java SE Embedded 8u241</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-04-16</submitTime><openTime>2020-12-18</openTime><referenceLink>https://www.oracle.com/security-alerts/cpuapr2020.html</referenceLink><formalWay>目前厂商已发布升级补丁以修复漏洞，补丁获取链接：&#xD;
+https://www.oracle.com/security-alerts/cpuapr2020.html </formalWay><description>Oracle Java SE和Oracle Java SE Embedded都是美国甲骨文（Oracle）公司的产品。Oracle Java SE是一款用于开发和部署桌面、服务器以及嵌入设备和实时环境中的Java应用程序。Oracle Java SE Embedded是一款针对嵌入式系统的、可移植的应用程序的Java平台。
+
+Oracle Java SE和Java SE Embedded的Concurrency组件存在安全漏洞。攻击者可利用该漏洞造成拒绝服务，影响数据的可用性。</description><patchName>Oracle Java SE和Java SE Embedded存在未明漏洞（CNVD-2020-72725）的补丁</patchName><patchDescription>Oracle Java SE和Oracle Java SE Embedded都是美国甲骨文（Oracle）公司的产品。Oracle Java SE是一款用于开发和部署桌面、服务器以及嵌入设备和实时环境中的Java应用程序。Oracle Java SE Embedded是一款针对嵌入式系统的、可移植的应用程序的Java平台。&#xD;
+&#xD;
+Oracle Java SE和Java SE Embedded的Concurrency组件存在安全漏洞。攻击者可利用该漏洞造成拒绝服务，影响数据的可用性。目前，供应商发布了安全公告及相关补丁信息，修复了此漏洞。</patchDescription></vulnerability><vulnerability><number>CNVD-2020-72724</number><cves><cve><cveNumber>CVE-2020-2740</cveNumber></cve></cves><title>Oracle Fusion Middleware Access Manager存在未明漏洞 </title><serverity>中</serverity><products><product>Oracle Authentication Engine 11.1.2.3.0</product><product>Oracle Authentication Engine 12.2.1.3.0</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-04-16</submitTime><openTime>2020-12-18</openTime><referenceLink>https://www.oracle.com/security-alerts/cpuapr2020.html </referenceLink><formalWay>目前厂商已发布升级补丁以修复漏洞，补丁获取链接：&#xD;
+https://www.oracle.com/security-alerts/cpuapr2020.html </formalWay><description>Oracle Fusion Middleware（Oracle融合中间件）是美国甲骨文（Oracle）公司的一套面向企业和云环境的业务创新平台。该平台提供了中间件、软件集合等功能。
+
+Oracle Fusion Middleware中的Access Manager 11.1.2.3.0版本和12.2.1.3.0版本的Authentication Engine组件存在安全漏洞。攻击者可利用该漏洞未授权读取、更新、插入或删除数据，影响数据的保密性和完整性。 </description><patchName>Oracle Fusion Middleware Access Manager存在未明漏洞 的补丁</patchName><patchDescription>Oracle Fusion Middleware（Oracle融合中间件）是美国甲骨文（Oracle）公司的一套面向企业和云环境的业务创新平台。该平台提供了中间件、软件集合等功能。&#xD;
+&#xD;
+Oracle Fusion Middleware中的Access Manager 11.1.2.3.0版本和12.2.1.3.0版本的Authentication Engine组件存在安全漏洞。攻击者可利用该漏洞未授权读取、更新、插入或删除数据，影响数据的保密性和完整性。目前，供应商发布了安全公告及相关补丁信息，修复了此漏洞。</patchDescription></vulnerability><vulnerability><number>CNVD-2020-72698</number><cves><cve><cveNumber>CVE-2020-1065</cveNumber></cve></cves><title>Microsoft ChakraCore和Edge远程代码执行漏洞（CNVD-2020-72698）</title><serverity>高</serverity><products><product>Microsoft ChakraCore  </product><product>Microsoft Edge </product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-05-13</submitTime><openTime>2020-12-18</openTime><referenceLink>https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1065 </referenceLink><formalWay>目前厂商已发布升级补丁以修复漏洞，补丁获取链接：&#xD;
+https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1065 </formalWay><description>Microsoft ChakraCore和Microsoft Edge都是美国微软（Microsoft）公司的产品。ChakraCore是使用在Edge浏览器中的一个开源的ChakraJavaScript脚本引擎的核心部分，也可作为单独的JavaScript引擎使用。Microsoft Edge是一款Windows 10之后版本系统附带的Web浏览器。
+
+Microsoft ChakraCore和Edge中存在远程代码执行漏洞。攻击者可利用该漏洞在当前用户的上下文中执行任意代码，破坏内存。 </description><patchName>Microsoft ChakraCore和Edge远程代码执行漏洞（CNVD-2020-72698）的补丁</patchName><patchDescription>Microsoft ChakraCore和Microsoft Edge都是美国微软（Microsoft）公司的产品。ChakraCore是使用在Edge浏览器中的一个开源的ChakraJavaScript脚本引擎的核心部分，也可作为单独的JavaScript引擎使用。Microsoft Edge是一款Windows 10之后版本系统附带的Web浏览器。&#xD;
+&#xD;
+Microsoft ChakraCore和Edge中存在远程代码执行漏洞。攻击者可利用该漏洞在当前用户的上下文中执行任意代码，破坏内存。目前，供应商发布了安全公告及相关补丁信息，修复了此漏洞。</patchDescription></vulnerability><vulnerability><number>CNVD-2020-72697</number><cves><cve><cveNumber>CVE-2020-1117</cveNumber></cve></cves><title>Microsoft Color Management远程代码执行漏洞</title><serverity>高</serverity><products><product>Microsoft Windows 10 1607</product><product>Microsoft Windows Server 2016 </product><product>Microsoft Windows Server 1803</product><product>Microsoft Windows Server 2019 </product><product>Microsoft Windows Server 1903</product><product>Microsoft Windows 10 1709</product><product>Microsoft Windows 10 1803</product><product>Microsoft Windows 10 1809</product><product>Microsoft Windows 10 1903</product><product>Microsoft Microsoft Windows Server 1909</product><product>Microsoft Windows 10 1909</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-05-14</submitTime><openTime>2020-12-18</openTime><referenceLink>https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1117</referenceLink><formalWay>目前厂商已发布升级补丁以修复漏洞，补丁获取链接：&#xD;
+https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1117</formalWay><description>Microsoft Windows和Microsoft Windows Server都是美国微软（Microsoft）公司的产品。Microsoft Windows是一套个人设备使用的操作系统。Microsoft Windows Server是一套服务器操作系统。
+
+Microsoft Color Management模块(ICM32.dll) 中内存对象的处理方法存在远程代码执行漏洞。攻击者可利用该漏洞控制受影响的系统。</description><patchName>Microsoft Color Management远程代码执行漏洞的补丁</patchName><patchDescription>Microsoft Windows和Microsoft Windows Server都是美国微软（Microsoft）公司的产品。Microsoft Windows是一套个人设备使用的操作系统。Microsoft Windows Server是一套服务器操作系统。&#xD;
+&#xD;
+Microsoft Color Management模块(ICM32.dll) 中内存对象的处理方法存在远程代码执行漏洞。攻击者可利用该漏洞控制受影响的系统。目前，供应商发布了安全公告及相关补丁信息，修复了此漏洞。</patchDescription></vulnerability><vulnerability><number>CNVD-2020-72696</number><cves><cve><cveNumber>CVE-2020-1457</cveNumber></cve></cves><title>Microsoft Windows Codecs Library远程代码执行漏洞</title><serverity>中</serverity><products><product>Microsoft Windows 10 1709</product><product>Microsoft Windows 10 1803</product><product>Microsoft Windows 10 1809</product><product>Microsoft Windows 10 1903</product><product>Microsoft Windows 10 1909</product><product>Microsoft Windows 10 2004</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-07-02</submitTime><openTime>2020-12-18</openTime><referenceLink>https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1457</referenceLink><formalWay>目前厂商已发布升级补丁以修复漏洞，补丁获取链接：&#xD;
+https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1457 </formalWay><description>Microsoft Windows和Microsoft Windows Server都是美国微软（Microsoft）公司的产品。Microsoft Windows是一套个人设备使用的操作系统。Microsoft Windows Server是一套服务器操作系统。Windows Codecs Library是其中的一个音频、视频文件编解码器。
+
+Microsoft Windows Codecs Library中处理内存对象的方法存在远程代码执行漏洞。攻击者可借助特制文件利用该漏洞执行任意代码。</description><patchName>Microsoft Windows Codecs Library远程代码执行漏洞的补丁</patchName><patchDescription>Microsoft Windows和Microsoft Windows Server都是美国微软（Microsoft）公司的产品。Microsoft Windows是一套个人设备使用的操作系统。Microsoft Windows Server是一套服务器操作系统。Windows Codecs Library是其中的一个音频、视频文件编解码器。&#xD;
+&#xD;
+Microsoft Windows Codecs Library中处理内存对象的方法存在远程代码执行漏洞。攻击者可借助特制文件利用该漏洞执行任意代码。目前，供应商发布了安全公告及相关补丁信息，修复了此漏洞。</patchDescription></vulnerability><vulnerability><number>CNVD-2020-72695</number><cves><cve><cveNumber>CVE-2020-1425</cveNumber></cve></cves><title>Microsoft Windows Codecs Library远程代码执行漏洞（CNVD-2020-72695）</title><serverity>中</serverity><products><product>Microsoft Windows 10 1709</product><product>Microsoft Windows 10 1809</product><product>Microsoft Windows 10 1803</product><product>Microsoft Windows 10 1903</product><product>Microsoft Windows 10 1909</product><product>Microsoft Windows 10 2004</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-07-02</submitTime><openTime>2020-12-18</openTime><referenceLink>https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1425</referenceLink><formalWay>目前厂商已发布升级补丁以修复漏洞，补丁获取链接：&#xD;
+https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1425 </formalWay><description>Microsoft Windows和Microsoft Windows Server都是美国微软（Microsoft）公司的产品。Microsoft Windows是一套个人设备使用的操作系统。Microsoft Windows Server是一套服务器操作系统。Windows Codecs Library是其中的一个音频、视频文件编解码器。
+
+Microsoft Windows Codecs Library中处理内存对象的方法存在远程代码执行漏洞。攻击者可借助特制的文件利用该漏洞获取信息，进一步入侵用户系统。</description><patchName>Microsoft Windows Codecs Library远程代码执行漏洞（CNVD-2020-72695）的补丁</patchName><patchDescription>Microsoft Windows和Microsoft Windows Server都是美国微软（Microsoft）公司的产品。Microsoft Windows是一套个人设备使用的操作系统。Microsoft Windows Server是一套服务器操作系统。Windows Codecs Library是其中的一个音频、视频文件编解码器。&#xD;
+&#xD;
+Microsoft Windows Codecs Library中处理内存对象的方法存在远程代码执行漏洞。攻击者可借助特制的文件利用该漏洞获取信息，进一步入侵用户系统。目前，供应商发布了安全公告及相关补丁信息，修复了此漏洞。</patchDescription></vulnerability><vulnerability><number>CNVD-2020-72704</number><cves><cve><cveNumber>CVE-2020-1509</cveNumber></cve></cves><title>Microsoft Local Security Authority Subsystem Service权限提升漏洞</title><serverity>中</serverity><products><product>Microsoft Windows 8.1 </product><product>Microsoft Windows RT 8.1 SP0</product><product>Microsoft Windows Server 2012 R2</product><product>Microsoft Windows 10 1607</product><product>Microsoft Windows Server 2016 </product><product>Microsoft Windows Server 2012 </product><product>Microsoft Windows 10 </product><product>Microsoft Windows Server 2019 </product><product>Microsoft Microsoft Windows Server 1903</product><product>Microsoft Windows 10 1709</product><product>Microsoft Windows 10 1803</product><product>Microsoft Windows 10 1809</product><product>Microsoft Windows 10 1903</product><product>Microsoft Windows Server 1909</product><product>Microsoft Windows 10 1909</product><product>Microsoft Windows Server 2004</product><product>Microsoft Windows 10 2004</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-08-14</submitTime><openTime>2020-12-18</openTime><referenceLink>https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1509</referenceLink><formalWay>目前厂商已发布升级补丁以修复漏洞，补丁获取链接：&#xD;
+https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1509 </formalWay><description>Microsoft Windows和Microsoft Windows Server都是美国微软（Microsoft）公司的产品。Microsoft Windows是一套个人设备使用的操作系统。Microsoft Windows Server是一套服务器操作系统。Microsoft Local Security Authority Subsystem Service是其中的一个本地安全认证子系统服务组件。
+
+Microsoft Local Security Authority Subsystem Service (LSASS)中存在权限提升漏洞。攻击者可借助特制的身份验证请求利用该漏洞提升权限。</description><patchName>Microsoft Local Security Authority Subsystem Service权限提升漏洞的补丁</patchName><patchDescription>Microsoft Windows和Microsoft Windows Server都是美国微软（Microsoft）公司的产品。Microsoft Windows是一套个人设备使用的操作系统。Microsoft Windows Server是一套服务器操作系统。Microsoft Local Security Authority Subsystem Service是其中的一个本地安全认证子系统服务组件。&#xD;
+&#xD;
+Microsoft Local Security Authority Subsystem Service (LSASS)中存在权限提升漏洞。攻击者可借助特制的身份验证请求利用该漏洞提升权限。目前，供应商发布了安全公告及相关补丁信息，修复了此漏洞。</patchDescription></vulnerability><vulnerability><number>CNVD-2020-62853</number><title>奇安信科技集团股份有限公司终端安全管理系统（天擎）存在未授权访问漏洞</title><serverity>中</serverity><products><product>奇安信科技集团股份有限公司 天擎终端安全管理系统 </product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-09-08</submitTime><openTime>2020-12-15</openTime><discovererName>凌动</discovererName><formalWay>厂商已提供漏洞修补方案，请关注厂商主页及时更新：&#xD;
+https://www.qianxin.com/</formalWay><description>奇安信终端安全管理系统是面向政企单位推出的一体化终端安全产品解决方案。
+
+奇安信科技集团股份有限公司终端安全管理系统（天擎）存在未授权访问漏洞，攻击者可利用该漏洞获取敏感信息。</description></vulnerability><vulnerability><number>CNVD-2020-72703</number><cves><cve><cveNumber>CVE-2020-16855</cveNumber></cve></cves><title>Microsoft Office信息泄露漏洞（CNVD-2020-72703）</title><serverity>中</serverity><products><product>Microsoft Office 2016 </product><product>Microsoft Office 2019 </product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-09-10</submitTime><openTime>2020-12-18</openTime><referenceLink>https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-16855</referenceLink><formalWay>目前厂商已发布升级补丁以修复漏洞，详情请关注厂商主页：&#xD;
+https://portal.msrc.microsoft.com/en-us/security-guidance </formalWay><description>Microsoft Office是美国微软（Microsoft）公司的一款办公软件套件产品。该产品常用组件包括Word、Excel、Access、Powerpoint、FrontPage等。
+
+Microsoft Office中存在信息泄露漏洞。该漏洞源于软件读取越界内存时。攻击者可利用该漏洞查看溢出内存。 </description><patchName>Microsoft Office信息泄露漏洞（CNVD-2020-72703）的补丁</patchName><patchDescription>Microsoft Office是美国微软（Microsoft）公司的一款办公软件套件产品。该产品常用组件包括Word、Excel、Access、Powerpoint、FrontPage等。&#xD;
+&#xD;
+Microsoft Office中存在信息泄露漏洞。该漏洞源于软件读取越界内存时。攻击者可利用该漏洞查看溢出内存。目前，供应商发布了安全公告及相关补丁信息，修复了此漏洞。</patchDescription></vulnerability><vulnerability><number>CNVD-2020-72702</number><cves><cve><cveNumber>CVE-2020-1045</cveNumber></cve></cves><title>Microsoft .NET Core和ASP.NET Core安全功能绕过漏洞 </title><serverity>中</serverity><products><product>Microsoft ASP.NET Core 2.1</product><product>Microsoft ASP.NET Core 3.1</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-09-10</submitTime><openTime>2020-12-18</openTime><referenceLink>https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1045</referenceLink><formalWay>目前厂商已发布升级补丁以修复漏洞，详情请关注厂商主页：&#xD;
+https://portal.msrc.microsoft.com/en-us/security-guidance </formalWay><description>Microsoft .NET Core和Microsoft ASP.NET Core都是美国微软（Microsoft）公司的产品。.NET Core是一套免费的开源开发平台。该平台具有多语言支持和跨平台等特点。Microsoft ASP.NET Core是一框跨平台开源框架。该框架用于构建Web应用、物联网应用和移动后端等基于云的应用程序。
+
+Microsoft .NET Core和Microsoft ASP.NET Core中存在安全漏洞。该漏洞源于ASP.NET Core cookie解析器对整个cookie字符串进行解码，攻击者可利用该漏洞设置第二个cookie。 </description><patchName>Microsoft .NET Core和ASP.NET Core安全功能绕过漏洞 的补丁</patchName><patchDescription>Microsoft .NET Core和Microsoft ASP.NET Core都是美国微软（Microsoft）公司的产品。.NET Core是一套免费的开源开发平台。该平台具有多语言支持和跨平台等特点。Microsoft ASP.NET Core是一框跨平台开源框架。该框架用于构建Web应用、物联网应用和移动后端等基于云的应用程序。&#xD;
+&#xD;
+Microsoft .NET Core和Microsoft ASP.NET Core中存在安全漏洞。该漏洞源于ASP.NET Core cookie解析器对整个cookie字符串进行解码，攻击者可利用该漏洞设置第二个cookie。目前，供应商发布了安全公告及相关补丁信息，修复了此漏洞。</patchDescription></vulnerability><vulnerability><number>CNVD-2020-72701</number><cves><cve><cveNumber>CVE-2020-1172</cveNumber></cve></cves><title>Microsoft ChakraCore远程代码执行漏洞（CNVD-2020-72701）</title><serverity>高</serverity><products><product>Microsoft ChakraCore  </product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-09-10</submitTime><openTime>2020-12-18</openTime><referenceLink>https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1172</referenceLink><formalWay>目前厂商已发布升级补丁以修复漏洞，详情请关注厂商主页：&#xD;
+https://portal.msrc.microsoft.com/en-us/security-guidance </formalWay><description>Microsoft ChakraCore是美国微软（Microsoft）公司的使用在Edge浏览器中的一个开源的ChakraJavaScript脚本引擎的核心部分，也可作为单独的JavaScript引擎使用。
+
+Microsoft ChakraCore存在远程代码执行漏洞。该漏洞源于网络系统或产品中缺少身份验证措施或身份验证强度不足。攻击者可以利用该漏洞获得与当前用户相同的用户权限。 </description><patchName>Microsoft ChakraCore远程代码执行漏洞（CNVD-2020-72701）的补丁</patchName><patchDescription>Microsoft ChakraCore是美国微软（Microsoft）公司的使用在Edge浏览器中的一个开源的ChakraJavaScript脚本引擎的核心部分，也可作为单独的JavaScript引擎使用。&#xD;
+&#xD;
+Microsoft ChakraCore存在远程代码执行漏洞。该漏洞源于网络系统或产品中缺少身份验证措施或身份验证强度不足。攻击者可以利用该漏洞获得与当前用户相同的用户权限。目前，供应商发布了安全公告及相关补丁信息，修复了此漏洞。</patchDescription></vulnerability><vulnerability><number>CNVD-2020-72700</number><cves><cve><cveNumber>CVE-2020-1180</cveNumber></cve></cves><title>Microsoft ChakraCore远程代码执行漏洞（CNVD-2020-72700）</title><serverity>高</serverity><products><product>Microsoft ChakraCore  </product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-09-10</submitTime><openTime>2020-12-18</openTime><referenceLink>https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1180</referenceLink><formalWay>目前厂商已发布升级补丁以修复漏洞，详情请关注厂商主页：&#xD;
+https://portal.msrc.microsoft.com/en-us/security-guidance </formalWay><description>Microsoft ChakraCore是美国微软（Microsoft）公司的使用在Edge浏览器中的一个开源的ChakraJavaScript脚本引擎的核心部分，也可作为单独的JavaScript引擎使用。
+
+Microsoft ChakraCore存在远程代码执行漏洞。该漏洞源于网络系统或产品中缺少身份验证措施或身份验证强度不足。攻击者可利用此漏洞可控制受影响的系统。 </description><patchName>Microsoft ChakraCore远程代码执行漏洞（CNVD-2020-72700）的补丁</patchName><patchDescription>Microsoft ChakraCore是美国微软（Microsoft）公司的使用在Edge浏览器中的一个开源的ChakraJavaScript脚本引擎的核心部分，也可作为单独的JavaScript引擎使用。&#xD;
+&#xD;
+Microsoft ChakraCore存在远程代码执行漏洞。该漏洞源于网络系统或产品中缺少身份验证措施或身份验证强度不足。攻击者可利用此漏洞可控制受影响的系统。目前，供应商发布了安全公告及相关补丁信息，修复了此漏洞。</patchDescription></vulnerability><vulnerability><number>CNVD-2020-72699</number><cves><cve><cveNumber>CVE-2020-1057</cveNumber></cve></cves><title>Microsoft ChakraCore远程代码执行漏洞（CNVD-2020-72699）</title><serverity>高</serverity><products><product>Microsoft ChakraCore  </product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-09-10</submitTime><openTime>2020-12-18</openTime><referenceLink>https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1057</referenceLink><formalWay>目前厂商已发布升级补丁以修复漏洞，详情请关注厂商主页：&#xD;
+https://portal.msrc.microsoft.com/en-us/security-guidance </formalWay><description>Microsoft ChakraCore是美国微软（Microsoft）公司的使用在Edge浏览器中的一个开源的ChakraJavaScript脚本引擎的核心部分，也可作为单独的JavaScript引擎使用。
+
+Microsoft ChakraCore存在远程代码执行漏洞。该漏洞源于网络系统或产品中缺少身份验证措施或身份验证强度不足。攻击者可利用此漏洞可控制受影响的系统。 </description><patchName>Microsoft ChakraCore远程代码执行漏洞（CNVD-2020-72699）的补丁</patchName><patchDescription>Microsoft ChakraCore是美国微软（Microsoft）公司的使用在Edge浏览器中的一个开源的ChakraJavaScript脚本引擎的核心部分，也可作为单独的JavaScript引擎使用。&#xD;
+&#xD;
+Microsoft ChakraCore存在远程代码执行漏洞。该漏洞源于网络系统或产品中缺少身份验证措施或身份验证强度不足。攻击者可利用此漏洞可控制受影响的系统。目前，供应商发布了安全公告及相关补丁信息，修复了此漏洞。</patchDescription></vulnerability><vulnerability><number>CNVD-2020-72733</number><cves><cve><cveNumber>CVE-2020-3422</cveNumber><cveUrl>https://nvd.nist.gov/vuln/detail/CVE-2020-3422</cveUrl></cve></cves><title>Cisco IOS XE拒绝服务漏洞（CNVD-2020-72733）</title><serverity>中</serverity><products><product>Cisco IOS XE </product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-09-25</submitTime><openTime>2020-12-19</openTime><referenceLink>https://nvd.nist.gov/vuln/detail/CVE-2020-3422</referenceLink><formalWay>厂商已发布了漏洞修复程序，请及时关注更新：&#xD;
+https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-ipsla-jw2DJmSv</formalWay><description>Cisco IOS XE是美国Cisco公司为其网络设备开发的一套基于Linux内核的模块化操作系统。
+
+Cisco IOS XE的IP服务级别协议（SLA）响应程序功能存在拒绝服务漏洞。该漏洞源于IP SLA响应程序可能占用另一个功能使用的端口。攻击者可通过将特定的IP SLA控制数据包发送到IP SLA响应程序利用该漏洞导致拒绝服务。</description><patchName>Cisco IOS XE拒绝服务漏洞（CNVD-2020-72733）的补丁</patchName><patchDescription>Cisco IOS XE是美国Cisco公司为其网络设备开发的一套基于Linux内核的模块化操作系统。&#xD;
+&#xD;
+Cisco IOS XE的IP服务级别协议（SLA）响应程序功能存在拒绝服务漏洞。该漏洞源于IP SLA响应程序可能占用另一个功能使用的端口。攻击者可通过将特定的IP SLA控制数据包发送到IP SLA响应程序利用该漏洞导致拒绝服务。目前，供应商发布了安全公告及相关补丁信息，修复了此漏洞。</patchDescription></vulnerability><vulnerability><number>CNVD-2020-72720</number><cves><cve><cveNumber>CVE-2020-15674</cveNumber><cveUrl>https://nvd.nist.gov/vuln/detail/CVE-2020-15674</cveUrl></cve></cves><title>Mozilla Firefox内存破坏漏洞（CNVD-2020-72720）</title><serverity>中</serverity><products><product>Mozilla Firefox &lt;81</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-09-27</submitTime><openTime>2020-12-16</openTime><referenceLink>https://nvd.nist.gov/vuln/detail/CVE-2020-15674</referenceLink><formalWay>目前厂商已发布升级补丁以修复漏洞，补丁获取链接：&#xD;
+https://www.mozilla.org/en-US/firefox/81.0/releasenotes/</formalWay><description>Mozilla Firefox是美国Mozilla基金会的一款开源Web浏览器。
+
+Firefox 81之前版本存在内存破坏漏洞。攻击者可利用该漏洞执行任意代码。</description><patchName>Mozilla Firefox内存破坏漏洞（CNVD-2020-72720）的补丁</patchName><patchDescription>Mozilla Firefox是美国Mozilla基金会的一款开源Web浏览器。&#xD;
+&#xD;
+Firefox 81之前版本存在内存破坏漏洞。攻击者可利用该漏洞执行任意代码。目前，供应商发布了安全公告及相关补丁信息，修复了此漏洞。</patchDescription></vulnerability><vulnerability><number>CNVD-2020-72719</number><cves><cve><cveNumber>CVE-2020-15675</cveNumber><cveUrl>https://nvd.nist.gov/vuln/detail/CVE-2020-15675</cveUrl></cve></cves><title>Mozilla Firefox内存错误引用漏洞（CNVD-2020-72719）</title><serverity>中</serverity><products><product>Mozilla Firefox &lt;81</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-09-28</submitTime><openTime>2020-12-16</openTime><referenceLink>http://www.nsfocus.net/vulndb/50592</referenceLink><formalWay>目前厂商已发布升级补丁以修复漏洞，补丁获取链接：&#xD;
+https://www.mozilla.org/en-US/firefox/81.0/releasenotes/</formalWay><description>Mozilla Firefox是美国Mozilla基金会的一款开源Web浏览器。
+
+Mozilla Firefox 81之前版本存在内存错误引用漏洞。攻击者可利用该漏洞导致内存破坏和程序崩溃。</description><patchName>Mozilla Firefox内存错误引用漏洞（CNVD-2020-72719）的补丁</patchName><patchDescription>Mozilla Firefox是美国Mozilla基金会的一款开源Web浏览器。&#xD;
+&#xD;
+Mozilla Firefox 81之前版本存在内存错误引用漏洞。攻击者可利用该漏洞导致内存破坏和程序崩溃。目前，供应商发布了安全公告及相关补丁信息，修复了此漏洞。</patchDescription></vulnerability><vulnerability><number>CNVD-2020-72718</number><cves><cve><cveNumber>CVE-2020-15646</cveNumber><cveUrl>https://nvd.nist.gov/vuln/detail/CVE-2020-15646</cveUrl></cve></cves><title>Mozilla Thunderbird信息泄露漏洞（CNVD-2020-72718）</title><serverity>中</serverity><products><product>Mozilla Thunderbird &lt;68.10.0</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-10-11</submitTime><openTime>2020-12-16</openTime><referenceLink>https://bugzilla.mozilla.org/show_bug.cgi?id=1606610</referenceLink><formalWay>目前厂商已发布升级补丁以修复漏洞，补丁获取链接：&#xD;
+https://www.mozilla.org/en-US/security/advisories/mfsa2020-26/</formalWay><description>Mozilla Thunderbird是美国Mozilla基金会的一套从Mozilla Application Suite独立出来的电子邮件客户端软件。该软件支持IMAP、POP邮件协议以及HTML邮件格式。
+
+Thunderbird 68.10.0之前版本存在信息泄露漏洞，该漏洞源于网络系统或产品在运行过程中存在配置等错误。攻击者可利用该漏洞获取Thunderbird的用户名和密码。</description><patchName>Mozilla Thunderbird信息泄露漏洞（CNVD-2020-72718）的补丁</patchName><patchDescription>Mozilla Thunderbird是美国Mozilla基金会的一套从Mozilla Application Suite独立出来的电子邮件客户端软件。该软件支持IMAP、POP邮件协议以及HTML邮件格式。&#xD;
+&#xD;
+Thunderbird 68.10.0之前版本存在信息泄露漏洞，该漏洞源于网络系统或产品在运行过程中存在配置等错误。攻击者可利用该漏洞获取Thunderbird的用户名和密码。目前，供应商发布了安全公告及相关补丁信息，修复了此漏洞。</patchDescription></vulnerability><vulnerability><number>CNVD-2020-72694</number><cves><cve><cveNumber>CVE-2020-16947</cveNumber></cve></cves><title>Microsoft Outlook远程代码执行漏洞（CNVD-2020-72694）</title><serverity>高</serverity><products><product>Microsoft Office 2019 </product><product>Microsoft 365 Apps </product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-10-16</submitTime><openTime>2020-12-18</openTime><referenceLink>https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-16947</referenceLink><formalWay>用户可参考如下供应商提供的安全公告获得补丁信息：&#xD;
+https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-16947</formalWay><description>Microsoft Outlook是美国微软（Microsoft）公司的一套电子邮件应用程序。
+
+Microsoft Outlook存在安全漏洞。攻击者可利用漏洞在系统用户的上下文中运行任意代码。</description><patchName>Microsoft Outlook远程代码执行漏洞（CNVD-2020-72694）的补丁</patchName><patchDescription>Microsoft Outlook是美国微软（Microsoft）公司的一套电子邮件应用程序。&#xD;
+&#xD;
+Microsoft Outlook存在安全漏洞。攻击者可利用漏洞在系统用户的上下文中运行任意代码。目前，供应商发布了安全公告及相关补丁信息，修复了此漏洞。</patchDescription></vulnerability><vulnerability><number>CNVD-2020-62764</number><title>齐博全新X1.0系统Im***.php文件存在任意文件读取漏洞</title><serverity>低</serverity><products><product>广州齐博网络科技有限公司 齐博全新X1.0系统 X1.0</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-10-29</submitTime><openTime>2020-12-15</openTime><discovererName>平安银河实验室</discovererName><formalWay>厂商尚未提供漏洞修补方案，请关注厂商主页及时更新：&#xD;
+https://x1.php168.com/</formalWay><description>齐博全新X1.0系统是一款基于最新的thinkphp5框架的网站管理系统。
+
+齐博全新X1.0系统Im***.php文件存在任意文件读取漏洞。攻击者可利用该漏洞获取敏感信息。</description></vulnerability><vulnerability><number>CNVD-2020-62795</number><title>齐博全新X1.0系统Ad***.php文件存在逻辑缺陷漏洞</title><serverity>低</serverity><products><product>广州齐博网络科技有限公司 齐博全新X1.0系统 X1.0</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-10-29</submitTime><openTime>2020-12-14</openTime><discovererName>平安银河实验室</discovererName><formalWay>厂商尚未提供漏洞修补方案，请关注厂商主页及时更新：&#xD;
+https://x1.php168.com/</formalWay><description>齐博全新X1.0系统是一款基于最新的thinkphp5框架的网站管理系统。
+
+齐博全新X1.0系统Ad***.php文件存在逻辑缺陷漏洞。攻击者可利用漏洞伪造超级管理员的cookie，以超级管理员的身份登录系统。</description></vulnerability><vulnerability><number>CNVD-2020-62763</number><title>齐博全新X1.0系统la***.php文件存在逻辑缺陷漏洞</title><serverity>中</serverity><products><product>广州齐博网络科技有限公司 齐博全新X1.0系统 X1.0</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-10-29</submitTime><openTime>2020-12-14</openTime><discovererName>平安银河实验室</discovererName><formalWay>厂商尚未提供漏洞修补方案，请关注厂商主页及时更新：&#xD;
+https://x1.php168.com/</formalWay><description>齐博全新X1.0系统是一款基于最新的thinkphp5框架的网站管理系统。
+
+齐博全新X1.0系统la***.php文件存在逻辑缺陷漏洞。攻击者可利用漏洞修改数据库数据将普通用户提升为超级管理员。</description></vulnerability><vulnerability><number>CNVD-2020-72732</number><cves><cve><cveNumber>CVE-2020-3455</cveNumber><cveUrl>https://nvd.nist.gov/vuln/detail/CVE-2020-3455</cveUrl></cve></cves><title>Cisco FXOS安全启动绕过漏洞</title><serverity>高</serverity><products><product>Cisco FXOS </product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-10-26</submitTime><openTime>2020-12-19</openTime><referenceLink>https://nvd.nist.gov/vuln/detail/CVE-2020-3455</referenceLink><formalWay>厂商已发布了漏洞修复程序，请及时关注更新：&#xD;
+https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-fxos-sbbp-XTuPkYTn</formalWay><description>Cisco FXOS Software是美国思科（Cisco）公司的一套运行在思科安全设备中的防火墙软件。
+
+Cisco FXOS存在安全漏洞，该漏洞源于安全引导过程的保护不够。攻击者可利用该漏洞破坏信任链，并将代码注入设备的引导过程中，该过程将在每次引导时执行，并在重新引导时保持持久性。 </description><patchName>Cisco FXOS安全启动绕过漏洞的补丁</patchName><patchDescription>Cisco FXOS Software是美国思科（Cisco）公司的一套运行在思科安全设备中的防火墙软件。&#xD;
+&#xD;
+Cisco FXOS存在安全漏洞，该漏洞源于安全引导过程的保护不够。攻击者可利用该漏洞破坏信任链，并将代码注入设备的引导过程中，该过程将在每次引导时执行，并在重新引导时保持持久性。目前，供应商发布了安全公告及相关补丁信息，修复了此漏洞。</patchDescription></vulnerability><vulnerability><number>CNVD-2020-72717</number><cves><cve><cveNumber>CVE-2020-25648</cveNumber><cveUrl>https://nvd.nist.gov/vuln/detail/CVE-2020-25648</cveUrl></cve></cves><title>Mozilla NSS拒绝服务漏洞</title><serverity>中</serverity><products><product>mozilla Network Security Services (NSS) &lt;3.58</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-10-28</submitTime><openTime>2020-12-16</openTime><referenceLink>https://bugzilla.redhat.com/show_bug.cgi?id=1887319</referenceLink><formalWay>目前厂商已发布升级补丁以修复漏洞，补丁获取链接：&#xD;
+https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/NSS_3.58_release_notes</formalWay><description>NSS是美国Mozilla基金会的一个底层密码学库。该库支持多种加密算法，并且Firefox浏览器的TLS实现基于该库。
+
+NSS 3.58之前版本存在拒绝服务漏洞。该漏洞源于程序未对CCS(ChangeCipherSpec)消息进行正确处理。远程攻击者可利用该漏洞发送多个CCS消息并导致拒绝服务。</description><patchName>Mozilla NSS拒绝服务漏洞的补丁</patchName><patchDescription>NSS是美国Mozilla基金会的一个底层密码学库。该库支持多种加密算法，并且Firefox浏览器的TLS实现基于该库。&#xD;
+&#xD;
+NSS 3.58之前版本存在拒绝服务漏洞。该漏洞源于程序未对CCS(ChangeCipherSpec)消息进行正确处理。远程攻击者可利用该漏洞发送多个CCS消息并导致拒绝服务。目前，供应商发布了安全公告及相关补丁信息，修复了此漏洞。</patchDescription></vulnerability><vulnerability><number>CNVD-2020-62889</number><title>四川思途智旅软件有限公司思途旅游CMS网站建设系统存在SQL注入漏洞</title><serverity>高</serverity><products><product>四川思途智旅软件有限公司 思途旅游CMS网站建设系统 7.1</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-10-30</submitTime><openTime>2020-12-14</openTime><discovererName>icekam</discovererName><formalWay>目前厂商尚未提供相关漏洞补丁链接，请关注厂商主页随时更新：&#xD;
+http://www.stourweb.com/</formalWay><description>思途旅游CMS网站建设系统是一款自主研发的适用于旅游网站建设的网站管理系统。 
+
+四川思途智旅软件有限公司思途旅游CMS网站建设系统存在SQL注入漏洞，攻击者可利用该漏洞获取数据库敏感信息。</description></vulnerability><vulnerability><number>CNVD-2020-62879</number><title>盾灵投票吸粉系统存在SQL注入漏洞</title><serverity>中</serverity><products><product>盾灵科技 盾灵投票吸粉系统 V1.0</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-10-30</submitTime><openTime>2020-12-14</openTime><discovererName>lant1e</discovererName><formalWay>目前厂商尚未提供相关漏洞补丁链接，请关注厂商主页随时更新：&#xD;
+http://www.dunling.com/</formalWay><description>盾灵投票吸粉系统可应用于公众号，通过微信公众号的消息接口收集用户发送投票编号的数据进行达到投票，具有防刷票投票功能，同时也能高效的吸取活粉。
+
+盾灵投票吸粉系统存在SQL注入漏洞，攻击者可利用该漏洞获取数据库敏感信息。</description></vulnerability><vulnerability><number>CNVD-2020-62878</number><title>盾灵投票吸粉系统存在SQL注入漏洞（CNVD-2020-62878）</title><serverity>高</serverity><products><product>盾灵科技 盾灵投票吸粉系统 V1.0</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-10-30</submitTime><openTime>2020-12-14</openTime><discovererName>lant1e</discovererName><formalWay>目前厂商尚未提供相关漏洞补丁链接，请关注厂商主页随时更新：&#xD;
+http://www.dunling.com/</formalWay><description>盾灵投票吸粉系统可应用于公众号，通过微信公众号的消息接口收集用户发送投票编号的数据进行达到投票，具有防刷票投票功能，同时也能高效的吸取活粉。 
+
+盾灵投票吸粉系统存在SQL注入漏洞，攻击者可利用该漏洞获取数据库敏感信息。</description></vulnerability><vulnerability><number>CNVD-2020-62888</number><title>番茄免费小说app存在拒绝服务漏洞</title><serverity>低</serverity><products><product>北京臻鼎科技有限公司 番茄免费小说app v3.4.5.32</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-10-30</submitTime><openTime>2020-12-14</openTime><discovererName>爱加密安全服务中心</discovererName><formalWay>暂无</formalWay><description>番茄免费小说app是一款主打正版的小说阅读器。
+
+番茄免费小说app存在拒绝服务漏洞，攻击者利用工具构建畸形序列化的Intent数据启动APP造成应用崩溃。</description></vulnerability><vulnerability><number>CNVD-2020-62887</number><title>上海互联网软件集团有限公司互软UMIS协同管理平台存在未授权访问漏洞</title><serverity>中</serverity><products><product>上海互联网软件集团有限公司 互软UMIS协同管理平台 </product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-10-30</submitTime><openTime>2020-12-14</openTime><discovererName>venn</discovererName><formalWay>目前厂商尚未提供相关漏洞补丁链接，请关注厂商主页随时更新：&#xD;
+http://www.beyondbit.com/beyond_web/html/beyondbit2017/umis/List/index.htm</formalWay><description>互软UMIS协同管理平台以人为中心、以流程为主线、以知识为基础为组织创建高效沟通、紧密协作的系统化管理利器。
+
+上海互联网软件集团有限公司互软UMIS协同管理平台存在未授权访问漏洞，攻击者可利用该漏洞下载大量系统内部未公开文件获取敏感信息。</description></vulnerability><vulnerability><number>CNVD-2020-62884</number><title>倾天网络科技（上海）有限公司GetSusp存在拒绝服务漏洞</title><serverity>中</serverity><products><product>倾天网络科技（上海）有限公司 GetSusp &lt;=3.0.0.640</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-10-30</submitTime><openTime>2020-12-14</openTime><discovererName>jiwokeji</discovererName><formalWay>目前厂商尚未提供相关漏洞补丁链接，请关注厂商主页随时更新：&#xD;
+https://www.mcafee.com/zh-cn/index.html</formalWay><description>倾天网络科技(上海)有限公司经营范围包括：从事网络科技、电子软件工程技术领域内技术开发、技术咨询、技术服务等。
+
+倾天网络科技（上海）有限公司GetSusp存在拒绝服务漏洞，攻击者可利用该漏洞造成拒绝服务。</description></vulnerability><vulnerability><number>CNVD-2020-62882</number><title>SETA管理系统存在SQL注入漏洞</title><serverity>高</serverity><products><product>SETA SETA管理系统 </product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-10-30</submitTime><openTime>2020-12-14</openTime><discovererName>杭州迪普科技股份有限公司</discovererName><formalWay>暂无</formalWay><description>SETA管理系统是一款辅助教师完成教学工作，并帮助学生在线参与课程学习，同时支持非课程内的学生访问部分内容，管理员进行课程管理的软件。
+
+SETA管理系统存在SQL注入漏洞，攻击者可利用该漏洞获取数据库敏感信息。
+</description></vulnerability><vulnerability><number>CNVD-2020-62881</number><title>SETA管理系统存在SQL注入漏洞（CNVD-2020-62881）</title><serverity>高</serverity><products><product>SETA SETA管理系统 </product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-10-30</submitTime><openTime>2020-12-14</openTime><discovererName>杭州迪普科技股份有限公司</discovererName><formalWay>暂无</formalWay><description>SETA管理系统是一款辅助教师完成教学工作，并帮助学生在线参与课程学习，同时支持非课程内的学生访问部分内容，管理员进行课程管理的软件。
+
+SETA管理系统存在SQL注入漏洞，攻击者可利用该漏洞获取数据库敏感信息。
+</description></vulnerability><vulnerability><number>CNVD-2020-69517</number><title>Win8网址导航源码1.0存在代码执行漏洞</title><serverity>高</serverity><products><product>Win8网址导航 Win8网址导航 1.0</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-11-20</submitTime><openTime>2020-12-14</openTime><discovererName>上海计算机软件技术开发中心</discovererName><formalWay>暂无</formalWay><description>Win8网址导航整站采用html5+css+jquery布局，静态版单页面。
+
+Win8网址导航源码1.0存在代码执行漏洞，攻击者可利用该漏洞获取服务器控制权。</description></vulnerability><vulnerability><number>CNVD-2020-62877</number><title>盾灵投票吸粉系统存在SQL注入漏洞（CNVD-2020-62877）</title><serverity>中</serverity><products><product>盾灵科技 盾灵投票吸粉系统 V1.0</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-10-30</submitTime><openTime>2020-12-14</openTime><discovererName>lant1e</discovererName><formalWay>目前厂商尚未提供相关漏洞补丁链接，请关注厂商主页随时更新：&#xD;
+http://www.dunling.com/</formalWay><description>盾灵投票吸粉系统可应用于公众号，通过微信公众号的消息接口收集用户发送投票编号的数据进行达到投票，具有防刷票投票功能，同时也能高效的吸取活粉。 
+
+盾灵投票吸粉系统存在SQL注入漏洞，攻击者可利用该漏洞获取数据库敏感信息。
+</description></vulnerability><vulnerability><number>CNVD-2020-62875</number><title>上海展盟网络科技有限公司ABC看图存在堆越界写漏洞</title><serverity>中</serverity><products><product>上海展盟网络科技有限公司 ABC看图 3.2.0.6</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-10-30</submitTime><openTime>2020-12-14</openTime><discovererName>京东云安全</discovererName><formalWay>目前厂商尚未提供相关漏洞补丁链接，请关注厂商主页随时更新：&#xD;
+http://abckantu.7654.com/</formalWay><description>ABC看图是一款永久免费的看图软件，智能开启硬件加速，支持各种图片格式。
+
+上海展盟网络科技有限公司ABC看图存在堆越界写漏洞，攻击者可利利用该漏洞可导致拒绝服务。</description></vulnerability><vulnerability><number>CNVD-2020-62874</number><title>上海展盟网络科技有限公司ABC看图存在堆越界读漏洞</title><serverity>中</serverity><products><product>上海展盟网络科技有限公司 ABC看图 3.2.0.6</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-10-30</submitTime><openTime>2020-12-14</openTime><discovererName>京东云安全</discovererName><formalWay>目前厂商尚未提供相关漏洞补丁链接，请关注厂商主页随时更新：&#xD;
+http://abckantu.7654.com/</formalWay><description>ABC看图是一款看图软件，智能开启硬件加速，支持各种图片格式。
+
+上海展盟网络科技有限公司ABC看图存在堆越界读漏洞，攻击者可利用该漏洞导致拒绝服务攻击。</description></vulnerability><vulnerability><number>CNVD-2020-62873</number><title>上海展盟网络科技有限公司ABC看图存在拒绝服务漏洞</title><serverity>中</serverity><products><product>上海展盟网络科技有限公司 ABC看图 3.2.0.6</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-10-30</submitTime><openTime>2020-12-14</openTime><discovererName>京东云安全</discovererName><formalWay>目前厂商尚未提供相关漏洞补丁链接，请关注厂商主页随时更新：&#xD;
+http://abckantu.7654.com/</formalWay><description>ABC看图是一款看图软件，智能开启硬件加速，支持各种图片格式。
+
+上海展盟网络科技有限公司ABC看图存在拒绝服务漏洞，攻击者可利用该漏洞导致软件崩溃。</description></vulnerability><vulnerability><number>CNVD-2020-69734</number><title>Oracle WebLogic存在未授权访问漏洞</title><serverity>高</serverity><products><product>Oracle WebLogic Server 10.3.6.0.0</product><product>Oracle WebLogic Server 12.2.1.3.0</product><product>Oracle Oracle WebLogic Server 12.1.3.0.0</product><product>Oracle WebLogic Server 12.2.1.4.0</product><product>Oracle WebLogic Server 14.1.1.0.0</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-11-05</submitTime><openTime>2020-12-14</openTime><discovererName>BMH Security Team</discovererName><formalWay>目前厂商尚未提供相关漏洞补丁链接，请关注厂商主页随时更新：&#xD;
+https://www.oracle.com/</formalWay><description>WebLogic 是美国 Oracle 公司出品的 Java 应用服务器，WebLogic 是用于开发、集成、部署和管理大型分布式 Web 应用、网络应用和数据库应用。
+
+Oracle WebLogic存在未授权访问漏洞，攻击者可利用该漏洞获取服务器控制权限。</description></vulnerability><vulnerability><number>CNVD-2020-62871</number><title>DCS C300控制器CC-PCNT02存在拒绝服务漏洞</title><serverity>中</serverity><products><product>霍尼韦尔（中国）有限公司 DCS C300控制器CC-PCNT02 EXP510.1-37.205</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-10-30</submitTime><openTime>2020-12-14</openTime><discovererName>彭广明、秦玉龙、杜鹏、曹可建</discovererName><formalWay>目前厂商尚未提供相关漏洞补丁链接，请关注厂商主页随时更新：&#xD;
+https://www.honeywell.com.cn/</formalWay><description>CC-PCNT02为霍尼韦尔DCS C300系统的控制器，支持以太网通信。
+
+DCS C300 控制器CC-PCNT02存在拒绝服务漏洞，攻击者可利用该漏洞造成拒绝服务。</description></vulnerability><vulnerability><number>CNVD-2020-62870</number><title>DCS C300控制器CC-PCNT02存在拒绝服务漏洞（CNVD-2020-62870）</title><serverity>中</serverity><products><product>霍尼韦尔（中国）有限公司 DCS C300控制器CC-PCNT02 EXP510.1-37.205</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-10-30</submitTime><openTime>2020-12-14</openTime><discovererName>彭广明、秦玉龙、张晓明、张嘉玮</discovererName><formalWay>目前厂商尚未提供相关漏洞补丁链接，请关注厂商主页随时更新：&#xD;
+https://www.honeywell.com.cn/</formalWay><description>CC-PCNT02为霍尼韦尔DCS C300系统的控制器，支持以太网通信。
+
+DCS C300控制器CC-PCNT02存在拒绝服务漏洞，攻击者可利用该漏洞造成拒绝服务。</description></vulnerability><vulnerability><number>CNVD-2020-62861</number><title>BEESCMS企业网站管理系统存在SQL注入漏洞</title><serverity>中</serverity><products><product>BEESCMS BEESCMS企业网站管理系统 V4.0_R_20160525</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-10-30</submitTime><openTime>2020-12-14</openTime><discovererName>青三</discovererName><formalWay>目前厂商尚未提供相关漏洞补丁链接，请关注厂商主页随时更新：&#xD;
+http://www.beescms.com/</formalWay><description>BEESCMS企业网站管理系统是一款PHP+MYSQL，多语言系统，内容模块易扩展，模板风格多样。
+
+BEESCMS企业网站管理系统存在SQL注入漏洞，攻击者可利用该漏洞获取数据库敏感信息。</description></vulnerability><vulnerability><number>CNVD-2020-62858</number><title>duxcms内容管理系统后台存在文件上传漏洞</title><serverity>高</serverity><products><product>duxcms duxcms内容管理系统 v2.0 </product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-10-30</submitTime><openTime>2020-12-14</openTime><discovererName>Longing</discovererName><formalWay>暂无</formalWay><description>DuxCms是一款基于HMVC规则，采用PHP开发的适用于中小企业、公司、新闻、个人等相关行业的网站内容管理。
+
+duxcms内容管理系统后台存在文件上传漏洞，攻击者可利用该漏洞获取服务器管理权限。</description></vulnerability><vulnerability><number>CNVD-2020-73677</number><title>盾灵投票吸粉系统前台用户修改资料存在SQL注入漏洞</title><serverity>中</serverity><products><product>盾灵科技 盾灵投票吸粉系统 V1.0</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-11-15</submitTime><openTime>2020-12-14</openTime><discovererName>lant1e</discovererName><formalWay>目前厂商尚未提供相关漏洞补丁链接，请关注厂商主页随时更新： &#xD;
+http://www.dunling.com/</formalWay><description>盾灵投票吸粉系统可应用于公众号，通过微信公众号的消息接口收集用户发送投票编号的数据进行达到投票，具有防刷票投票功能，同时也能高效的吸取活粉。 
+
+盾灵投票吸粉系统前台用户修改资料存在SQL注入漏洞，攻击者可以利用该漏洞获取数据敏感信息。</description></vulnerability><vulnerability><number>CNVD-2020-62840</number><title>盾灵投票吸粉系统存在SQL注入漏洞（CNVD-2020-62840）</title><serverity>中</serverity><products><product>盾灵科技 盾灵投票吸粉系统 V1.0</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-10-30</submitTime><openTime>2020-12-14</openTime><discovererName>lant1e</discovererName><formalWay>目前厂商尚未提供相关漏洞补丁链接，请关注厂商主页随时更新：&#xD;
+http://www.dunling.com/</formalWay><description>盾灵投票吸粉系统可应用于公众号，通过微信公众号的消息接口收集用户发送投票编号的数据进行达到投票，具有防刷票投票功能，同时也能高效的吸取活粉。
+
+盾灵投票吸粉系统存在SQL注入漏洞，攻击者可以利用此漏洞获取数据库敏感信息。</description></vulnerability><vulnerability><number>CNVD-2020-62839</number><title>盾灵投票吸粉系统存在SQL注入漏洞（CNVD-2020-62839）</title><serverity>中</serverity><products><product>盾灵科技 盾灵投票吸粉系统 V1.0</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-10-30</submitTime><openTime>2020-12-14</openTime><discovererName>lant1e</discovererName><formalWay>目前厂商尚未提供相关漏洞补丁链接，请关注厂商主页随时更新：&#xD;
+http://www.dunling.com/</formalWay><description>盾灵投票吸粉系统可应用于公众号，通过微信公众号的消息接口收集用户发送投票编号的数据进行达到投票，具有防刷票投票功能，同时也能高效的吸取活粉。
+
+盾灵投票吸粉系统存在SQL注入漏洞，攻击者可以利用此漏洞获取数据库敏感信息。</description></vulnerability><vulnerability><number>CNVD-2020-62838</number><title>盾灵投票吸粉系统存在SQL注入漏洞（CNVD-2020-62838）</title><serverity>中</serverity><products><product>盾灵科技 盾灵投票吸粉系统 V1.0</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-10-30</submitTime><openTime>2020-12-14</openTime><discovererName>lant1e</discovererName><formalWay>目前厂商尚未提供相关漏洞补丁链接，请关注厂商主页随时更新：&#xD;
+http://www.dunling.com/</formalWay><description>盾灵投票吸粉系统可应用于公众号，通过微信公众号的消息接口收集用户发送投票编号的数据进行达到投票，具有防刷票投票功能，同时也能高效的吸取活粉。 
+
+盾灵投票吸粉系统存在SQL注入漏洞，攻击者可以利用此漏洞获取数据数据库敏感信息。</description></vulnerability><vulnerability><number>CNVD-2020-62837</number><title>盾灵投票吸粉系统存在SQL注入漏洞（CNVD-2020-62837）</title><serverity>中</serverity><products><product>盾灵科技 盾灵投票吸粉系统 V1.0</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-10-30</submitTime><openTime>2020-12-14</openTime><discovererName>lant1e</discovererName><formalWay>目前厂商尚未提供相关漏洞补丁链接，请关注厂商主页随时更新：&#xD;
+http://www.dunling.com/</formalWay><description>盾灵投票吸粉系统可应用于公众号，通过微信公众号的消息接口收集用户发送投票编号的数据进行达到投票，具有防刷票投票功能，同时也能高效的吸取活粉。 
+
+盾灵投票吸粉系统存在SQL注入漏洞，攻击者可利用该漏洞获取数据库敏感信息。</description></vulnerability><vulnerability><number>CNVD-2020-62836</number><title>盾灵投票吸粉系统存在SQL注入漏洞（CNVD-2020-62836）</title><serverity>中</serverity><products><product>盾灵科技 盾灵投票吸粉系统 V1.0</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-10-30</submitTime><openTime>2020-12-14</openTime><discovererName>lant1e</discovererName><formalWay>目前厂商尚未提供相关漏洞补丁链接，请关注厂商主页随时更新：&#xD;
+http://www.dunling.com/&#xD;
+ </formalWay><description>盾灵投票吸粉系统可应用于公众号，通过微信公众号的消息接口收集用户发送投票编号的数据进行达到投票，具有防刷票投票功能，同时也能高效的吸取活粉。
+
+盾灵投票吸粉系统存在SQL注入漏洞，攻击者可利用该漏洞获取数据库敏感信息。</description></vulnerability><vulnerability><number>CNVD-2020-62834</number><title>盾灵投票吸粉系统存在SQL注入漏洞（CNVD-2020-62834）</title><serverity>中</serverity><products><product>盾灵科技 盾灵投票吸粉系统 V1.0</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-10-30</submitTime><openTime>2020-12-14</openTime><discovererName>lant1e</discovererName><formalWay>目前厂商尚未提供相关漏洞补丁链接，请关注厂商主页随时更新：&#xD;
+http://www.dunling.com/&#xD;
+</formalWay><description>盾灵投票吸粉系统可应用于公众号，通过微信公众号的消息接口收集用户发送投票编号的数据进行达到投票，具有防刷票投票功能，同时也能高效的吸取活粉。 
+
+盾灵投票吸粉系统存在SQL注入漏洞，攻击者可利用该漏洞获取数据库敏感信息。</description></vulnerability><vulnerability><number>CNVD-2020-62833</number><title>盾灵投票吸粉系统存在SQL注入漏洞（CNVD-2020-62833）</title><serverity>中</serverity><products><product>盾灵科技 盾灵投票吸粉系统 V1.0</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-10-30</submitTime><openTime>2020-12-14</openTime><discovererName>lant1e</discovererName><formalWay>目前厂商尚未提供相关漏洞补丁链接，请关注厂商主页随时更新：&#xD;
+http://www.dunling.com/</formalWay><description>盾灵投票吸粉系统可应用于公众号，通过微信公众号的消息接口收集用户发送投票编号的数据进行达到投票，具有防刷票投票功能，同时也能高效的吸取活粉。
+ 
+盾灵投票吸粉系统存在SQL注入漏洞，攻击者可以利用此漏洞获取数据库敏感信息。</description></vulnerability><vulnerability><number>CNVD-2020-62832</number><title>盾灵投票吸粉系统存在SQL注入漏洞（CNVD-2020-62832）</title><serverity>中</serverity><products><product>盾灵科技 盾灵投票吸粉系统 V1.0</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-10-30</submitTime><openTime>2020-12-14</openTime><discovererName>lant1e</discovererName><formalWay>目前厂商尚未提供相关漏洞补丁链接，请关注厂商主页随时更新：&#xD;
+http://www.dunling.com/</formalWay><description>盾灵投票吸粉系统可应用于公众号，通过微信公众号的消息接口收集用户发送投票编号的数据进行达到投票，具有防刷票投票功能，同时也能高效的吸取活粉。
+
+盾灵投票吸粉系统存在SQL注入漏洞，攻击者可以利用此漏洞获取数据内容等敏感信息。</description></vulnerability><vulnerability><number>CNVD-2020-62829</number><title>北京用友政务软件股份有限公司用友GRP-U8 高校内控管理软件存在SQL注入漏洞</title><serverity>高</serverity><products><product>北京用友政务软件股份有限公司 用友GRP-U8 高校内控管理软件 </product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-10-30</submitTime><openTime>2020-12-14</openTime><discovererName>Liqun</discovererName><formalWay>厂商已提供漏洞修补方案，建议用户下载使用：&#xD;
+http://pan.yonyou.com/s/96r9ip4HTvQ</formalWay><description>北京用友政务软件股份有限公司是由用友集团和财政部财政科学研究所共同设立，是面向政府部门、事业单位、非赢利组织的全方位业务管理信息化解决方案提供商。
+
+北京用友政务软件股份有限公司用友GRP-U8 高校内控管理软件存在SQL注入漏洞，攻击者可利用该漏洞获取数据库敏感信息。</description></vulnerability><vulnerability><number>CNVD-2020-62827</number><title>SIYUCMS V6.1存在文件上传漏洞</title><serverity>高</serverity><products><product>沈阳点动科技有限公司 SIYUCMS v6.1</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-10-30</submitTime><openTime>2020-12-14</openTime><discovererName>porlock</discovererName><formalWay>厂商已提供漏洞修补方案，请关注厂商主页及时更新：&#xD;
+https://siyucms.com/</formalWay><description>SIYUCMS 是一款基于 ThinkPHP + AdminLTE 的内容管理系统。
+
+SIYUCMS V6.1存在文件上传漏洞，攻击者可利用该漏洞获取网站服务器管理权限。</description></vulnerability><vulnerability><number>CNVD-2020-62869</number><title>JeewxBoot微信管家平台存在XML实体注入漏洞</title><serverity>中</serverity><products><product>北京国炬信息技术有限公司 JeewxBoot微信管家平台 1.3</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-10-30</submitTime><openTime>2020-12-14</openTime><discovererName>turn1tup</discovererName><formalWay>目前厂商尚未提供相关漏洞补丁链接，请关注厂商主页随时更新：&#xD;
+http://www.guojusoft.com/index.html</formalWay><description>JeewxBoot微信管家平台是一款免费的JAVA微信管家平台，支持微信公众号、小程序、微信第三方平台、抽奖活动等。
+
+JeewxBoot微信管家平台存在XML实体注入漏洞，攻击者可利用该漏洞进行任意文件读取、DOS、SSRF攻击。</description></vulnerability><vulnerability><number>CNVD-2020-64781</number><title>BEESCMS企业网站管理系统存在文件包含漏洞</title><serverity>高</serverity><products><product>BEESCMS BEESCMS企业网站管理系统 V4.0_R_20160525</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-11-03</submitTime><openTime>2020-12-18</openTime><discovererName>青三</discovererName><formalWay>厂商尚未提供漏洞修补方案，请关注厂商主页及时更新：&#xD;
+http://www.beescms.com/</formalWay><description>BEESCMS企业网站管理系统是一款PHP+MYSQL，多语言系统，内容模块易扩展，模板风格多样。
+
+BEESCMS企业网站管理系统存在文件包含漏洞。攻击者可利用该漏洞获取服务器权限。</description></vulnerability><vulnerability><number>CNVD-2020-64482</number><title>kkcms存在SQL注入漏洞（CNVD-2020-64482）</title><serverity>高</serverity><products><product>kkcms kkcms 1.37</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-10-31</submitTime><openTime>2020-12-15</openTime><discovererName>Daniel</discovererName><formalWay>暂无</formalWay><description>kkcms是一套开源的视频采集播放系统。
+
+kkcms存在SQL注入漏洞，攻击者可利用漏洞获取数据库敏感信息。
+</description></vulnerability><vulnerability><number>CNVD-2020-64481</number><title>secnet安网智能AC管理系统存在弱口令漏洞</title><serverity>中</serverity><products><product>广州安网通信技术有限公司 AC管理平台 </product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-10-31</submitTime><openTime>2020-12-15</openTime><discovererName>songyi111</discovererName><formalWay>厂商尚未提供漏洞修补方案，请关注厂商主页及时更新：&#xD;
+http://www.secnet.cn/</formalWay><description>广州安网通信技术有限公司（简称“安网通信”）是一家专注于网络通信设备的研发、生产、销售及服务，并为用户提供网络安全、路由器、交换机、防火墙、无线AP覆盖等网络产品和业务解决方案的服务商。
+
+secnet安网智能AC管理系统存在弱口令漏洞，攻击者可利用该漏洞登录系统获取敏感信息。</description></vulnerability><vulnerability><number>CNVD-2020-64766</number><title> 杭州吉拉科技有限公司精益价值流管理系统（LVS）存在未授权访问漏洞</title><serverity>中</serverity><products><product>杭州吉拉科技有限公司 精益价值流管理系统（LVS） V3.0 </product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-11-01</submitTime><openTime>2020-12-16</openTime><discovererName>王晓帅</discovererName><formalWay>厂商尚未提供漏洞修补方案，请关注厂商主页及时更新：&#xD;
+http://www.glvsm.com/</formalWay><description>杭州吉拉科技有限公司是一家企业网络服务商，致力于以企业网络需求为基础提供定制化解决方案，打造云服务云网平台。
+
+杭州吉拉科技有限公司精益价值流管理系统（LVS）存在未授权访问漏洞。攻击者可利用漏洞获取敏感信息。 </description></vulnerability><vulnerability><number>CNVD-2020-64765</number><title>中国移动通信有限公司HG6821M存在未授权访问漏洞</title><serverity>低</serverity><products><product>中国移动通信有限公司 HG6821M </product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-11-01</submitTime><openTime>2020-12-16</openTime><discovererName>caleb250</discovererName><formalWay>厂商已提供漏洞修补方案，请关注厂商主页及时更新：&#xD;
+http://www.10086.cn</formalWay><description>HG6821M是一款光猫。
+
+中国移动通信有限公司HG6821M存在未授权访问漏洞。攻击者可利用漏洞获取设备的管理员密码。</description></vulnerability><vulnerability><number>CNVD-2020-64873</number><title>MTCEO文库系统后台do***_ca***.cl***.php文件存在SQL注入漏洞</title><serverity>高</serverity><products><product>MTCEO文库系统 MTCEO文库系统 2.6</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-11-01</submitTime><openTime>2020-12-16</openTime><discovererName>lant1e</discovererName><formalWay>厂商已提供漏洞修补方案，请关注厂商主页及时更新：&#xD;
+http://www.mtceo.net</formalWay><description>MTCEO文库系统采用php+mysql，由thinkphp搭建底层，百度文库模板风格为基础风格。
+
+MTCEO文库系统后台do***_ca***.cl***.php文件存在SQL注入漏洞。攻击者可利用漏洞获取数据库敏感信息。</description></vulnerability><vulnerability><number>CNVD-2020-64872</number><title>MTCEO文库系统后台ad***.cl***.php文件存在SQL注入漏洞</title><serverity>高</serverity><products><product>MTCEO文库系统 MTCEO文库系统 2.6</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-11-01</submitTime><openTime>2020-12-16</openTime><discovererName>lant1e</discovererName><formalWay>厂商已提供漏洞修补方案，请关注厂商主页及时更新：&#xD;
+http://www.mtceo.net</formalWay><description>MTCEO文库系统采用php+mysql，由thinkphp搭建底层，百度文库模板风格为基础风格。
+
+MTCEO文库系统后台ad***.cl***.php文件存在SQL注入漏洞。攻击者可利用漏洞获取数据库敏感信息。</description></vulnerability><vulnerability><number>CNVD-2020-64764</number><title>EasyReport存在命令执行漏洞</title><serverity>高</serverity><products><product>EasyReport EasyReport 2.1</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-11-01</submitTime><openTime>2020-12-16</openTime><discovererName>turn1tup</discovererName><formalWay>厂商已提供漏洞修补方案，请关注厂商主页及时更新：&#xD;
+https://github.com/xianrendzw/EasyReport</formalWay><description>EasyReport是一个简单易用的Web报表工具，它的主要功能是把SQL语句查询出的数据转换成报表页面，同时支持表格的跨行(RowSpan)与跨列(ColSpan)配置。 
+
+EasyReport存在命令执行漏洞。攻击者可利用漏洞登录后台，可以执行任意命令。</description></vulnerability><vulnerability><number>CNVD-2020-64763</number><title>北京中成科信科技发展有限公司综合管理平台存在SQL注入漏洞（CNVD-2020-64763）</title><serverity>高</serverity><products><product>北京中成科信科技发展有限公司 综合管理平台 </product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-11-01</submitTime><openTime>2020-12-17</openTime><discovererName>赵翔</discovererName><formalWay>厂商尚未提供漏洞修补方案，请关注厂商主页及时更新：&#xD;
+http://www.zckx.net/</formalWay><description>北京中成科信科技发展有限公司是一家旅游全产业链服务商。
+
+北京中成科信科技发展有限公司综合管理平台存在SQL注入漏洞。攻击者可利用该漏洞获取数据库敏感信息。</description></vulnerability><vulnerability><number>CNVD-2020-64762</number><title>山西山大新网科技有限公司客商自助管理系统存在万能密码登录漏洞</title><serverity>高</serverity><products><product>山西山大新网科技有限公司 客商自助管理系统 </product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-11-01</submitTime><openTime>2020-12-16</openTime><discovererName>王晓帅</discovererName><formalWay>厂商尚未提供漏洞修补方案，请关注厂商主页及时更新：&#xD;
+http://www.sdxinwang.com/</formalWay><description>山西山大新网科技有限公司是一家专业从事开发行业应用软件产品、软件服务的高科技公司，公司长期致力于提供具有自主知识产权的企业管理软件、解决方案与服务。
+
+山西山大新网科技有限公司客商自助管理系统存在万能密码登录漏洞。攻击者可利用该漏洞获取敏感信息。
+
+</description></vulnerability><vulnerability><number>CNVD-2020-64761</number><title>162100网址导航3号存在命令执行漏洞</title><serverity>高</serverity><products><product>沈阳市皇姑区爱浓网络技术服务中心 162100网址导航3号 9.3.4</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-11-01</submitTime><openTime>2020-12-16</openTime><discovererName>莽子娃</discovererName><formalWay>厂商尚未提供漏洞修补方案，请关注厂商主页及时更新：&#xD;
+http://www.162100.com/&#xD;
+</formalWay><description>162100网址导航3号是一个以php+MySQL进行开发的网址导航类网站源码。
+
+162100网址导航3号存在命令执行漏洞。攻击者可利用漏洞写入php文件，导致命令执行。</description></vulnerability><vulnerability><number>CNVD-2020-65242</number><title>禅道开源版存在任意文件下载漏洞</title><serverity>高</serverity><products><product>青岛易企天创管理咨询有限公司 禅道开源版 v12.4.3</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-11-02</submitTime><openTime>2020-12-17</openTime><discovererName>Tencent Xcheck</discovererName><formalWay>厂商尚未提供漏洞修补方案，请关注厂商主页及时更新： &#xD;
+https://www.zentao.net/</formalWay><description>禅道开源版是一款研发项目管理软件。
+
+禅道开源版存在任意文件下载漏洞，攻击者可利用该漏洞获取敏感信息。</description></vulnerability><vulnerability><number>CNVD-2020-65240</number><title>Hancom Office 2020存在内存破坏漏洞（CNVD-2020-65240）</title><serverity>低</serverity><products><product>Hancom Hancom Office 2020 11.0.0.2353</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-11-02</submitTime><openTime>2020-12-17</openTime><discovererName>绿盟科技集团股份有限公司</discovererName><formalWay>厂商尚未提供漏洞修补方案，请关注厂商主页及时更新：&#xD;
+https://office.hancom.com/</formalWay><description>Hancom Office 2020是一款在线office办公软件。
+
+Hancom Office 2020存在内存破坏漏洞，攻击者可利用该漏洞造成拒绝服务。</description></vulnerability><vulnerability><number>CNVD-2020-65239</number><title>Hancom Office 2020存在内存破坏漏洞（CNVD-2020-65239）</title><serverity>低</serverity><products><product>Hancom Hancom Office 2020 11.0.0.2353</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-11-02</submitTime><openTime>2020-12-17</openTime><discovererName>绿盟科技集团股份有限公司</discovererName><formalWay>厂商尚未提供漏洞修补方案，请关注厂商主页及时更新：&#xD;
+https://office.hancom.com/</formalWay><description>Hancom Office 2020是一款在线office办公软件。
+
+Hancom Office 2020存在内存破坏漏洞，攻击者可利用该漏洞造成拒绝服务。</description></vulnerability><vulnerability><number>CNVD-2020-65238</number><title>Hancom Office 2020存在内存破坏漏洞（CNVD-2020-65238）</title><serverity>低</serverity><products><product>Hancom Hancom Office 2020 11.0.0.2353</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-11-02</submitTime><openTime>2020-12-17</openTime><discovererName>绿盟科技集团股份有限公司</discovererName><formalWay>厂商尚未提供漏洞修补方案，请关注厂商主页及时更新：&#xD;
+https://office.hancom.com/</formalWay><description>Hancom Office 2020是一款在线office办公软件。
+
+Hancom Office 2020存在内存破坏漏洞，攻击者可利用该漏洞造成拒绝服务。</description></vulnerability><vulnerability><number>CNVD-2020-65237</number><title>Hancom Office 2020存在内存破坏漏洞（CNVD-2020-65237）</title><serverity>低</serverity><products><product>Hancom Hancom Office 2020 11.0.0.2353</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-11-02</submitTime><openTime>2020-12-17</openTime><discovererName>绿盟科技集团股份有限公司</discovererName><formalWay>厂商尚未提供漏洞修补方案，请关注厂商主页及时更新：&#xD;
+https://office.hancom.com/</formalWay><description>Hancom Office 2020是一款在线office办公软件。
+
+Hancom Office 2020存在内存破坏漏洞，攻击者可利用该漏洞造成拒绝服务。</description></vulnerability><vulnerability><number>CNVD-2020-65236</number><title>Hancom Office 2020存在内存破坏漏洞（CNVD-2020-65236）</title><serverity>低</serverity><products><product>Hancom Hancom Office 2020 11.0.0.2353</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-11-02</submitTime><openTime>2020-12-17</openTime><discovererName>绿盟科技集团股份有限公司</discovererName><formalWay>厂商尚未提供漏洞修补方案，请关注厂商主页及时更新：&#xD;
+https://office.hancom.com/</formalWay><description>Hancom Office 2020是一款在线office办公软件。
+
+Hancom Office 2020存在内存破坏漏洞，攻击者可利用该漏洞造成拒绝服务。</description></vulnerability><vulnerability><number>CNVD-2020-65235</number><title>Hancom Office 2020存在内存破坏漏洞（CNVD-2020-65235）</title><serverity>低</serverity><products><product>Hancom Hancom Office 2020 11.0.0.2353</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-11-02</submitTime><openTime>2020-12-17</openTime><discovererName>绿盟科技集团股份有限公司</discovererName><formalWay>厂商尚未提供漏洞修补方案，请关注厂商主页及时更新：&#xD;
+https://office.hancom.com/</formalWay><description>Hancom Office 2020是一款在线office办公软件。
+
+Hancom Office 2020存在内存破坏漏洞，攻击者可利用该漏洞造成拒绝服务。</description></vulnerability><vulnerability><number>CNVD-2020-65234</number><title>Hancom Office 2020存在内存破坏漏洞（CNVD-2020-65234）</title><serverity>低</serverity><products><product>Hancom Hancom Office 2020 11.0.0.2353</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-11-02</submitTime><openTime>2020-12-17</openTime><discovererName>绿盟科技集团股份有限公司</discovererName><formalWay>厂商尚未提供漏洞修补方案，请关注厂商主页及时更新：&#xD;
+https://office.hancom.com/</formalWay><description>Hancom Office 2020是一款在线office办公软件。
+
+Hancom Office 2020存在内存破坏漏洞，攻击者可利用该漏洞造成拒绝服务。</description></vulnerability><vulnerability><number>CNVD-2020-65233</number><title>Hancom Office 2020存在内存破坏漏洞（CNVD-2020-65233）</title><serverity>低</serverity><products><product>Hancom Hancom Office 2020 11.0.0.2353</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-11-02</submitTime><openTime>2020-12-17</openTime><discovererName>绿盟科技集团股份有限公司</discovererName><formalWay>厂商尚未提供漏洞修补方案，请关注厂商主页及时更新：&#xD;
+https://office.hancom.com/</formalWay><description>Hancom Office 2020是一款在线office办公软件。
+
+Hancom Office 2020存在内存破坏漏洞，攻击者可利用该漏洞造成拒绝服务。</description></vulnerability><vulnerability><number>CNVD-2020-65232</number><title>Hancom Office 2020存在内存破坏漏洞（CNVD-2020-65232）</title><serverity>低</serverity><products><product>Hancom Hancom Office 2020 11.0.0.2353</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-11-02</submitTime><openTime>2020-12-17</openTime><discovererName>绿盟科技集团股份有限公司</discovererName><formalWay>厂商尚未提供漏洞修补方案，请关注厂商主页及时更新：&#xD;
+https://office.hancom.com/</formalWay><description>Hancom Office 2020是一款在线office办公软件。
+
+Hancom Office 2020存在内存破坏漏洞，攻击者可利用该漏洞造成拒绝服务。</description></vulnerability><vulnerability><number>CNVD-2020-65231</number><title>Hancom Office 2020存在内存破坏漏洞（CNVD-2020-65231）</title><serverity>低</serverity><products><product>Hancom Hancom Office 2020 11.0.0.2353</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-11-02</submitTime><openTime>2020-12-17</openTime><discovererName>绿盟科技集团股份有限公司</discovererName><formalWay>厂商尚未提供漏洞修补方案，请关注厂商主页及时更新：&#xD;
+https://office.hancom.com/</formalWay><description>Hancom Office 2020是一款在线office办公软件。
+
+Hancom Office 2020存在内存破坏漏洞，攻击者可利用该漏洞造成拒绝服务。</description></vulnerability><vulnerability><number>CNVD-2020-65230</number><title>Hancom Office 2020存在内存破坏漏洞（CNVD-2020-65230）</title><serverity>低</serverity><products><product>Hancom Hancom Office 2020 11.0.0.2353</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-11-02</submitTime><openTime>2020-12-17</openTime><discovererName>绿盟科技集团股份有限公司</discovererName><formalWay>厂商尚未提供漏洞修补方案，请关注厂商主页及时更新：&#xD;
+https://office.hancom.com/</formalWay><description>Hancom Office 2020是一款在线office办公软件。
+
+Hancom Office 2020存在内存破坏漏洞，攻击者可利用该漏洞造成拒绝服务。</description></vulnerability><vulnerability><number>CNVD-2020-65229</number><title>Hancom Office 2020存在内存破坏漏洞（CNVD-2020-65229）</title><serverity>低</serverity><products><product>Hancom Hancom Office 2020 11.0.0.2353</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-11-02</submitTime><openTime>2020-12-17</openTime><discovererName>绿盟科技集团股份有限公司</discovererName><formalWay>厂商尚未提供漏洞修补方案，请关注厂商主页及时更新：&#xD;
+https://office.hancom.com/</formalWay><description>Hancom Office 2020是一款在线office办公软件。
+
+Hancom Office 2020存在内存破坏漏洞，攻击者可利用该漏洞造成拒绝服务。</description></vulnerability><vulnerability><number>CNVD-2020-65228</number><title>Hancom Office 2020存在内存破坏漏洞（CNVD-2020-65228）</title><serverity>低</serverity><products><product>Hancom Hancom Office 2020 11.0.0.2353</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-11-02</submitTime><openTime>2020-12-17</openTime><discovererName>绿盟科技集团股份有限公司</discovererName><formalWay>厂商尚未提供漏洞修补方案，请关注厂商主页及时更新：&#xD;
+https://office.hancom.com/</formalWay><description>Hancom Office 2020是一款在线office办公软件。
+
+Hancom Office 2020存在内存破坏漏洞，攻击者可利用该漏洞造成拒绝服务。</description></vulnerability><vulnerability><number>CNVD-2020-65227</number><title>Hancom Office 2020存在内存破坏漏洞（CNVD-2020-65227）</title><serverity>低</serverity><products><product>Hancom Hancom Office 2020 11.0.0.2353</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-11-02</submitTime><openTime>2020-12-17</openTime><discovererName>绿盟科技集团股份有限公司</discovererName><formalWay>厂商尚未提供漏洞修补方案，请关注厂商主页及时更新：&#xD;
+https://office.hancom.com/</formalWay><description>Hancom Office 2020是一款在线office办公软件。
+
+Hancom Office 2020存在内存破坏漏洞，攻击者可利用该漏洞造成拒绝服务。</description></vulnerability><vulnerability><number>CNVD-2020-65226</number><title>Hancom Office 2020存在内存破坏漏洞（CNVD-2020-65226）</title><serverity>低</serverity><products><product>Hancom Hancom Office 2020 11.0.0.2353</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-11-02</submitTime><openTime>2020-12-17</openTime><discovererName>绿盟科技集团股份有限公司</discovererName><formalWay>厂商尚未提供漏洞修补方案，请关注厂商主页及时更新：&#xD;
+https://office.hancom.com/</formalWay><description>Hancom Office 2020是一款在线office办公软件。
+
+Hancom Office 2020存在内存破坏漏洞，攻击者可利用该漏洞造成拒绝服务。</description></vulnerability><vulnerability><number>CNVD-2020-65225</number><title>Hancom Office 2020存在内存破坏漏洞（CNVD-2020-65225）</title><serverity>低</serverity><products><product>Hancom Hancom Office 2020 11.0.0.2353</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-11-02</submitTime><openTime>2020-12-17</openTime><discovererName>绿盟科技集团股份有限公司</discovererName><formalWay>厂商尚未提供漏洞修补方案，请关注厂商主页及时更新：&#xD;
+https://office.hancom.com/</formalWay><description>Hancom Office 2020是一款在线office办公软件。
+
+Hancom Office 2020存在内存破坏漏洞，攻击者可利用该漏洞造成拒绝服务。</description></vulnerability><vulnerability><number>CNVD-2020-65224</number><title>Hancom Office 2020存在内存破坏漏洞（CNVD-2020-65224）</title><serverity>低</serverity><products><product>Hancom Hancom Office 2020 11.0.0.2353</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-11-02</submitTime><openTime>2020-12-17</openTime><discovererName>绿盟科技集团股份有限公司</discovererName><formalWay>厂商尚未提供漏洞修补方案，请关注厂商主页及时更新：&#xD;
+https://office.hancom.com/</formalWay><description>Hancom Office 2020是一款在线office办公软件。
+
+Hancom Office 2020存在内存破坏漏洞，攻击者可利用该漏洞造成拒绝服务。</description></vulnerability><vulnerability><number>CNVD-2020-65223</number><title>Hancom Office 2020存在内存破坏漏洞（CNVD-2020-65223）</title><serverity>低</serverity><products><product>Hancom Hancom Office 2020 11.0.0.2353</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-11-02</submitTime><openTime>2020-12-17</openTime><discovererName>绿盟科技集团股份有限公司</discovererName><formalWay>厂商尚未提供漏洞修补方案，请关注厂商主页及时更新：&#xD;
+https://office.hancom.com/</formalWay><description>Hancom Office 2020是一款在线office办公软件。
+
+Hancom Office 2020存在内存破坏漏洞，攻击者可利用该漏洞造成拒绝服务。</description></vulnerability><vulnerability><number>CNVD-2020-65222</number><title>Hancom Office 2020存在内存破坏漏洞（CNVD-2020-65222）</title><serverity>低</serverity><products><product>Hancom Hancom Office 2020 11.0.0.2353</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-11-02</submitTime><openTime>2020-12-17</openTime><discovererName>绿盟科技集团股份有限公司</discovererName><formalWay>厂商尚未提供漏洞修补方案，请关注厂商主页及时更新：&#xD;
+https://office.hancom.com/</formalWay><description>Hancom Office 2020是一款在线office办公软件。
+
+Hancom Office 2020存在内存破坏漏洞，攻击者可利用该漏洞造成拒绝服务。</description></vulnerability><vulnerability><number>CNVD-2020-65221</number><title>Hancom Office 2020存在内存破坏漏洞（CNVD-2020-65221）</title><serverity>低</serverity><products><product>Hancom Hancom Office 2020 11.0.0.2353</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-11-02</submitTime><openTime>2020-12-17</openTime><discovererName>绿盟科技集团股份有限公司</discovererName><formalWay>厂商尚未提供漏洞修补方案，请关注厂商主页及时更新：&#xD;
+https://office.hancom.com/</formalWay><description>Hancom Office 2020是一款在线office办公软件。
+
+Hancom Office 2020存在内存破坏漏洞，攻击者可利用该漏洞造成拒绝服务。</description></vulnerability><vulnerability><number>CNVD-2020-65220</number><title>Hancom Office 2020存在内存破坏漏洞（CNVD-2020-65220）</title><serverity>低</serverity><products><product>Hancom Hancom Office 2020 11.0.0.2353</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-11-02</submitTime><openTime>2020-12-17</openTime><discovererName>绿盟科技集团股份有限公司</discovererName><formalWay>厂商尚未提供漏洞修补方案，请关注厂商主页及时更新：&#xD;
+https://office.hancom.com/</formalWay><description>Hancom Office 2020是一款在线office办公软件。
+
+Hancom Office 2020存在内存破坏漏洞，攻击者可利用该漏洞造成拒绝服务。</description></vulnerability><vulnerability><number>CNVD-2020-65219</number><title>Hancom Office 2020存在内存破坏漏洞（CNVD-2020-65219）</title><serverity>低</serverity><products><product>Hancom Hancom Office 2020 11.0.0.2353</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-11-02</submitTime><openTime>2020-12-17</openTime><discovererName>绿盟科技集团股份有限公司</discovererName><formalWay>厂商尚未提供漏洞修补方案，请关注厂商主页及时更新：&#xD;
+https://office.hancom.com/</formalWay><description>Hancom Office 2020是一款在线office办公软件。
+
+Hancom Office 2020存在内存破坏漏洞，攻击者可利用该漏洞造成拒绝服务。</description></vulnerability><vulnerability><number>CNVD-2020-65218</number><title>Hancom Office 2020存在内存破坏漏洞（CNVD-2020-65218）</title><serverity>低</serverity><products><product>Hancom Hancom Office 2020 11.0.0.2353</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-11-02</submitTime><openTime>2020-12-17</openTime><discovererName>绿盟科技集团股份有限公司</discovererName><formalWay>厂商尚未提供漏洞修补方案，请关注厂商主页及时更新：&#xD;
+https://office.hancom.com/</formalWay><description>Hancom Office 2020是一款在线office办公软件。
+
+Hancom Office 2020存在内存破坏漏洞，攻击者可利用该漏洞造成拒绝服务。</description></vulnerability><vulnerability><number>CNVD-2020-65217</number><title>Hancom Office 2020存在内存破坏漏洞（CNVD-2020-65217）</title><serverity>低</serverity><products><product>Hancom Hancom Office 2020 11.0.0.2353</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-11-02</submitTime><openTime>2020-12-17</openTime><discovererName>绿盟科技集团股份有限公司</discovererName><formalWay>厂商尚未提供漏洞修补方案，请关注厂商主页及时更新：&#xD;
+https://office.hancom.com/</formalWay><description>Hancom Office 2020是一款在线office办公软件。
+
+Hancom Office 2020存在内存破坏漏洞，攻击者可利用该漏洞造成拒绝服务。</description></vulnerability><vulnerability><number>CNVD-2020-65216</number><title>Hancom Office 2020存在内存破坏漏洞（CNVD-2020-65216）</title><serverity>低</serverity><products><product>Hancom Hancom Office 2020 11.0.0.2353</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-11-02</submitTime><openTime>2020-12-17</openTime><discovererName>绿盟科技集团股份有限公司</discovererName><formalWay>厂商尚未提供漏洞修补方案，请关注厂商主页及时更新：&#xD;
+https://office.hancom.com/</formalWay><description>Hancom Office 2020是一款在线office办公软件。
+
+Hancom Office 2020存在内存破坏漏洞，攻击者可利用该漏洞造成拒绝服务。</description></vulnerability><vulnerability><number>CNVD-2020-65215</number><title>Hancom Office 2020存在内存破坏漏洞（CNVD-2020-65215）</title><serverity>低</serverity><products><product>Hancom Hancom Office 2020 11.0.0.2353</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-11-02</submitTime><openTime>2020-12-17</openTime><discovererName>绿盟科技集团股份有限公司</discovererName><formalWay>厂商尚未提供漏洞修补方案，请关注厂商主页及时更新：&#xD;
+https://office.hancom.com/</formalWay><description>Hancom Office 2020是一款在线office办公软件。
+
+Hancom Office 2020存在内存破坏漏洞，攻击者可利用该漏洞造成拒绝服务。</description></vulnerability><vulnerability><number>CNVD-2020-65214</number><title>Hancom Office 2020存在内存破坏漏洞（CNVD-2020-65214）</title><serverity>低</serverity><products><product>Hancom Hancom Office 2020 11.0.0.2353</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-11-02</submitTime><openTime>2020-12-17</openTime><discovererName>绿盟科技集团股份有限公司</discovererName><formalWay>厂商尚未提供漏洞修补方案，请关注厂商主页及时更新：&#xD;
+https://office.hancom.com/</formalWay><description>Hancom Office 2020是一款在线office办公软件。
+
+Hancom Office 2020存在内存破坏漏洞，攻击者可利用该漏洞造成拒绝服务。</description></vulnerability><vulnerability><number>CNVD-2020-65213</number><title>Hancom Office 2020存在内存破坏漏洞（CNVD-2020-65213）</title><serverity>低</serverity><products><product>Hancom Hancom Office 2020 11.0.0.2353</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-11-02</submitTime><openTime>2020-12-17</openTime><discovererName>绿盟科技集团股份有限公司</discovererName><formalWay>厂商尚未提供漏洞修补方案，请关注厂商主页及时更新：&#xD;
+https://office.hancom.com/</formalWay><description>Hancom Office 2020是一款在线office办公软件。
+
+Hancom Office 2020存在内存破坏漏洞，攻击者可利用该漏洞造成拒绝服务。</description></vulnerability><vulnerability><number>CNVD-2020-65212</number><title>Hancom Office 2020存在内存破坏漏洞（CNVD-2020-65212）</title><serverity>低</serverity><products><product>Hancom Hancom Office 2020 11.0.0.2353</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-11-02</submitTime><openTime>2020-12-17</openTime><discovererName>绿盟科技集团股份有限公司</discovererName><formalWay>厂商尚未提供漏洞修补方案，请关注厂商主页及时更新：&#xD;
+https://office.hancom.com/</formalWay><description>Hancom Office 2020是一款在线office办公软件。
+
+Hancom Office 2020存在内存破坏漏洞，攻击者可利用该漏洞造成拒绝服务。</description></vulnerability><vulnerability><number>CNVD-2020-65211</number><title>Hancom Office 2020存在内存破坏漏洞（CNVD-2020-65211）</title><serverity>低</serverity><products><product>Hancom Hancom Office 2020 11.0.0.2353</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-11-02</submitTime><openTime>2020-12-17</openTime><discovererName>绿盟科技集团股份有限公司</discovererName><formalWay>厂商尚未提供漏洞修补方案，请关注厂商主页及时更新：&#xD;
+https://office.hancom.com/</formalWay><description>Hancom Office 2020是一款在线office办公软件。
+
+Hancom Office 2020存在内存破坏漏洞，攻击者可利用该漏洞造成拒绝服务。</description></vulnerability><vulnerability><number>CNVD-2020-65210</number><title>Hancom Office 2020存在内存破坏漏洞（CNVD-2020-65210）</title><serverity>低</serverity><products><product>Hancom Hancom Office 2020 11.0.0.2353</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-11-02</submitTime><openTime>2020-12-17</openTime><discovererName>绿盟科技集团股份有限公司</discovererName><formalWay>厂商尚未提供漏洞修补方案，请关注厂商主页及时更新：&#xD;
+https://office.hancom.com/</formalWay><description>Hancom Office 2020是一款在线office办公软件。
+
+Hancom Office 2020存在内存破坏漏洞，攻击者可利用该漏洞造成拒绝服务。</description></vulnerability><vulnerability><number>CNVD-2020-63279</number><title>Hancom Office 2020存在内存破坏漏洞（CNVD-2020-63279）</title><serverity>低</serverity><products><product>Hancom Hancom Office 2020 11.0.0.2353</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-11-02</submitTime><openTime>2020-12-17</openTime><discovererName>绿盟科技集团股份有限公司</discovererName><formalWay>厂商尚未提供漏洞修补方案，请关注厂商主页及时更新：&#xD;
+https://office.hancom.com/</formalWay><description>Hancom Office 2020是一款在线office办公软件。
+
+Hancom Office 2020存在内存破坏漏洞，攻击者可利用该漏洞造成拒绝服务。</description></vulnerability><vulnerability><number>CNVD-2020-63278</number><title>Hancom Office 2020存在内存破坏漏洞（CNVD-2020-63278）</title><serverity>低</serverity><products><product>Hancom Hancom Office 2020 11.0.0.2353</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-11-02</submitTime><openTime>2020-12-17</openTime><discovererName>绿盟科技集团股份有限公司</discovererName><formalWay>厂商尚未提供漏洞修补方案，请关注厂商主页及时更新：&#xD;
+https://office.hancom.com/</formalWay><description>Hancom Office 2020是一款在线office办公软件。
+
+Hancom Office 2020存在内存破坏漏洞，攻击者可利用该漏洞造成拒绝服务。</description></vulnerability><vulnerability><number>CNVD-2020-65209</number><title>Hancom Office 2020存在内存破坏漏洞（CNVD-2020-65209）</title><serverity>低</serverity><products><product>Hancom Hancom Office 2020 11.0.0.2353</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-11-02</submitTime><openTime>2020-12-17</openTime><discovererName>绿盟科技集团股份有限公司</discovererName><formalWay>厂商尚未提供漏洞修补方案，请关注厂商主页及时更新：&#xD;
+https://office.hancom.com/</formalWay><description>Hancom Office 2020是一款在线office办公软件。
+
+Hancom Office 2020存在内存破坏漏洞，攻击者可利用该漏洞造成拒绝服务。</description></vulnerability><vulnerability><number>CNVD-2020-65208</number><title>Hancom Office 2020存在内存破坏漏洞（CNVD-2020-65208）</title><serverity>低</serverity><products><product>Hancom Hancom Office 2020 11.0.0.2353</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-11-02</submitTime><openTime>2020-12-17</openTime><discovererName>绿盟科技集团股份有限公司</discovererName><formalWay>厂商尚未提供漏洞修补方案，请关注厂商主页及时更新：&#xD;
+https://office.hancom.com/</formalWay><description>Hancom Office 2020是一款在线office办公软件。
+
+Hancom Office 2020存在内存破坏漏洞，攻击者可利用该漏洞造成拒绝服务。</description></vulnerability><vulnerability><number>CNVD-2020-65207</number><title>Hancom Office 2020存在内存破坏漏洞（CNVD-2020-65207）</title><serverity>低</serverity><products><product>Hancom Hancom Office 2020 11.0.0.2353</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-11-02</submitTime><openTime>2020-12-17</openTime><discovererName>绿盟科技集团股份有限公司</discovererName><formalWay>厂商尚未提供漏洞修补方案，请关注厂商主页及时更新：&#xD;
+https://office.hancom.com/</formalWay><description>Hancom Office 2020是一款在线office办公软件。
+
+Hancom Office 2020存在内存破坏漏洞，攻击者可利用该漏洞造成拒绝服务。</description></vulnerability><vulnerability><number>CNVD-2020-65206</number><title>Hancom Office 2020存在内存破坏漏洞（CNVD-2020-65206）</title><serverity>低</serverity><products><product>Hancom Hancom Office 2020 11.0.0.2353</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-11-02</submitTime><openTime>2020-12-17</openTime><discovererName>绿盟科技集团股份有限公司</discovererName><formalWay>厂商尚未提供漏洞修补方案，请关注厂商主页及时更新：&#xD;
+https://office.hancom.com/</formalWay><description>Hancom Office 2020是一款在线office办公软件。
+
+Hancom Office 2020存在内存破坏漏洞，攻击者可利用该漏洞造成拒绝服务。</description></vulnerability><vulnerability><number>CNVD-2020-65205</number><title>Hancom Office 2020存在内存破坏漏洞（CNVD-2020-65205）</title><serverity>低</serverity><products><product>Hancom Hancom Office 2020 11.0.0.2353</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-11-02</submitTime><openTime>2020-12-17</openTime><discovererName>绿盟科技集团股份有限公司</discovererName><formalWay>厂商尚未提供漏洞修补方案，请关注厂商主页及时更新：&#xD;
+https://office.hancom.com/</formalWay><description>Hancom Office 2020是一款在线office办公软件。
+
+Hancom Office 2020存在内存破坏漏洞，攻击者可利用该漏洞造成拒绝服务。</description></vulnerability><vulnerability><number>CNVD-2020-65204</number><title>Hancom Office 2020存在内存破坏漏洞（CNVD-2020-65204）</title><serverity>低</serverity><products><product>Hancom Hancom Office 2020 11.0.0.2353</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-11-02</submitTime><openTime>2020-12-17</openTime><discovererName>绿盟科技集团股份有限公司</discovererName><formalWay>厂商尚未提供漏洞修补方案，请关注厂商主页及时更新：&#xD;
+https://office.hancom.com/</formalWay><description>Hancom Office 2020是一款在线office办公软件。
+
+Hancom Office 2020存在内存破坏漏洞，攻击者可利用该漏洞造成拒绝服务。</description></vulnerability><vulnerability><number>CNVD-2020-65203</number><title>Hancom Office 2020存在内存破坏漏洞（CNVD-2020-65203）</title><serverity>低</serverity><products><product>Hancom Hancom Office 2020 11.0.0.2353</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-11-02</submitTime><openTime>2020-12-17</openTime><discovererName>绿盟科技集团股份有限公司</discovererName><formalWay>厂商尚未提供漏洞修补方案，请关注厂商主页及时更新： &#xD;
+https://office.hancom.com/</formalWay><description>Hancom Office 2020是一款在线office办公软件。
+
+Hancom Office 2020存在内存破坏漏洞，攻击者可利用该漏洞造成拒绝服务。</description></vulnerability><vulnerability><number>CNVD-2020-65202</number><title>CUPCMS v5.0前台存在XSS漏洞</title><serverity>中</serverity><products><product>CupCMS CupCMS v5.0</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-11-02</submitTime><openTime>2020-12-17</openTime><discovererName>董东冬</discovererName><formalWay>暂无</formalWay><description>CUPCMS v5.0杯子内容管理系统集成视频，明星，新闻，漫画，社区等功能。
+
+CUPCMS v5.0前台存在XSS漏洞，攻击者可利用该漏洞获取用户cookie敏感信息。
+</description></vulnerability><vulnerability><number>CNVD-2020-64559</number><title>南宁迈世信息技术有限公司机房动力环境监控系统存在逻辑缺陷漏洞</title><serverity>中</serverity><products><product>南宁迈世信息技术有限公司 机房动力环境监控系统 </product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-11-05</submitTime><openTime>2020-12-17</openTime><discovererName>3llxkx</discovererName><formalWay>厂商尚未提供相关漏洞补丁链接，请关注厂商主页随时更新：&#xD;
+http://www.zfxt.net/</formalWay><description>南宁迈世信息技术有限公司成立于2011年09月经营范围包括计算机技术开发、信息技术咨询服务;软件开发等。
+
+南宁迈世信息技术有限公司机房动力环境监控系统存在逻辑缺陷漏洞，攻击者可利用该漏洞
+登录网站管理后台获取敏感信息。</description></vulnerability><vulnerability><number>CNVD-2020-65201</number><title>锐捷网络EasyGate易网关存在弱口令漏洞</title><serverity>中</serverity><products><product>锐捷网络股份有限公司 EasyGate易网关 </product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-11-02</submitTime><openTime>2020-12-17</openTime><discovererName>liy70345</discovererName><formalWay>厂商尚未提供漏洞修补方案，请关注厂商主页及时更新： &#xD;
+http://www.ruijie.com.cn/ </formalWay><description>EasyGate易网关(以下简称RG-EG)是锐捷网络公司推出的一款解决当下网络出口难题的多业务综合网关产品。
+
+锐捷网络EasyGate易网关存在弱口令漏洞，攻击者可利用该漏洞获取敏感信息。</description></vulnerability><vulnerability><number>CNVD-2020-65200</number><title>深圳市普燃计算机软件科技有限公司燃气呼叫配送系统存在目录遍历漏洞</title><serverity>中</serverity><products><product>深圳市普燃计算机软件科技有限公司 燃气呼叫配送系统 </product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-11-02</submitTime><openTime>2020-12-17</openTime><discovererName>王晓帅</discovererName><formalWay>厂商已提供漏洞修补方案，请关注厂商主页及时更新： &#xD;
+http://www.puranart.com</formalWay><description>深圳市普燃计算机软件科技有限公司是一家专业为燃气企业提供信息化、智能化产品的服务商。
+
+深圳市普燃计算机软件科技有限公司燃气呼叫配送系统存在目录遍历漏洞，攻击者可利用该漏洞获取应用部分信息。
+</description></vulnerability><vulnerability><number>CNVD-2020-65199</number><title>新秀企业网站系统PHP版存在命令执行漏洞</title><serverity>高</serverity><products><product>新秀企业网站系统 新秀企业网站系统PHP版 1.1 beta6 </product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-11-02</submitTime><openTime>2020-12-17</openTime><discovererName>平安银河实验室</discovererName><formalWay>厂商尚未提供漏洞修补方案，请关注厂商主页及时更新： &#xD;
+http://www.sinsiu.com/</formalWay><description>新秀企业网站系统PHP版是一款PHP企业网站系统。。
+
+新秀企业网站系统PHP版存在命令执行漏洞，攻击者可利用该漏洞获取服务器控制权。</description></vulnerability><vulnerability><number>CNVD-2020-65130</number><title>CupCMS存在文件包含漏洞</title><serverity>高</serverity><products><product>CupCMS CupCMS v5.0 free.20140314</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-11-03</submitTime><openTime>2020-12-18</openTime><discovererName>青三</discovererName><formalWay>暂无。</formalWay><description>CupCMS是一款集成视频，明星，新闻，漫画，社区等功能的内容管理系统。
+
+CupCMS存在文件包含漏洞。攻击者可利用该漏洞获取服务器权限。</description></vulnerability><vulnerability><number>CNVD-2020-65198</number><title>畅课（TronClass）平台存在逻辑缺陷漏洞</title><serverity>中</serverity><products><product>西安智园软件开发管理有限公司 TronClass </product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-11-02</submitTime><openTime>2020-12-17</openTime><discovererName>duoduo</discovererName><formalWay>厂商尚未提供漏洞修补方案，请关注厂商主页及时更新： &#xD;
+https://tronclass.com.cn/</formalWay><description>畅课（TronClass）是一款专业的在线教育学习平台。
+
+畅课（TronClass）平台存在逻辑缺陷漏洞，攻击者可利用该漏洞获取敏感信息。</description></vulnerability><vulnerability><number>CNVD-2020-65197</number><title>CupCMS存在SQL注入漏洞</title><serverity>中</serverity><products><product>CupCMS CupCMS v5.0 free.20140314</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-11-02</submitTime><openTime>2020-12-17</openTime><discovererName>青三</discovererName><formalWay>暂无。</formalWay><description>CupCMS是一款集成视频，明星，新闻，漫画，社区等功能的内容管理系统。
+
+CupCMS存在SQL注入漏洞，攻击者可利用该漏洞获取服务器控制权。</description></vulnerability><vulnerability><number>CNVD-2020-65196</number><title>CupCMS存在SQL注入漏洞（CNVD-2020-65196）</title><serverity>中</serverity><products><product>CupCMS CupCMS v5.0 free.20140314</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-11-02</submitTime><openTime>2020-12-17</openTime><discovererName>青三</discovererName><formalWay>暂无。</formalWay><description>CupCMS是一款集成视频，明星，新闻，漫画，社区等功能的内容管理系统。
+
+CupCMS存在SQL注入漏洞，攻击者可利用该漏洞获取服务器控制权。</description></vulnerability><vulnerability><number>CNVD-2020-65195</number><title>微耕实业门禁专家存在未授权访问漏洞</title><serverity>中</serverity><products><product>深圳市微耕实业有限公司 门禁专家 V8.84.80116</product><product>深圳市微耕实业有限公司 门禁专家 V6.60.51109</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-11-02</submitTime><openTime>2020-12-17</openTime><discovererName>songyi111</discovererName><formalWay>厂商尚未提供漏洞修补方案，请关注厂商主页及时更新：&#xD;
+http://www.wiegand.com.cn/</formalWay><description>深圳市微耕实业有限公司是中国国内专业的门禁系统、门禁设备和门禁软件的生产厂家和开发单位。
+
+微耕实业门禁专家存在未授权访问漏洞。攻击者可利用该漏洞获取敏感信息。</description></vulnerability><vulnerability><number>CNVD-2020-65194</number><title>S-CMS企业建站系统存在文件上传漏洞（CNVD-2020-65194）</title><serverity>高</serverity><products><product>淄博闪灵网络科技有限公司 S-CMS企业建站系统 v5.0（PHP版）</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-11-02</submitTime><openTime>2020-12-17</openTime><discovererName>litbaizhang</discovererName><formalWay>厂商尚未提供漏洞修补方案，请关注厂商主页及时更新：&#xD;
+http://www.s-cms.cn/</formalWay><description>S-CMS企业建站系统是淄博闪灵网络科技有限公司开发的一款专门为企业建站提供解决方案的产品。
+
+S-CMS企业建站系统存在文件上传漏洞，攻击者可利用该漏洞获取服务器控制权。</description></vulnerability><vulnerability><number>CNVD-2020-65193</number><title>CRMEB知识付费系统后台存在文件上传漏洞</title><serverity>高</serverity><products><product>西安众邦网络科技有限公司 CRMEB知识付费系统 1.2</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-11-02</submitTime><openTime>2020-12-17</openTime><discovererName>北京锐服信科技有限公司</discovererName><formalWay>厂商尚未提供漏洞修补方案，请关注厂商主页及时更新：&#xD;
+http://www.xazbkj.com</formalWay><description>CRMEB基于ThinkPhp5.0+Vue+EasyWeChat 开发的一套CRMEB新零售商城系统。
+
+CRMEB知识付费系统后台存在文件上传漏洞，攻击者可利用该漏洞获取服务器控制权。
+</description></vulnerability><vulnerability><number>CNVD-2020-64780</number><title>思途CMS前台存在SQL注入漏洞</title><serverity>高</serverity><products><product>四川思途智旅软件有限公司 思途CMS </product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-11-03</submitTime><openTime>2020-12-18</openTime><discovererName>icekam</discovererName><formalWay>厂商尚未提供漏洞修补方案，请关注厂商主页及时更新：&#xD;
+http://www.stourweb.com/</formalWay><description>思途CMS是思途旅游网站管理系统的简称，是一款自主研发的适用于旅游网站建设的网站管理系统。
+
+思途CMS前台存在SQL注入漏洞。攻击者可利用漏洞获取数据库敏感信息。</description></vulnerability><vulnerability><number>CNVD-2020-64779</number><title>锐捷IT综合业务管理平台存在SQL注入漏洞</title><serverity>中</serverity><products><product>北京星网锐捷网络技术有限公司 锐捷IT综合业务管理平台企业版 6.8.6.17</product><product>北京星网锐捷网络技术有限公司 锐捷IT综合业务管理平台企业版 6.8.7.3</product><product>北京星网锐捷网络技术有限公司 锐捷IT综合业务管理平台标准版 6.7.6.2</product><product>北京星网锐捷网络技术有限公司 锐捷IT综合业务管理平台标准版 6.8.5.3</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-11-03</submitTime><openTime>2020-12-18</openTime><discovererName>北京惠而特科技有限公司</discovererName><formalWay>厂商已提供漏洞修补方案，请关注厂商主页及时更新：&#xD;
+http://www.ruijie.com.cn</formalWay><description>锐捷网络是一家拥有包括交换机、路由器、软件、安全防火墙、无线产品、存储等全系列的网络设备产品线及解决方案的专业化网络厂商。
+
+锐捷IT综合业务管理平台存在SQL注入漏洞。攻击者可利用漏洞获取数据库敏感信息。</description></vulnerability><vulnerability><number>CNVD-2020-64778</number><title>TuziCMS前台存在SQL注入漏洞</title><serverity>中</serverity><products><product>TuziCMS TuziCMS 3.0</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-11-03</submitTime><openTime>2020-12-18</openTime><discovererName>黄翼锋</discovererName><formalWay>厂商尚未提供漏洞修补方案，请关注厂商主页及时更新：&#xD;
+https://www.tuzicms.com/</formalWay><description>TuziCMS(简称TC)是一款基于PHP+MySql开发的企业网站内容管理系统。
+
+MS前台存在SQL注入漏洞。攻击者可利用漏洞获取数据库敏感信息。</description></vulnerability><vulnerability><number>CNVD-2020-64777</number><title>FangfaCms存在SQL注入漏洞</title><serverity>高</serverity><products><product>四川方法数码科技有限公司 FangfaCMS V4.0</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-11-03</submitTime><openTime>2020-12-18</openTime><discovererName>詹然</discovererName><formalWay>厂商尚未提供漏洞修补方案，请关注厂商主页及时更新：&#xD;
+http://www.fangfacms.com</formalWay><description>方法数码网站内容管理系统(FangfaCms)是企业级PHPCMS网站管理系统。
+
+FangfaCms前台Fl***.cl***s.php存在SQL注入漏洞。攻击者可利用漏洞获取数据库敏感信息。
+
+</description></vulnerability><vulnerability><number>CNVD-2020-65131</number><title>极致CMS Pl***.php文件存在命令执行漏洞</title><serverity>高</serverity><products><product>廊坊市极致网络科技有限公司 极致CMS 1.9</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-11-03</submitTime><openTime>2020-12-18</openTime><discovererName>杨航</discovererName><formalWay>厂商尚未提供漏洞修补方案，请关注厂商主页及时更新：&#xD;
+https://www.jizhicms.cn/</formalWay><description>极致CMS是一款开源免费的PHPCMS网站内容管理系统。
+
+极致CMS Pl***.php文件存在命令执行漏洞。攻击者可利用该漏洞获取服务器权限。</description></vulnerability><vulnerability><number>CNVD-2020-64775</number><title>用友网络科技股份有限公司NC Cloud存在命令执行漏洞（CNVD-2020-64775）</title><serverity>高</serverity><products><product>用友网络科技股份有限公司 用友NC Cloud 6.5</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-11-03</submitTime><openTime>2020-12-18</openTime><discovererName>北京知道创宇信息技术股份有限公司</discovererName><formalWay>厂商已提供漏洞修补方案，建议用户下载使用：&#xD;
+http://umc.yonyou.com/ump/querypatchdetailed?PK=18981c7af483007d797e555b7be67b114f74998b80210915</formalWay><description>NC Cloud是一款大型企业数字化平台， 聚焦数字化管理、数字化经营、数字化商业，帮助大型企业实现 人、财、物、客的全面数字化。
+
+用友网络科技股份有限公司NC Cloud存在命令执行漏洞。攻击者可利用漏洞远程执行命令，获得服务器权限限。</description></vulnerability><vulnerability><number>CNVD-2020-64774</number><title>用友网络科技股份有限公司NC Cloud存在SQL注入漏洞（CNVD-2020-64774）</title><serverity>高</serverity><products><product>用友网络科技股份有限公司 用友NC Cloud 6.5</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-11-03</submitTime><openTime>2020-12-18</openTime><discovererName>北京知道创宇信息技术股份有限公司</discovererName><formalWay>厂商已提供漏洞修补方案，建议用户下载使用：&#xD;
+http://umc.yonyou.com/ump/querypatchdetailedmng?PK=18981c7af483007d797e555b7be67b1181e01475daca213c</formalWay><description>NC Cloud是一款大型企业数字化平台， 聚焦数字化管理、数字化经营、数字化商业，帮助大型企业实现 人、财、物、客的全面数字化。
+
+用友网络科技股份有限公司NC Cloud存在SQL注入漏洞。攻击者可利用漏洞获取数据库敏感信息。</description></vulnerability><vulnerability><number>CNVD-2020-64773</number><title>用友网络科技股份有限公司NC Cloud存在XML实体注入漏洞</title><serverity>中</serverity><products><product>用友网络科技股份有限公司 用友NC Cloud 6.5</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-11-03</submitTime><openTime>2020-12-18</openTime><discovererName>北京知道创宇信息技术股份有限公司</discovererName><formalWay>厂商已提供漏洞修补方案，建议用户下载使用：&#xD;
+http://umc.yonyou.com/ump/querypatchdetailedmng?PK=18981c7af483007d797e555b7be67b117e77d5b92ed63f9d </formalWay><description>NC Cloud是一款大型企业数字化平台， 聚焦数字化管理、数字化经营、数字化商业，帮助大型企业实现 人、财、物、客的全面数字化。
+
+用友网络科技股份有限公司NC Cloud存在XML实体注入漏洞。攻击者可利用漏洞获取服务器数据。</description></vulnerability><vulnerability><number>CNVD-2020-64772</number><title>用友网络科技股份有限公司NC Cloud存在XML实体注入漏洞（CNVD-2020-64772）</title><serverity>中</serverity><products><product>用友网络科技股份有限公司 用友NC Cloud 6.5</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-11-03</submitTime><openTime>2020-12-18</openTime><discovererName>北京知道创宇信息技术股份有限公司</discovererName><formalWay>厂商已提供漏洞修补方案，建议用户下载使用：&#xD;
+http://umc.yonyou.com/ump/querypatchdetailedmng?PK=18981c7af483007d797e555b7be67b117e77d5b92ed63f9d </formalWay><description>NC Cloud是一款大型企业数字化平台， 聚焦数字化管理、数字化经营、数字化商业，帮助大型企业实现 人、财、物、客的全面数字化。
+
+用友网络科技股份有限公司NC Cloud存在XML实体注入漏洞。攻击者可利用漏洞获取服务器数据。</description></vulnerability><vulnerability><number>CNVD-2020-64771</number><title>用友网络科技股份有限公司NC Cloud存在XML实体注入漏洞（CNVD-2020-64771）</title><serverity>中</serverity><products><product>用友网络科技股份有限公司 用友NC Cloud 6.5</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-11-03</submitTime><openTime>2020-12-18</openTime><discovererName>北京知道创宇信息技术股份有限公司</discovererName><formalWay>厂商已提供漏洞修补方案，建议用户下载使用：&#xD;
+http://umc.yonyou.com/ump/querypatchdetailedmng?PK=18981c7af483007d797e555b7be67b117e77d5b92ed63f9d </formalWay><description>NC Cloud是一款大型企业数字化平台， 聚焦数字化管理、数字化经营、数字化商业，帮助大型企业实现 人、财、物、客的全面数字化。
+
+用友网络科技股份有限公司NC Cloud存在XML实体注入漏洞。攻击者可利用漏洞获取服务器数据。</description></vulnerability><vulnerability><number>CNVD-2020-64879</number><title>用友网络科技股份有限公司NC Cloud存在命令执行漏洞（CNVD-2020-64879）</title><serverity>高</serverity><products><product>用友网络科技股份有限公司 用友NC Cloud 6.5</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-11-03</submitTime><openTime>2020-12-18</openTime><discovererName>北京知道创宇信息技术股份有限公司</discovererName><formalWay>厂商已提供漏洞修补方案，建议用户下载使用：&#xD;
+http://umc.yonyou.com/ump/querypatchdetailed?PK=18981c7af483007d797e555b7be67b11bc8654fd89543450</formalWay><description>NC Cloud是一款大型企业数字化平台， 聚焦数字化管理、数字化经营、数字化商业，帮助大型企业实现 人、财、物、客的全面数字化。
+
+用友网络科技股份有限公司NC Cloud存在命令执行漏洞。攻击者可利用漏洞远程执行命令，获得服务器权限。</description></vulnerability><vulnerability><number>CNVD-2020-64878</number><title>用友网络科技股份有限公司NC Cloud存在命令执行漏洞（CNVD-2020-64878）</title><serverity>高</serverity><products><product>用友网络科技股份有限公司 用友NC Cloud 6.5</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-11-03</submitTime><openTime>2020-12-18</openTime><discovererName>北京知道创宇信息技术股份有限公司</discovererName><formalWay>厂商已提供漏洞修补方案，建议用户下载使用：&#xD;
+http://umc.yonyou.com/ump/querypatchdetailed?PK=18981c7af483007d797e555b7be67b11bc8654fd89543450</formalWay><description>NC Cloud是一款大型企业数字化平台， 聚焦数字化管理、数字化经营、数字化商业，帮助大型企业实现 人、财、物、客的全面数字化。
+
+用友网络科技股份有限公司NC Cloud存在命令执行漏洞。攻击者可利用漏洞远程执行命令，获得服务器权限。</description></vulnerability><vulnerability><number>CNVD-2020-64770</number><title>上海雍熙信息技术有限公司建站系统存在SQL注入漏洞</title><serverity>高</serverity><products><product>上海雍熙信息技术有限公司 建站系统 </product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-11-03</submitTime><openTime>2020-12-18</openTime><discovererName>noyes</discovererName><formalWay>厂商尚未提供漏洞修补方案，请关注厂商主页及时更新：&#xD;
+https://www.yongsy.com</formalWay><description>上海雍熙信息技术有限公司是一个致力于技术和商业相融合的创意团队，提供差异化服务和让客户受益的解决方案。 
+
+上海雍熙信息技术有限公司建站系统存在SQL注入漏洞。攻击者可利用漏洞获取数据库敏感信息。 </description></vulnerability><vulnerability><number>CNVD-2020-65132</number><title>齐博全新X1.0系统存在代码执行漏洞</title><serverity>高</serverity><products><product>广州齐博网络科技有限公司 齐博全新X1.0系统 X1.0</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-11-03</submitTime><openTime>2020-12-18</openTime><discovererName>平安银河实验室</discovererName><formalWay>厂商尚未提供漏洞修补方案，请关注厂商主页及时更新：&#xD;
+https://x1.php168.com/</formalWay><description>齐博全新X1.0系统是一款基于最新的thinkphp5框架的网站管理系统。
+
+齐博全新X1.0系统存在代码执行漏洞。攻击者可利用该漏洞获取服务器权限。</description></vulnerability><vulnerability><number>CNVD-2020-64769</number><title>思途CMS存在逻辑缺陷漏洞</title><serverity>中</serverity><products><product>四川思途智旅软件有限公司 思途CMS </product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-11-03</submitTime><openTime>2020-12-18</openTime><discovererName>bywalks</discovererName><formalWay>厂商尚未提供漏洞修补方案，请关注厂商主页及时更新：&#xD;
+http://www.stourweb.com/</formalWay><description>思途CMS是思途旅游网站管理系统的简称，是一款自主研发的适用于旅游网站建设的网站管理系统。
+
+思途CMS存在逻辑缺陷漏洞。该漏洞是由于系统未对验证码次数做限制，攻击者可通过暴力破解，登录任意账号。</description></vulnerability><vulnerability><number>CNVD-2020-69733</number><title>PHPDisk网盘系统存在存储型跨站脚本漏洞</title><serverity>中</serverity><products><product>广州优天网络科技有限公司 PHPDisk网盘系统 7.0.0</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-11-03</submitTime><openTime>2020-12-18</openTime><discovererName>Je1ry</discovererName><formalWay>厂商尚未提供漏洞修补方案，请关注厂商主页及时更新：&#xD;
+http://www.phpdisk.com/</formalWay><description>PHPDISK网盘系统[简称：PHPDISK]是一套采用PHP和MySQL构建的网络硬盘(文件存储管理)系统，可替代传统的FTP文件管理。
+
+PHPDisk网盘系统存在存储型跨站脚本漏洞。攻击者可利用漏洞获取用户cookie等敏感信息。</description></vulnerability><vulnerability><number>CNVD-2020-64768</number><title>思途CMS存在逻辑缺陷漏洞（CNVD-2020-64768）</title><serverity>中</serverity><products><product>四川思途智旅软件有限公司 思途CMS </product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-11-03</submitTime><openTime>2020-12-18</openTime><discovererName>bywalks</discovererName><formalWay>厂商尚未提供漏洞修补方案，请关注厂商主页及时更新：&#xD;
+http://www.stourweb.com/</formalWay><description>思途CMS是思途旅游网站管理系统的简称，是一款自主研发的适用于旅游网站建设的网站管理系统。
+
+思途CMS存在任意用户密码重置漏洞。该漏洞是由于系统未对验证码次数做限制，攻击者可通过暴力破解，登录任意账号。</description></vulnerability><vulnerability><number>CNVD-2020-69732</number><title>北京微步在线科技有限公司威胁感知平台存在未授权访问漏洞</title><serverity>中</serverity><products><product>北京微步在线科技有限公司 威胁感知平台 </product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-11-04</submitTime><openTime>2020-12-19</openTime><discovererName>bufsnake</discovererName><formalWay>厂商尚未提供漏洞修补方案，请关注厂商主页及时更新：&#xD;
+https://threatbook.cn/</formalWay><description>北京微步在线科技有限公司提供威胁检测产品与服务，致力于成为企业客户的威胁发现和响应专家。
+
+北京微步在线科技有限公司威胁感知平台存在未授权访问漏洞。攻击者可利用漏洞修改URL无需登录可访问内部数据。</description></vulnerability><vulnerability><number>CNVD-2020-64767</number><title>杭州新视窗信息技术有限公司建站系统存在SQL注入漏洞</title><serverity>高</serverity><products><product>杭州新视窗信息技术有限公司 建站系统 </product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-11-04</submitTime><openTime>2020-12-19</openTime><discovererName>忘止于心</discovererName><formalWay>厂商尚未提供漏洞修补方案，请关注厂商主页及时更新：&#xD;
+http://www.new-see.com/</formalWay><description>杭州新视窗信息技术有限公司是一家以智慧物业为核心业务的国家高新技术企业。
+
+杭州新视窗信息技术有限公司建站系统存在SQL注入漏洞。攻击者可利用漏洞获取数据库敏感信息。</description></vulnerability><vulnerability><number>CNVD-2020-69172</number><title>禅道存在任意文件读取漏洞</title><serverity>中</serverity><products><product>青岛易企天创管理咨询有限公司 禅道 12.4.stable</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-11-04</submitTime><openTime>2020-12-19</openTime><discovererName>山石网科通信技术股份有限公司</discovererName><formalWay>厂商尚未提供漏洞修补方案，请关注厂商主页及时更新：&#xD;
+https://www.zentao.net/</formalWay><description>禅道是一款国产的开源项目管理软件。
+
+禅道存在任意文件读取漏洞。攻击者可利用漏洞获取敏感信息。</description></vulnerability><vulnerability><number>CNVD-2020-64876</number><title>DEDECMSV6后台di***_li***.php文件存在SQL注入漏洞</title><serverity>中</serverity><products><product>上海穆云智能科技有限公司 DedeCMS 6.0.1</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-11-04</submitTime><openTime>2020-12-19</openTime><discovererName>冷虎林</discovererName><formalWay>厂商尚未提供漏洞修补方案，请关注厂商主页及时更新：&#xD;
+http://www.dedecms.com</formalWay><description>DedeCMSV6是基于PHP7.x开发，具有可扩展性，并且完全开放源代码。
+
+DEDECMSV6后台di***_li***.php文件存在SQL注入漏洞。攻击者可利用该漏洞获取数据库敏感信息。</description></vulnerability><vulnerability><number>CNVD-2020-65129</number><title>GBase 8s数据库存在提权漏洞（CNVD-2020-65129）</title><serverity>中</serverity><products><product>天津南大通用数据技术股份有限公司 GBase 8s V8.7</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-11-04</submitTime><openTime>2020-12-19</openTime><discovererName>北京计算机技术及应用研究所信息安全事业部</discovererName><formalWay>厂商尚未提供漏洞修补方案，请关注厂商主页及时更新：&#xD;
+http://www.gbase.cn</formalWay><description>GBase 8s是一款安全型数据库管理系统，具有完全自主知识产权。
+
+GBase 8s数据库存在提权漏洞，攻击者可利用该漏洞通过符号链接攻击获取root权限。</description></vulnerability><vulnerability><number>CNVD-2020-65128</number><title>GBase 8s数据库存在提权漏洞（CNVD-2020-65128）</title><serverity>中</serverity><products><product>天津南大通用数据技术股份有限公司 GBase 8s V8.7</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-11-04</submitTime><openTime>2020-12-19</openTime><discovererName>北京计算机技术及应用研究所信息安全事业部</discovererName><formalWay>厂商尚未提供漏洞修补方案，请关注厂商主页及时更新：&#xD;
+http://www.gbase.cn</formalWay><description>GBase 8s是一款安全型数据库管理系统，具有完全自主知识产权。
+
+GBase 8s数据库存在提权漏洞，攻击者可利用该漏洞通过符号链接攻击获取root权限。</description></vulnerability><vulnerability><number>CNVD-2020-65127</number><title>GBase 8s数据库存在提权漏洞（CNVD-2020-65127）</title><serverity>中</serverity><products><product>天津南大通用数据技术股份有限公司 GBase 8s V8.7</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-11-04</submitTime><openTime>2020-12-19</openTime><discovererName>北京计算机技术及应用研究所信息安全事业部</discovererName><formalWay>厂商尚未提供漏洞修补方案，请关注厂商主页及时更新：&#xD;
+http://www.gbase.cn</formalWay><description>GBase 8s是一款安全型数据库管理系统，具有完全自主知识产权。
+
+GBase 8s数据库存在提权漏洞，攻击者可利用该漏洞通过符号链接攻击获取root权限。</description></vulnerability><vulnerability><number>CNVD-2020-65126</number><title>GBase 8s数据库存在提权漏洞（CNVD-2020-65126）</title><serverity>中</serverity><products><product>天津南大通用数据技术股份有限公司 GBase 8s V8.7</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-11-04</submitTime><openTime>2020-12-19</openTime><discovererName>北京计算机技术及应用研究所信息安全事业部</discovererName><formalWay>厂商尚未提供漏洞修补方案，请关注厂商主页及时更新：&#xD;
+http://www.gbase.cn</formalWay><description>GBase 8s是一款安全型数据库管理系统，具有完全自主知识产权。
+
+GBase 8s数据库存在提权漏洞，攻击者可利用该漏洞通过符号链接攻击获取root权限。</description></vulnerability><vulnerability><number>CNVD-2020-65125</number><title>GBase 8s数据库存在提权漏洞（CNVD-2020-65125）</title><serverity>中</serverity><products><product>天津南大通用数据技术股份有限公司 GBase 8s V8.7</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-11-04</submitTime><openTime>2020-12-19</openTime><discovererName>北京计算机技术及应用研究所信息安全事业部</discovererName><formalWay>厂商尚未提供漏洞修补方案，请关注厂商主页及时更新：&#xD;
+http://www.gbase.cn</formalWay><description>GBase 8s是一款安全型数据库管理系统，具有完全自主知识产权。
+
+GBase 8s数据库存在提权漏洞，攻击者可利用该漏洞通过符号链接攻击获取root权限。</description></vulnerability><vulnerability><number>CNVD-2020-65124</number><title>GBase 8s数据库存在提权漏洞（CNVD-2020-65124）</title><serverity>中</serverity><products><product>天津南大通用数据技术股份有限公司 GBase 8s V8.7</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-11-04</submitTime><openTime>2020-12-19</openTime><discovererName>北京计算机技术及应用研究所信息安全事业部</discovererName><formalWay>厂商尚未提供漏洞修补方案，请关注厂商主页及时更新：&#xD;
+http://www.gbase.cn&#xD;
+</formalWay><description>GBase 8s是一款安全型数据库管理系统，具有完全自主知识产权。
+
+GBase 8s数据库存在提权漏洞，攻击者可利用该漏洞执行root权限的操作。</description></vulnerability><vulnerability><number>CNVD-2020-64875</number><title>浙江深大自助机管理系统存在SQL注入漏洞（CNVD-2020-64875）</title><serverity>中</serverity><products><product>浙江深大智能科技有限公司 自助机管理系统 1.0 2017</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-11-04</submitTime><openTime>2020-12-19</openTime><discovererName>王晓帅</discovererName><formalWay>厂商尚未提供漏洞修补方案，请关注厂商主页及时更新：&#xD;
+https://www.sendinfo.com.cn/</formalWay><description>浙江深大智能集团是一家专注于提供智慧旅游全产业链产品创新、产业规划和运营服务的公司。
+
+浙江深大自助机管理系统存在SQL注入漏洞，攻击者可利用该漏洞获取数据库敏感信息。</description></vulnerability><vulnerability><number>CNVD-2020-65110</number><title>广东德生科技股份有限公司建站系统存在任意密码重置漏洞</title><serverity>中</serverity><products><product>广东德生科技股份有限公司 建站系统 </product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-11-04</submitTime><openTime>2020-12-19</openTime><discovererName>仁之俊</discovererName><formalWay>厂商尚未提供漏洞修补方案，请关注厂商主页及时更新：&#xD;
+https://www.e-tecsun.com/</formalWay><description>广东德生科技股份有限公司是国内领先的民生综合服务商，面向人社、就业、金融、医疗、大数据等领域提供信息系统建设和相关运营服务，积极推进以城市为单位的人力资源与社会保障事业运营服务。
+
+广东德生科技股份有限公司建站系统存在任意密码重置漏洞，攻击者可利用该漏洞直接修改管理员密码，获取平台内部敏感信息大。</description></vulnerability><vulnerability><number>CNVD-2020-65109</number><title>CupCMS会员中心存在存储型跨站脚本漏洞</title><serverity>中</serverity><products><product>CupCMS CupCMS v5.0 free.20140314</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-11-04</submitTime><openTime>2020-12-19</openTime><discovererName>二叉树</discovererName><formalWay>暂无。</formalWay><description>CupCMS是一款集成视频，明星，新闻，漫画，社区等功能的内容管理系统。
+
+CupCMS会员中心存在存储型跨站脚本漏洞，攻击者可利用该漏洞获取用户cookie等敏感信息。</description></vulnerability><vulnerability><number>CNVD-2020-65123</number><title>GBase 8s数据库存在提权漏洞（CNVD-2020-65123）</title><serverity>中</serverity><products><product>天津南大通用数据技术股份有限公司 GBase 8s V8.7</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-11-04</submitTime><openTime>2020-12-19</openTime><discovererName>王迪静</discovererName><formalWay>厂商尚未提供漏洞修补方案，请关注厂商主页及时更新：&#xD;
+http://www.gbase.cn</formalWay><description>GBase 8s是一款安全型数据库管理系统，具有完全自主知识产权。
+
+GBase 8s数据库存在提权漏洞，攻击者可利用该漏洞通过符号链接攻击修改/etc/passwd权限。</description></vulnerability><vulnerability><number>CNVD-2020-65122</number><title>GBase 8s数据库存在提权漏洞（CNVD-2020-65122）</title><serverity>中</serverity><products><product>天津南大通用数据技术股份有限公司 GBase 8s V8.7</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-11-04</submitTime><openTime>2020-12-19</openTime><discovererName>张汝海</discovererName><formalWay>厂商尚未提供漏洞修补方案，请关注厂商主页及时更新：&#xD;
+http://www.gbase.cn</formalWay><description>GBase 8s是一款安全型数据库管理系统，具有完全自主知识产权。
+
+GBase 8s数据库存在提权漏洞，攻击者可利用该漏洞通过操作提权为root用户身份。</description></vulnerability><vulnerability><number>CNVD-2020-65121</number><title>CAJViewer存在类型混淆漏洞</title><serverity>中</serverity><products><product>《中国学术期刊（光盘版）》电子杂志社有限公司 CAJViewer &lt;=7.3</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-11-04</submitTime><openTime>2020-12-19</openTime><discovererName>绿盟科技集团股份有限公司</discovererName><formalWay>厂商尚未提供漏洞修复方案，请关注厂商主页更新：&#xD;
+http://cajviewer.cnki.net/</formalWay><description>CAJviewer是中国期刊网的专用全文格式阅读器，支持中国期刊网的TEB、NH、CAJ、KDH和PDF格式文件。
+
+CAJViewer存在类型混淆漏洞。攻击者可利用该漏洞造成拒绝服务。</description></vulnerability><vulnerability><number>CNVD-2020-65120</number><title>CAJViewer存在缓冲区溢出漏洞</title><serverity>中</serverity><products><product>《中国学术期刊（光盘版）》电子杂志社有限公司 CAJViewer &lt;=7.3</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-11-04</submitTime><openTime>2020-12-19</openTime><discovererName>绿盟科技集团股份有限公司</discovererName><formalWay>厂商尚未提供漏洞修复方案，请关注厂商主页更新：&#xD;
+http://cajviewer.cnki.net/</formalWay><description>CAJviewer是中国期刊网的专用全文格式阅读器，支持中国期刊网的TEB、NH、CAJ、KDH和PDF格式文件。
+
+CAJViewer存在缓冲区溢出漏洞。攻击者可利用该漏洞造成拒绝服务。</description></vulnerability><vulnerability><number>CNVD-2020-65119</number><title>CAJViewer存在类型混淆漏洞（CNVD-2020-65119）</title><serverity>中</serverity><products><product>《中国学术期刊（光盘版）》电子杂志社有限公司 CAJViewer &lt;=7.3</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-11-04</submitTime><openTime>2020-12-19</openTime><discovererName>绿盟科技集团股份有限公司</discovererName><formalWay>厂商尚未提供漏洞修复方案，请关注厂商主页更新：&#xD;
+http://cajviewer.cnki.net/</formalWay><description>CAJviewer是中国期刊网的专用全文格式阅读器，支持中国期刊网的TEB、NH、CAJ、KDH和PDF格式文件。
+
+CAJViewer存在类型混淆漏洞。攻击者可利用该漏洞造成拒绝服务。</description></vulnerability><vulnerability><number>CNVD-2020-65118</number><title>CAJViewer存在任意地址读漏洞</title><serverity>中</serverity><products><product>《中国学术期刊（光盘版）》电子杂志社有限公司 CAJViewer &lt;=7.3</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-11-04</submitTime><openTime>2020-12-19</openTime><discovererName>绿盟科技集团股份有限公司</discovererName><formalWay>厂商尚未提供漏洞修复方案，请关注厂商主页更新：&#xD;
+http://cajviewer.cnki.net/</formalWay><description>CAJviewer是中国期刊网的专用全文格式阅读器，支持中国期刊网的TEB、NH、CAJ、KDH和PDF格式文件。
+
+CAJViewer存在任意地址读漏洞。攻击者可利用该漏洞获取任意地址的内存信息。</description></vulnerability><vulnerability><number>CNVD-2020-65117</number><title>CAJViewer存在内存破坏漏洞（CNVD-2020-65117）</title><serverity>中</serverity><products><product>《中国学术期刊（光盘版）》电子杂志社有限公司 CAJViewer &lt;=7.3</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-11-04</submitTime><openTime>2020-12-19</openTime><discovererName>绿盟科技集团股份有限公司</discovererName><formalWay>厂商尚未提供漏洞修复方案，请关注厂商主页更新：&#xD;
+http://cajviewer.cnki.net/</formalWay><description>CAJviewer是中国期刊网的专用全文格式阅读器，支持中国期刊网的TEB、NH、CAJ、KDH和PDF格式文件。
+
+CAJViewer存在内存破坏漏洞。攻击者可利用该漏洞造成拒绝服务。</description></vulnerability><vulnerability><number>CNVD-2020-65116</number><title>CAJViewer存在内存破坏漏洞（CNVD-2020-65116）</title><serverity>中</serverity><products><product>《中国学术期刊（光盘版）》电子杂志社有限公司 CAJViewer &lt;=7.3</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-11-04</submitTime><openTime>2020-12-19</openTime><discovererName>绿盟科技集团股份有限公司</discovererName><formalWay>厂商尚未提供漏洞修复方案，请关注厂商主页更新：&#xD;
+http://cajviewer.cnki.net/</formalWay><description>CAJviewer是中国期刊网的专用全文格式阅读器，支持中国期刊网的TEB、NH、CAJ、KDH和PDF格式文件。
+
+CAJViewer存在内存破坏漏洞。攻击者可利用该漏洞造成拒绝服务。</description></vulnerability><vulnerability><number>CNVD-2020-65106</number><title>CupCMS用户留言板存在存储型跨站脚本漏洞</title><serverity>中</serverity><products><product>CupCMS CupCMS v5.0 free.20140314</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-11-04</submitTime><openTime>2020-12-19</openTime><discovererName>二叉树</discovererName><formalWay>暂无。</formalWay><description>CupCMS是一款集成视频，明星，新闻，漫画，社区等功能的内容管理系统。
+
+CupCMS用户留言板存在存储型跨站脚本漏洞，攻击者可利用漏洞获取管理员cookie。</description></vulnerability><vulnerability><number>CNVD-2020-64618</number><title>北京辰信领创信息技术有限公司景云网络防病毒系统存在信息泄露漏洞</title><serverity>中</serverity><products><product>北京辰信领创信息技术有限公司 景云网络防病毒系统 </product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-11-05</submitTime><openTime>2020-12-19</openTime><discovererName>山东正中信息技术股份有限公司</discovererName><formalWay>目前厂商尚未提供相关漏洞补丁链接，请关注厂商主页随时更新：&#xD;
+http://www.v-secure.cn/</formalWay><description>景云网络防病毒系统是企业级用户的私有云防病毒解决方案。
+
+北京辰信领创信息技术有限公司景云网络防病毒系统存在信息泄露漏洞，攻击者可利用该漏洞获取用户敏感信息。</description></vulnerability><vulnerability><number>CNVD-2020-64874</number><title>WMCMS专业版da***.my***.php文件存在SQL注入漏洞</title><serverity>高</serverity><products><product>未梦网络服务团队 WMCMS专业版 4.367.976</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-11-04</submitTime><openTime>2020-12-19</openTime><discovererName>李香兰老师</discovererName><formalWay>厂商尚未提供漏洞修补方案，请关注厂商主页及时更新：&#xD;
+http://www.weimengcms.com/</formalWay><description>WMCMS是一套基于PHP+MYSQL为核心开发、免费 + 开源的专业中文标签建站系统。
+
+WMCMS专业版da***.my***.php文件存在SQL注入漏洞。攻击者可利用该漏洞获取服务器管理权限。</description></vulnerability><vulnerability><number>CNVD-2020-64558</number><title>PHPEMS后台存在命令执行漏洞（CNVD-2020-64558）</title><serverity>高</serverity><products><product>PHPEMS PHPEMS 6.1 </product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-11-05</submitTime><openTime>2020-12-20</openTime><discovererName>王子航</discovererName><formalWay>厂商尚未提供相关漏洞补丁链接，请关注厂商主页随时更新：&#xD;
+http://www.phpems.net/</formalWay><description>PHPEMS是一个开源的中文在线考试系统，该系统基于PHP进行开发，是一款集在线考试、视频播放等功能，上手操作简单的国产精品系统。
+
+PHPEMS后台存在命令执行漏洞，攻击者可利用该漏洞获取服务器控制权限。</description></vulnerability><vulnerability><number>CNVD-2020-64557</number><title>瑞芯微电子股份有限公司瑞芯微芯片存在拒绝服务漏洞</title><serverity>中</serverity><products><product>瑞芯微电子股份有限公司 瑞芯微芯片 </product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-11-05</submitTime><openTime>2020-12-20</openTime><discovererName>baihong</discovererName><formalWay>厂商已提供漏洞修补方案，请关注厂商主页及时更新：&#xD;
+https://www.rock-chips.com/</formalWay><description>瑞芯微专注于移动互联网、数字多媒体芯片设计，是专业的个人移动信息终端SOC解决方案供应商。
+
+瑞芯微电子股份有限公司瑞芯微芯片存在拒绝服务漏洞，攻击者可利用该漏洞造成拒绝服务。</description></vulnerability><vulnerability><number>CNVD-2020-64556</number><title>瑞芯微电子股份有限公司瑞芯微芯片存在拒绝服务漏洞（CNVD-2020-64556）</title><serverity>中</serverity><products><product>瑞芯微电子股份有限公司 瑞芯微芯片 </product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-11-05</submitTime><openTime>2020-12-20</openTime><discovererName>baihong</discovererName><formalWay>厂商尚未提供相关漏洞补丁链接，请关注厂商主页随时更新：&#xD;
+https://www.rock-chips.com/&#xD;
+</formalWay><description>瑞芯微专注于移动互联网、数字多媒体芯片设计，是专业的个人移动信息终端SOC解决方案供应商。
+
+瑞芯微电子股份有限公司瑞芯微芯片存在拒绝服务漏洞，攻击者可利用该漏洞造成拒绝服务。
+</description></vulnerability><vulnerability><number>CNVD-2020-64555</number><title>济南华企文化传媒有限公司建站系统存在SQL注入漏洞</title><serverity>高</serverity><products><product>济南华企文化传媒有限公司 建站系统 </product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-11-05</submitTime><openTime>2020-12-20</openTime><discovererName>Panther</discovererName><formalWay>厂商尚未提供相关漏洞补丁链接，请关注厂商主页随时更新：&#xD;
+http://www.jnhqcm.com</formalWay><description>济南华企文化传媒有限责任公司成立于2014年04月，经营范围包括网站策划、制作、推广以及网络信息咨询；网络技术服务等。
+
+济南华企文化传媒有限公司建站系统存在SQL注入漏洞，攻击者可利用该漏洞获取数据库敏感信息。
+</description></vulnerability><vulnerability><number>CNVD-2020-64630</number><title>联通智慧安全科技有限公司电子印章系统存在内存破坏漏洞</title><serverity>中</serverity><products><product>联通智慧安全科技有限公司 电子印章系统 V3.1.4.2</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-11-05</submitTime><openTime>2020-12-20</openTime><discovererName>陈思远</discovererName><formalWay>厂商尚未提供相关漏洞补丁链接，请关注厂商主页随时更新：&#xD;
+http://ipass.uni-ca.com.cn</formalWay><description>联通智慧安全科技有限公司立于2007年08月，经营范围包括：技术开发、技术咨询、技术服务、技术转让、技术培训等。
+
+联通智慧安全科技有限公司电子印章系统存在内存破坏漏洞，攻击者可利用该漏洞构造畸形的BMP图片可导致程序崩溃，成功利用可造成任意代码执行。</description></vulnerability><vulnerability><number>CNVD-2020-64606</number><title>太原迅易科技有限公司74cms存在XSS漏洞</title><serverity>中</serverity><products><product>太原迅易科技有限公司 74cms v4.2.66</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-11-05</submitTime><openTime>2020-12-20</openTime><discovererName>beatsl</discovererName><formalWay>厂商尚未提供相关漏洞补丁链接，请关注厂商主页随时更新：&#xD;
+http://www.74cms.com/ </formalWay><description>74cms是一项基于PHP+MYSQL为核心开发的一套免费开源的专业人才招聘系统。
+
+太原迅易科技有限公司74cms存在XSS漏洞，攻击者可利用该漏洞获取管理员cookie等敏感信息。</description></vulnerability><vulnerability><number>CNVD-2020-64613</number><title>哈尔滨伟成科技有限公司OurPHP傲派建站系统存在任意文件删除漏洞</title><serverity>低</serverity><products><product>哈尔滨伟成科技有限公司 OurPHP V3.0.0</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-11-05</submitTime><openTime>2020-12-20</openTime><discovererName>Ayaf</discovererName><description>OurPHP傲派建站系统是一套企业+电商营销的建站系统。
+
+哈尔滨伟成科技有限公司OurPHP傲派建站系统存在任意文件删除漏洞，攻击者可以利用漏洞删除服务器下任意文件。</description></vulnerability><vulnerability><number>CNVD-2020-64614</number><title>长沙市正宇软件开发有限公司多个系统存在逻辑缺陷漏洞</title><serverity>中</serverity><products><product>长沙市正宇软件开发有限公司 人大信息系统 </product><product>长沙市正宇软件开发有限公司 政协信息系统 </product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-11-05</submitTime><openTime>2020-12-20</openTime><discovererName>Lre1n</discovererName><formalWay>厂商尚未提供相关漏洞补丁链接，请关注厂商主页随时更新：&#xD;
+http://www.cszysoft.com/</formalWay><description>正宇软件是一家全国性的软件公司，总部位于长沙麓谷国家高新开发区中电软件园。
+
+长沙市正宇软件开发有限公司多个系统存在逻辑缺陷漏洞，攻击者可利用该漏洞获取敏感信息。</description></vulnerability><vulnerability><number>CNVD-2020-65103</number><title>安徽微同科技有限公司微同开源商城管理平台存在XML实体注入漏洞</title><serverity>中</serverity><products><product>安徽微同科技有限公司 微同开源商城管理平台 1.0.0&#xD;
+</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-11-05</submitTime><openTime>2020-12-20</openTime><discovererName>turn1tup</discovererName><formalWay>目前厂商尚未提供相关漏洞补丁链接，请关注厂商主页随时更新： &#xD;
+http://fly2you.cn/&#xD;
+</formalWay><description>微同商城是一款开源微信小程序商城（前后端开源：uniapp+Java），拥有秒杀、优惠券、多商户、直播卖货、分销等功能，可用于快速搭建一个微信小程序商城。
+
+安徽微同科技有限公司微同开源商城管理平台存在XML实体注入漏洞，攻击者可利用该漏洞
+获取敏感信息。</description></vulnerability><vulnerability><number>CNVD-2020-64561</number><title>刀客建站系统V1.0存在文件上传漏洞</title><serverity>高</serverity><products><product>刀客工作室 刀客建站系统 v1.0</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-11-05</submitTime><openTime>2020-12-20</openTime><discovererName>Nuckive</discovererName><formalWay>暂无</formalWay><description>刀客建站系统是专门针对软件开发者和软件affiliate的软件发布平台自助建站系统。
+
+刀客建站系统V1.0存在文件上传漏洞，攻击者可通过上传任意文件的方式上传webshell到服务器从而获得对方服务器的权限。</description></vulnerability><vulnerability><number>CNVD-2020-64622</number><title>联通智慧安全科技有限公司电子印章系统存在内存破坏漏洞（CNVD-2020-64622）</title><serverity>中</serverity><products><product>联通智慧安全科技有限公司 电子印章系统 V3.1.4.2</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-11-05</submitTime><openTime>2020-12-20</openTime><discovererName>陈思远</discovererName><formalWay>目前厂商尚未提供相关漏洞补丁信息，请关注厂商主页随时更新：&#xD;
+http://ipass.uni-ca.com.cn</formalWay><description>联通智慧安全科技有限公司立于2007年08月，经营范围包括：技术开发、技术咨询、技术服务、技术转让、技术培训等。
+
+联通智慧安全科技有限公司电子印章系统存在内存破坏漏洞，攻击者可利用该漏洞构造畸形的AIP文档可导致程序崩溃，成功利用可造成任意代码执行。</description></vulnerability><vulnerability><number>CNVD-2020-64553</number><title>启明星故障报修系统(微信公众号版)40.0存在SQL注入漏洞</title><serverity>中</serverity><products><product>上海荃路软件开发工作室 启明星故障报修系统(微信公众号版) servicedesk 40.0</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-11-05</submitTime><openTime>2020-12-20</openTime><discovererName>戴恩军</discovererName><formalWay>目前厂商尚未提供相关漏洞补丁信息，请关注厂商主页随时更新：&#xD;
+http://www.dotnetcms.org/&#xD;
+</formalWay><description>启明星故障报修系统Servicedesk可以作为企业故障报修平台。系统支持二次身份验证，问题统计，微信通知等功能。
+
+启明星故障报修系统(微信公众号版)40.0存在SQL注入漏洞，攻击者可利用该漏洞获取数据库敏感信息。
+</description></vulnerability><vulnerability><number>CNVD-2020-64552</number><title>启明星电子文档库存在文件上传漏洞</title><serverity>高</serverity><products><product>启明星工作室 启明星电子文档库 edoc 32.0</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-11-05</submitTime><openTime>2020-12-20</openTime><discovererName>戴恩军</discovererName><formalWay>目前厂商尚未提供相关漏洞补丁信息，请关注厂商主页随时更新：&#xD;
+http://www.dotnetcms.org/</formalWay><description>启明星电子文档库可用于存放部门手册、制度规范、机械图纸等到edoc里。
+
+启明星电子文档库存在文件上传漏洞，攻击者利用该漏洞可以上传恶意文件从而控制服务器。
+</description></vulnerability><vulnerability><number>CNVD-2020-64551</number><title>启明星电子文档库存在任意文件下载漏洞</title><serverity>低</serverity><products><product>启明星工作室 启明星电子文档库 edoc 32.0</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-11-05</submitTime><openTime>2020-12-20</openTime><discovererName>戴恩军</discovererName><formalWay>目前厂商尚未提供相关漏洞补丁信息，请关注厂商主页随时更新：&#xD;
+http://www.dotnetcms.org/</formalWay><description>启明星电子文档库可用于存放部门手册、制度规范、机械图纸等到edoc里。
+
+启明星电子文档库存在任意文件下载漏洞，攻击者可利用该漏洞不需要权限即可下载服务器上的任意文件获取敏感信息。
+</description></vulnerability><vulnerability><number>CNVD-2020-64625</number><title>上海展盟网络科技有限公司ABC看图存在堆越界读漏洞（CNVD-2020-64625）</title><serverity>中</serverity><products><product>上海展盟网络科技有限公司 ABC看图 3.2.0.6</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-11-05</submitTime><openTime>2020-12-20</openTime><discovererName>京东云安全</discovererName><formalWay>目前厂商尚未提供相关漏洞补丁信息，请关注厂商主页随时更新：&#xD;
+http://abckantu.7654.com/&#xD;
+</formalWay><description>ABC看图是一款永久免费的看图软件，智能开启硬件加速，支持各种图片格式。
+
+上海展盟网络科技有限公司ABC看图存在堆越界读漏洞，攻击这可利用该漏洞导致该软件崩溃。</description></vulnerability><vulnerability><number>CNVD-2020-64624</number><title>上海展盟网络科技有限公司ABC看图存在堆越界读漏洞（CNVD-2020-64624）</title><serverity>中</serverity><products><product>上海展盟网络科技有限公司 ABC看图 3.2.0.6</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-11-05</submitTime><openTime>2020-12-20</openTime><discovererName>京东云安全</discovererName><formalWay>目前厂商尚未提供相关漏洞补丁信息，请关注厂商主页随时更新：&#xD;
+http://abckantu.7654.com/</formalWay><description>ABC看图是一款永久免费的看图软件，智能开启硬件加速，支持各种图片格式。
+
+上海展盟网络科技有限公司ABC看图存在堆越界读漏洞，攻击者可利用该漏洞通过该poc可导致该软件崩溃，成功利用该漏洞可导致信息泄露。</description></vulnerability><vulnerability><number>CNVD-2020-64623</number><title>上海展盟网络科技有限公司ABC看图存在堆越界读漏洞（CNVD-2020-64623）</title><serverity>中</serverity><products><product>上海展盟网络科技有限公司 ABC看图 3.2.0.6</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-11-05</submitTime><openTime>2020-12-20</openTime><discovererName>京东云安全</discovererName><formalWay>目前厂商尚未提供相关漏洞补丁信息，请关注厂商主页随时更新：&#xD;
+http://abckantu.7654.com/&#xD;
+</formalWay><description>ABC看图是一款永久免费的看图软件，智能开启硬件加速，支持各种图片格式。
+
+上海展盟网络科技有限公司ABC看图存在堆越界读漏洞，攻击者可利用该漏洞造成拒绝服务。</description></vulnerability><vulnerability><number>CNVD-2020-64542</number><title>微同开源商城管理平台存在命令执行漏洞</title><serverity>高</serverity><products><product>微同科技 微同开源商城管理平台 1.0.0</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-11-05</submitTime><openTime>2020-12-20</openTime><discovererName>turn1tup</discovererName><formalWay>目前厂商尚未提供相关漏洞补丁链接，请关注厂商主页随时更新：&#xD;
+http://fly2you.cn/&#xD;
+</formalWay><description>微同商城是一款开源微信小程序商城（前后端开源：uniapp+Java）。
+
+微同开源商城管理平台存在命令执行漏洞，攻击者可利用该漏洞未授权情况下执行任意代码。</description></vulnerability><vulnerability><number>CNVD-2020-64541</number><title>江西铭软科技有限公司MCms后台存在文件上传漏洞</title><serverity>高</serverity><products><product>江西铭软科技有限公司 MCms V5.1</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-11-06</submitTime><openTime>2020-12-20</openTime><discovererName>p1n93r</discovererName><formalWay>目前厂商尚未提供相关漏洞补丁信息，请关注厂商主页随时更新：&#xD;
+https://www.mingsoft.net/index.html</formalWay><description>江西铭软科技有限公司经营范围包括：信息技术咨询服务；互联网信息服务；计算机软件技术开发等。
+
+江西铭软科技有限公司MCms后台存在文件上传漏洞，攻击者可利用该漏洞获取服务器控制权限。</description></vulnerability><vulnerability><number>CNVD-2020-72731</number><cves><cve><cveNumber>CVE-2020-26077</cveNumber><cveUrl>https://nvd.nist.gov/vuln/detail/CVE-2020-26077</cveUrl></cve></cves><title>Cisco IoT Field Network Director访问控制错误漏洞</title><serverity>中</serverity><products><product>Cisco Cisco IoT Field Network Director &lt;4.6.1</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-11-19</submitTime><openTime>2020-12-19</openTime><referenceLink>https://nvd.nist.gov/vuln/detail/CVE-2020-26077</referenceLink><formalWay>厂商已发布了漏洞修复程序，请及时关注更新：&#xD;
+https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-FND-LV-hE4Rntet</formalWay><description>Cisco IoT Field Network Director (FND)是大规模FAN部署的网络管理系统。
+
+Cisco IoT Field Network Director 4.6.1之前版本存在访问控制错误漏洞。攻击者可通过发送更改受影响系统上请求的用户列表的域的API请求利用该漏洞查看受影响系统上不同域的用户列表。</description><patchName>Cisco IoT Field Network Director访问控制错误漏洞的补丁</patchName><patchDescription>Cisco IoT Field Network Director (FND)是大规模FAN部署的网络管理系统。&#xD;
+&#xD;
+Cisco IoT Field Network Director 4.6.1之前版本存在访问控制错误漏洞。攻击者可通过发送更改受影响系统上请求的用户列表的域的API请求利用该漏洞查看受影响系统上不同域的用户列表。目前，供应商发布了安全公告及相关补丁信息，修复了此漏洞。</patchDescription></vulnerability><vulnerability><number>CNVD-2020-72730</number><cves><cve><cveNumber>CVE-2020-26078</cveNumber><cveUrl>https://nvd.nist.gov/vuln/detail/CVE-2020-26078</cveUrl></cve></cves><title>Cisco IoT Field Network Director文件覆盖漏洞</title><serverity>中</serverity><products><product>Cisco Cisco IoT Field Network Director &lt;4.6.1</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-11-19</submitTime><openTime>2020-12-19</openTime><referenceLink>https://nvd.nist.gov/vuln/detail/CVE-2020-26078</referenceLink><formalWay>厂商已发布了漏洞修复程序，请及时关注更新：&#xD;
+https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-FND-OVW-SHzOE3Pd</formalWay><description>Cisco IoT Field Network Director (FND)是大规模FAN部署的网络管理系统。
+
+Cisco IoT Field Network Director 4.6.1之前版本存在文件覆盖漏洞。该漏洞源于文件系统保护不足。攻击者可通过发送特制API请求利用该漏洞覆盖受影响系统上的文件。</description><patchName>Cisco IoT Field Network Director文件覆盖漏洞的补丁</patchName><patchDescription>Cisco IoT Field Network Director (FND)是大规模FAN部署的网络管理系统。&#xD;
+&#xD;
+Cisco IoT Field Network Director 4.6.1之前版本存在文件覆盖漏洞。该漏洞源于文件系统保护不足。攻击者可通过发送特制API请求利用该漏洞覆盖受影响系统上的文件。目前，供应商发布了安全公告及相关补丁信息，修复了此漏洞。</patchDescription></vulnerability><vulnerability><number>CNVD-2020-72729</number><cves><cve><cveNumber>CVE-2020-26075</cveNumber><cveUrl>https://nvd.nist.gov/vuln/detail/CVE-2020-26075</cveUrl></cve></cves><title>Cisco IoT Field Network Director SQL注入漏洞</title><serverity>高</serverity><products><product>Cisco Cisco IoT Field Network Director &lt;4.6.1</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-11-19</submitTime><openTime>2020-12-19</openTime><referenceLink>https://nvd.nist.gov/vuln/detail/CVE-2020-26075</referenceLink><formalWay>厂商已发布了漏洞修复程序，请及时关注更新：&#xD;
+https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-FND-SQL-zEkBnL2h</formalWay><description>Cisco IoT Field Network Director（IoT-FND）是美国思科（Cisco）公司的一套端到端的物联网管理系统。该系统具有设备管理、资产跟踪和智能计量等功能。
+
+Cisco IoT Field Network Director存在SQL注入漏洞，该漏洞源于对受影响设备发出的REST API请求的输入验证不足造成的。攻击者可利用该漏洞访问受影响设备的后端数据库。成功利用该漏洞可以使攻击者可利用该漏洞获得对受影响设备的后端数据库的访问。 </description><patchName>Cisco IoT Field Network Director SQL注入漏洞的补丁</patchName><patchDescription>Cisco IoT Field Network Director（IoT-FND）是美国思科（Cisco）公司的一套端到端的物联网管理系统。该系统具有设备管理、资产跟踪和智能计量等功能。&#xD;
+&#xD;
+Cisco IoT Field Network Director存在SQL注入漏洞，该漏洞源于对受影响设备发出的REST API请求的输入验证不足造成的。攻击者可利用该漏洞访问受影响设备的后端数据库。成功利用该漏洞可以使攻击者可利用该漏洞获得对受影响设备的后端数据库的访问。目前，供应商发布了安全公告及相关补丁信息，修复了此漏洞。</patchDescription></vulnerability><vulnerability><number>CNVD-2020-72728</number><cves><cve><cveNumber>CVE-2020-3392</cveNumber><cveUrl>https://nvd.nist.gov/vuln/detail/CVE-2020-3392</cveUrl></cve></cves><title>Cisco IoT Field Network Director访问控制错误漏洞（CNVD-2020-72728）</title><serverity>中</serverity><products><product>Cisco Cisco IoT Field Network Director &lt;4.6.1</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-11-19</submitTime><openTime>2020-12-19</openTime><referenceLink>https://nvd.nist.gov/vuln/detail/CVE-2020-3392</referenceLink><formalWay>厂商已发布了漏洞修复程序，请及时关注更新：&#xD;
+https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-FND-APIA-xZntFS2V</formalWay><description>Cisco IoT Field Network Director（IoT-FND）是美国思科（Cisco）公司的一套端到端的物联网管理系统。该系统具有设备管理、资产跟踪和智能计量等功能。
+
+Cisco IoT Field Network Director (FND）存在安全漏洞，该漏洞源于受影响的软件没有正确地验证API调用，攻击者可利用该漏洞查看受影响系统上的敏感信息。</description><patchName>Cisco IoT Field Network Director访问控制错误漏洞（CNVD-2020-72728）的补丁</patchName><patchDescription>Cisco IoT Field Network Director（IoT-FND）是美国思科（Cisco）公司的一套端到端的物联网管理系统。该系统具有设备管理、资产跟踪和智能计量等功能。&#xD;
+&#xD;
+Cisco IoT Field Network Director (FND）存在安全漏洞，该漏洞源于受影响的软件没有正确地验证API调用，攻击者可利用该漏洞查看受影响系统上的敏感信息。目前，供应商发布了安全公告及相关补丁信息，修复了此漏洞。</patchDescription></vulnerability><vulnerability><number>CNVD-2020-72727</number><cves><cve><cveNumber>CVE-2020-26068</cveNumber><cveUrl>https://nvd.nist.gov/vuln/detail/CVE-2020-26068</cveUrl></cve></cves><title>Cisco RoomOS Software权限许可和访问控制问题漏洞</title><serverity>中</serverity><products><product>Cisco TelePresence CE Software null</product><product>Cisco RoomOS Software </product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-11-23</submitTime><openTime>2020-12-19</openTime><referenceLink>https://nvd.nist.gov/vuln/detail/CVE-2020-26068</referenceLink><formalWay>目前厂商已发布升级补丁以修复漏洞，补丁获取链接：&#xD;
+https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-tp-uathracc-jWNESUfM </formalWay><description>Cisco RoomOS Software是美国思科（Cisco）公司的一套用于Cisco设备的自动管理软件。该软件主要用于升级、管理Cisco设备的主板固件。
+
+Cisco Telepresence CE Software 和 Cisco RoomOS Software存在权限许可和访问控制问题漏洞，该漏洞源于访问授权不足造成的。攻击者可利用该漏洞为受影响的设备生成一个访问令牌。成功的利用可以允许攻击者可利用该漏洞使用生成的令牌在设备上启用用户不应该使用的实验特性。 </description><patchName>Cisco RoomOS Software权限许可和访问控制问题漏洞的补丁</patchName><patchDescription>Cisco RoomOS Software是美国思科（Cisco）公司的一套用于Cisco设备的自动管理软件。该软件主要用于升级、管理Cisco设备的主板固件。&#xD;
+&#xD;
+Cisco Telepresence CE Software 和 Cisco RoomOS Software存在权限许可和访问控制问题漏洞，该漏洞源于访问授权不足造成的。攻击者可利用该漏洞为受影响的设备生成一个访问令牌。成功的利用可以允许攻击者可利用该漏洞使用生成的令牌在设备上启用用户不应该使用的实验特性。目前，供应商发布了安全公告及相关补丁信息，修复了此漏洞。</patchDescription></vulnerability><vulnerability><number>CNVD-2020-72726</number><cves><cve><cveNumber>CVE-2020-27125</cveNumber><cveUrl>https://nvd.nist.gov/vuln/detail/CVE-2020-27125</cveUrl></cve></cves><title>Cisco Security Manager输入验证错误漏洞（CNVD-2020-72726）</title><serverity>中</serverity><products><product>Cisco Cisco Security Manager (CSM) </product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-12-01</submitTime><openTime>2020-12-19</openTime><referenceLink>https://nvd.nist.gov/vuln/detail/CVE-2020-27125</referenceLink><formalWay>目前厂商已发布升级补丁以修复漏洞，补丁获取链接：&#xD;
+https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-csm-rce-8gjUz9fW</formalWay><description>Cisco Security Manager（CSM）是美国思科（Cisco）公司的一套企业级的管理应用，它主要用于在Cisco网络和安全设备上配置防火墙、VPN和入侵保护安全服务。
+
+Cisco Security Manager存在安全漏洞，该漏洞源于在受影响的软件中对静态凭证的保护不够。攻击者可利用该漏洞查看静态凭证。</description><patchName>Cisco Security Manager输入验证错误漏洞（CNVD-2020-72726）的补丁</patchName><patchDescription>Cisco Security Manager（CSM）是美国思科（Cisco）公司的一套企业级的管理应用，它主要用于在Cisco网络和安全设备上配置防火墙、VPN和入侵保护安全服务。&#xD;
+&#xD;
+Cisco Security Manager存在安全漏洞，该漏洞源于在受影响的软件中对静态凭证的保护不够。攻击者可利用该漏洞查看静态凭证。目前，供应商发布了安全公告及相关补丁信息，修复了此漏洞。</patchDescription></vulnerability><vulnerability><number>CNVD-2020-72739</number><cves><cve><cveNumber>CVE-2020-29282</cveNumber><cveUrl>https://nvd.nist.gov/vuln/detail/CVE-2020-29282</cveUrl></cve></cves><title>BloodX  SQL注入漏洞</title><serverity>高</serverity><products><product>Diveshlunker Bloodx 1.0</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-12-04</submitTime><openTime>2020-12-19</openTime><referenceLink>https://nvd.nist.gov/vuln/detail/CVE-2020-29282</referenceLink><formalWay>目前厂商暂未发布修复措施解决此安全问题，建议使用此软件的用户随时关注厂商主页或参考网址以获取解决办法：&#xD;
+https://github.com/diveshlunker/BloodX</formalWay><description>Diveshlunker Bloodx是Diveshlunker个人开发者的一个基于Php的用于血库管理的建站系统。
+
+BloodX 1.0版本存在SQL注入漏洞，攻击者可利用该漏洞绕过认证。 </description></vulnerability><vulnerability><number>CNVD-2020-72463</number><cves><cve><cveNumber>CVE-2020-26963</cveNumber><cveUrl>https://nvd.nist.gov/vuln/detail/CVE-2020-26963</cveUrl></cve></cves><title>Mozilla Firefox拒绝服务漏洞（CNVD-2020-72463）</title><serverity>中</serverity><products><product>Mozilla Firefox &lt;83</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-12-14</submitTime><openTime>2020-12-16</openTime><referenceLink>https://nvd.nist.gov/vuln/detail/CVE-2020-26963</referenceLink><formalWay>目前厂商已发布升级补丁以修复漏洞，补丁获取链接：&#xD;
+https://www.mozilla.org/en-US/security/advisories/mfsa2020-50/</formalWay><description>Mozilla Firefox是美国Mozilla基金会的一款开源Web浏览器。
+
+Mozilla Firefox 83之前版本存在拒绝服务漏洞。该漏洞源于程序未对API调用进行速率限制。攻击者可利用该漏洞导致浏览器挂起。</description><patchName>Mozilla Firefox拒绝服务漏洞（CNVD-2020-72463）的补丁</patchName><patchDescription>Mozilla Firefox是美国Mozilla基金会的一款开源Web浏览器。&#xD;
+&#xD;
+Mozilla Firefox 83之前版本存在拒绝服务漏洞。该漏洞源于程序未对API调用进行速率限制。攻击者可利用该漏洞导致浏览器挂起。目前，供应商发布了安全公告及相关补丁信息，修复了此漏洞。</patchDescription></vulnerability><vulnerability><number>CNVD-2020-72462</number><cves><cve><cveNumber>CVE-2020-26969</cveNumber><cveUrl>https://nvd.nist.gov/vuln/detail/CVE-2020-26969</cveUrl></cve></cves><title>Mozilla Firefox内存破坏漏洞（CNVD-2020-72462）</title><serverity>高</serverity><products><product>Mozilla Firefox &lt;83</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-12-14</submitTime><openTime>2020-12-16</openTime><referenceLink>https://nvd.nist.gov/vuln/detail/CVE-2020-26969</referenceLink><formalWay>目前厂商已发布升级补丁以修复漏洞，补丁获取链接：&#xD;
+https://www.mozilla.org/en-US/security/advisories/mfsa2020-50/</formalWay><description>Mozilla Firefox是美国Mozilla基金会的一款开源Web浏览器。
+
+Mozilla Firefox 83之前版本存在内存破坏漏洞。攻击者可利用该漏洞导致内存破坏并执行任意代码。</description><patchName>Mozilla Firefox内存破坏漏洞（CNVD-2020-72462）的补丁</patchName><patchDescription>Mozilla Firefox是美国Mozilla基金会的一款开源Web浏览器。&#xD;
+&#xD;
+Mozilla Firefox 83之前版本存在内存破坏漏洞。攻击者可利用该漏洞导致内存破坏并执行任意代码。目前，供应商发布了安全公告及相关补丁信息，修复了此漏洞。</patchDescription></vulnerability><vulnerability><number>CNVD-2020-72716</number><cves><cve><cveNumber>CVE-2020-26954</cveNumber><cveUrl>https://nvd.nist.gov/vuln/detail/CVE-2020-26954</cveUrl></cve></cves><title>Mozilla Firefox欺骗漏洞（CNVD-2020-72716）</title><serverity>中</serverity><products><product>Mozilla Firefox for Android &lt;83</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-12-14</submitTime><openTime>2020-12-16</openTime><referenceLink>https://nvd.nist.gov/vuln/detail/CVE-2020-26954</referenceLink><formalWay>目前厂商已发布升级补丁以修复漏洞，补丁获取链接：&#xD;
+https://www.mozilla.org/en-US/security/advisories/mfsa2020-50/</formalWay><description>Mozilla Firefox是美国Mozilla基金会的一款开源Web浏览器。
+
+Mozilla Firefox 83之前版本存在欺骗漏洞。该漏洞源于程序未对其余已安装app中的恶意内容进行正确验证。攻击者可利用该漏洞访问全屏并执行UI欺骗攻击（该漏洞仅影响Firefox for Android，其余操作系统不受影响）。</description><patchName>Mozilla Firefox欺骗漏洞（CNVD-2020-72716）的补丁</patchName><patchDescription>Mozilla Firefox是美国Mozilla基金会的一款开源Web浏览器。&#xD;
+&#xD;
+Mozilla Firefox 83之前版本存在欺骗漏洞。该漏洞源于程序未对其余已安装app中的恶意内容进行正确验证。攻击者可利用该漏洞访问全屏并执行UI欺骗攻击（该漏洞仅影响Firefox for Android，其余操作系统不受影响）。目前，供应商发布了安全公告及相关补丁信息，修复了此漏洞。</patchDescription></vulnerability><vulnerability><number>CNVD-2020-72461</number><cves><cve><cveNumber>CVE-2020-26952</cveNumber><cveUrl>https://nvd.nist.gov/vuln/detail/CVE-2020-26952</cveUrl></cve></cves><title>Mozilla Firefox内存破坏漏洞（CNVD-2020-72461）</title><serverity>高</serverity><products><product>Mozilla Firefox &lt;83</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-12-14</submitTime><openTime>2020-12-16</openTime><referenceLink>https://bugzilla.mozilla.org/show_bug.cgi?id=1667685</referenceLink><formalWay>目前厂商已发布升级补丁以修复漏洞，补丁获取链接：&#xD;
+https://www.mozilla.org/en-US/security/advisories/mfsa2020-50/</formalWay><description>Mozilla Firefox是美国Mozilla基金会的一款开源Web浏览器。
+
+Mozilla Firefox 83之前版本存在内存破坏漏洞。攻击者可利用该漏洞导致内存破坏和程序崩溃。</description><patchName>Mozilla Firefox内存破坏漏洞（CNVD-2020-72461）的补丁</patchName><patchDescription>Mozilla Firefox是美国Mozilla基金会的一款开源Web浏览器。&#xD;
+&#xD;
+Mozilla Firefox 83之前版本存在内存破坏漏洞。攻击者可利用该漏洞导致内存破坏和程序崩溃。目前，供应商发布了安全公告及相关补丁信息，修复了此漏洞。</patchDescription></vulnerability><vulnerability><number>CNVD-2020-72738</number><cves><cve><cveNumber>CVE-2020-35378</cveNumber><cveUrl>https://nvd.nist.gov/vuln/detail/CVE-2020-35378</cveUrl></cve></cves><title>Online Bus Ticket Reservation  SQL注入漏洞</title><serverity>高</serverity><products><product>Sourcecodester Sourcecodester Online Bus Ticket Reservation 1.0</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-12-15</submitTime><openTime>2020-12-19</openTime><referenceLink>https://nvd.nist.gov/vuln/detail/CVE-2020-35378</referenceLink><formalWay>厂商尚未提供漏洞修复方案，请关注厂商主页更新：&#xD;
+https://www.sourcecodester.com/php/5012/online-bus-ticket-reservation-using-phpmysql.html</formalWay><description>Sourcecodester Online Bus Ticket Reservation是美国Sourcecodester公司的一个在线公交车售票平台。
+
+Online Bus Ticket Reservation 1.0版本存在SQL注入漏洞，该漏洞源于基于数据库的应用缺少对外部输入SQL语句的验证。攻击者可利用该漏洞执行任意SQL命令，并通过用户名和密码字段绕过身份验证。</description></vulnerability><vulnerability><number>CNVD-2020-72737</number><cves><cve><cveNumber>CVE-2020-20189</cveNumber><cveUrl>https://nvd.nist.gov/vuln/detail/CVE-2020-20189</cveUrl></cve></cves><title>Ornose15 NewPK SQL注入漏洞</title><serverity>高</serverity><products><product>Ornose15 Ornose15 NewPK 1.1</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-12-15</submitTime><openTime>2020-12-19</openTime><referenceLink>https://nvd.nist.gov/vuln/detail/CVE-2020-20189</referenceLink><formalWay>厂商尚未提供漏洞修复方案，请关注厂商主页更新：&#xD;
+https://github.com/ornose15/NewPK/issues/1</formalWay><description>Ornose15 Newpk是Ornose15个人开发者的一款基于Php的博客管理平台。
+
+NewPK 1.1版本存在SQL注入漏洞，该漏洞源于标题参数adminnewpost.php未对用户输入做有效过滤，攻击者可利用此漏洞执行SQL语句获取数据库信息。</description></vulnerability><vulnerability><number>CNVD-2020-72723</number><cves><cve><cveNumber>CVE-2020-25759</cveNumber><cveUrl>https://nvd.nist.gov/vuln/detail/CVE-2020-25759</cveUrl></cve></cves><title>D-Link DSR-250命令注入漏洞</title><serverity>高</serverity><products><product>D-Link DSR-250 3.17</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-12-16</submitTime><openTime>2020-12-18</openTime><referenceLink>https://nvd.nist.gov/vuln/detail/CVE-2020-25759</referenceLink><formalWay>厂商已发布了漏洞修复程序，请及时关注更新：&#xD;
+https://supportannouncement.us.dlink.com/announcement/publication.aspx?name=SAP10195</formalWay><description>D-Link DSR-250是一款具有动态Web内容过滤功能的8端口千兆VPN路由器。
+
+D-Link DSR-250 3.17的Unified Services Router web界面存在命令注入漏洞。该漏洞源于对多部分HTTP POST请求中提供的输入缺少认证。攻击者可利用该漏洞执行任意命令。</description><patchName>D-Link DSR-250命令注入漏洞的补丁</patchName><patchDescription>D-Link DSR-250是一款具有动态Web内容过滤功能的8端口千兆VPN路由器。&#xD;
+&#xD;
+D-Link DSR-250 3.17的Unified Services Router web界面存在命令注入漏洞。该漏洞源于对多部分HTTP POST请求中提供的输入缺少认证。攻击者可利用该漏洞执行任意命令。目前，供应商发布了安全公告及相关补丁信息，修复了此漏洞。</patchDescription></vulnerability><vulnerability><number>CNVD-2020-72722</number><cves><cve><cveNumber>CVE-2020-25758</cveNumber><cveUrl>https://nvd.nist.gov/vuln/detail/CVE-2020-25758</cveUrl></cve></cves><title>D-Link DSR-250命令注入漏洞（CNVD-2020-72722）</title><serverity>高</serverity><products><product>D-Link DSR-250 3.17</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-12-16</submitTime><openTime>2020-12-18</openTime><referenceLink>https://nvd.nist.gov/vuln/detail/CVE-2020-25758</referenceLink><formalWay>厂商已发布了漏洞修复程序，请及时关注更新：&#xD;
+https://supportannouncement.us.dlink.com/announcement/publication.aspx?name=SAP10195</formalWay><description>D-Link DSR-250是一款具有动态Web内容过滤功能的8端口千兆VPN路由器。
+
+D-Link DSR-250 3.17存在命令注入漏洞。该漏洞源于对配置文件校验和的验证不足。攻击者可利用该漏洞在上传前将任意crontab条目注入已保存的配置中，并以root权限执行条目。</description><patchName>D-Link DSR-250命令注入漏洞（CNVD-2020-72722）的补丁</patchName><patchDescription>D-Link DSR-250是一款具有动态Web内容过滤功能的8端口千兆VPN路由器。&#xD;
+&#xD;
+D-Link DSR-250 3.17存在命令注入漏洞。该漏洞源于对配置文件校验和的验证不足。攻击者可利用该漏洞在上传前将任意crontab条目注入已保存的配置中，并以root权限执行条目。目前，供应商发布了安全公告及相关补丁信息，修复了此漏洞。</patchDescription></vulnerability><vulnerability><number>CNVD-2020-73455</number><cves><cve><cveNumber>CVE-2020-0489</cveNumber><cveUrl>https://nvd.nist.gov/vuln/detail/CVE-2020-0489</cveUrl></cve></cves><title>Google Android Pixel代码执行漏洞</title><serverity>中</serverity><products><product>Google Android 11</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-12-17</submitTime><openTime>2020-12-15</openTime><referenceLink>https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-December-2020-34050</referenceLink><formalWay>目前厂商已发布升级补丁以修复漏洞，补丁获取链接：&#xD;
+https://source.android.com/security/bulletin/2020-12-01</formalWay><description>Google Android是美国谷歌（Google）和开放手持设备联盟（简称oha）的一套以Linux为基础的开源操作系统。
+
+Google Android Pixel 存在安全漏洞。攻击者可利用该漏洞执行远程代码。</description><patchName>Google Android Pixel代码执行漏洞的补丁</patchName><patchDescription>Google Android是美国谷歌（Google）和开放手持设备联盟（简称oha）的一套以Linux为基础的开源操作系统。&#xD;
+&#xD;
+Google Android Pixel 存在安全漏洞。攻击者可利用该漏洞执行远程代码。目前，供应商发布了安全公告及相关补丁信息，修复了此漏洞。</patchDescription></vulnerability><vulnerability><number>CNVD-2020-73454</number><cves><cve><cveNumber>CVE-2020-0490</cveNumber><cveUrl>https://nvd.nist.gov/vuln/detail/CVE-2020-0490</cveUrl></cve></cves><title>Google Android信息泄露漏洞（CNVD-2020-73454）</title><serverity>中</serverity><products><product>Google Android 11</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-12-17</submitTime><openTime>2020-12-15</openTime><referenceLink>https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-December-2020-34050</referenceLink><formalWay>目前厂商已发布升级补丁以修复漏洞，补丁获取链接：&#xD;
+https://source.android.com/security/bulletin/2020-12-01</formalWay><description>Google Android是美国谷歌（Google）和开放手持设备联盟（简称oha）的一套以Linux为基础的开源操作系统。
+
+Google Android Pixel 存在安全漏洞。攻击者可利用该漏洞获取敏感信息。</description><patchName>Google Android信息泄露漏洞（CNVD-2020-73454）的补丁</patchName><patchDescription>Google Android是美国谷歌（Google）和开放手持设备联盟（简称oha）的一套以Linux为基础的开源操作系统。&#xD;
+&#xD;
+Google Android Pixel 存在安全漏洞。攻击者可利用该漏洞获取敏感信息。目前，供应商发布了安全公告及相关补丁信息，修复了此漏洞。</patchDescription></vulnerability><vulnerability><number>CNVD-2020-73453</number><cves><cve><cveNumber>CVE-2020-0491</cveNumber><cveUrl>https://nvd.nist.gov/vuln/detail/CVE-2020-0491</cveUrl></cve></cves><title>Google Android Pixel拒绝服务漏洞</title><serverity>中</serverity><products><product>Google Android 11</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-12-17</submitTime><openTime>2020-12-15</openTime><referenceLink>https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-December-2020-34050</referenceLink><formalWay>目前厂商已发布升级补丁以修复漏洞，补丁获取链接：&#xD;
+https://source.android.com/security/bulletin/2020-12-01</formalWay><description>Google Android是美国谷歌（Google）和开放手持设备联盟（简称oha）的一套以Linux为基础的开源操作系统。
+
+Google Android Pixel 存在安全漏洞。攻击者可利用该漏洞造成拒绝服务。</description><patchName>Google Android Pixel拒绝服务漏洞的补丁</patchName><patchDescription>Google Android是美国谷歌（Google）和开放手持设备联盟（简称oha）的一套以Linux为基础的开源操作系统。&#xD;
+&#xD;
+Google Android Pixel 存在安全漏洞。攻击者可利用该漏洞造成拒绝服务。目前，供应商发布了安全公告及相关补丁信息，修复了此漏洞。</patchDescription></vulnerability><vulnerability><number>CNVD-2020-73452</number><cves><cve><cveNumber>CVE-2020-0492</cveNumber><cveUrl>https://nvd.nist.gov/vuln/detail/CVE-2020-0492</cveUrl></cve></cves><title>Google Android缓冲区溢出漏洞（CNVD-2020-73452）</title><serverity>中</serverity><products><product>Google Android 11</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-12-17</submitTime><openTime>2020-12-15</openTime><referenceLink>https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-December-2020-34050</referenceLink><formalWay>目前厂商已发布升级补丁以修复漏洞，补丁获取链接：&#xD;
+https://source.android.com/security/bulletin/2020-12-01</formalWay><description>Google Android是美国谷歌（Google）和开放手持设备联盟（简称oha）的一套以Linux为基础的开源操作系统。
+
+Google Android Pixel 存在安全漏洞。攻击者可利用该漏洞获取敏感信息。</description><patchName>Google Android缓冲区溢出漏洞（CNVD-2020-73452）的补丁</patchName><patchDescription>Google Android是美国谷歌（Google）和开放手持设备联盟（简称oha）的一套以Linux为基础的开源操作系统。&#xD;
+&#xD;
+Google Android Pixel 存在安全漏洞。攻击者可利用该漏洞获取敏感信息。目前，供应商发布了安全公告及相关补丁信息，修复了此漏洞。</patchDescription></vulnerability><vulnerability><number>CNVD-2020-73451</number><cves><cve><cveNumber>CVE-2020-0493</cveNumber><cveUrl>https://nvd.nist.gov/vuln/detail/CVE-2020-0493</cveUrl></cve></cves><title>Google Android Pixel信息泄露漏洞</title><serverity>低</serverity><products><product>Google Android 11</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-12-17</submitTime><openTime>2020-12-15</openTime><referenceLink>https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-December-2020-34050</referenceLink><formalWay>目前厂商已发布升级补丁以修复漏洞，补丁获取链接：&#xD;
+https://source.android.com/security/bulletin/2020-12-01</formalWay><description>Google Android是美国谷歌（Google）和开放手持设备联盟（简称oha）的一套以Linux为基础的开源操作系统。
+
+Google Android Pixel 存在安全漏洞。攻击者可利用该漏洞获取敏感信息。</description><patchName>Google Android Pixel信息泄露漏洞的补丁</patchName><patchDescription>Google Android是美国谷歌（Google）和开放手持设备联盟（简称oha）的一套以Linux为基础的开源操作系统。&#xD;
+&#xD;
+Google Android Pixel 存在安全漏洞。攻击者可利用该漏洞获取敏感信息。目前，供应商发布了安全公告及相关补丁信息，修复了此漏洞。</patchDescription></vulnerability><vulnerability><number>CNVD-2020-73450</number><cves><cve><cveNumber>CVE-2020-0494</cveNumber><cveUrl>https://nvd.nist.gov/vuln/detail/CVE-2020-0494</cveUrl></cve></cves><title>Google Android Pixel缓冲区溢出漏洞</title><serverity>中</serverity><products><product>Google Android 11</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-12-17</submitTime><openTime>2020-12-15</openTime><referenceLink>https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-December-2020-34050</referenceLink><formalWay>目前厂商已发布升级补丁以修复漏洞，补丁获取链接：&#xD;
+https://source.android.com/security/bulletin/2020-12-01</formalWay><description>Google Android是美国谷歌（Google）和开放手持设备联盟（简称oha）的一套以Linux为基础的开源操作系统。
+
+Google Android Pixel 存在安全漏洞。攻击者可利用该漏洞获取敏感信息。</description><patchName>Google Android Pixel缓冲区溢出漏洞的补丁</patchName><patchDescription>Google Android是美国谷歌（Google）和开放手持设备联盟（简称oha）的一套以Linux为基础的开源操作系统。&#xD;
+&#xD;
+Google Android Pixel 存在安全漏洞。攻击者可利用该漏洞获取敏感信息。目前，供应商发布了安全公告及相关补丁信息，修复了此漏洞。</patchDescription></vulnerability><vulnerability><number>CNVD-2020-73449</number><cves><cve><cveNumber>CVE-2020-0496</cveNumber><cveUrl>https://nvd.nist.gov/vuln/detail/CVE-2020-0496</cveUrl></cve></cves><title>Google Android信息泄露漏洞（CNVD-2020-73449）</title><serverity>低</serverity><products><product>Google Android 11</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-12-17</submitTime><openTime>2020-12-15</openTime><referenceLink>https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-December-2020-34050</referenceLink><formalWay>目前厂商已发布升级补丁以修复漏洞，补丁获取链接：&#xD;
+https://source.android.com/security/bulletin/2020-12-01</formalWay><description>Google Android是美国谷歌（Google）和开放手持设备联盟（简称oha）的一套以Linux为基础的开源操作系统。
+
+Google Android Pixel 存在安全漏洞。攻击者可利用该漏洞获取敏感信息。</description><patchName>Google Android信息泄露漏洞（CNVD-2020-73449）的补丁</patchName><patchDescription>Google Android是美国谷歌（Google）和开放手持设备联盟（简称oha）的一套以Linux为基础的开源操作系统。&#xD;
+&#xD;
+Google Android Pixel 存在安全漏洞。攻击者可利用该漏洞获取敏感信息。目前，供应商发布了安全公告及相关补丁信息，修复了此漏洞。</patchDescription></vulnerability><vulnerability><number>CNVD-2020-73448</number><cves><cve><cveNumber>CVE-2020-0497</cveNumber><cveUrl>https://nvd.nist.gov/vuln/detail/CVE-2020-0497</cveUrl></cve></cves><title>Google Android信息泄露漏洞（CNVD-2020-73448）</title><serverity>低</serverity><products><product>Google Android 11</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-12-17</submitTime><openTime>2020-12-15</openTime><referenceLink>https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-December-2020-34050</referenceLink><formalWay>目前厂商已发布升级补丁以修复漏洞，补丁获取链接：&#xD;
+https://source.android.com/security/bulletin/2020-12-01</formalWay><description>Google Android是美国谷歌（Google）和开放手持设备联盟（简称oha）的一套以Linux为基础的开源操作系统。
+
+Google Android Pixel 存在安全漏洞。攻击者可利用该漏洞获取敏感信息。</description><patchName>Google Android信息泄露漏洞（CNVD-2020-73448）的补丁</patchName><patchDescription>Google Android是美国谷歌（Google）和开放手持设备联盟（简称oha）的一套以Linux为基础的开源操作系统。&#xD;
+&#xD;
+Google Android Pixel 存在安全漏洞。攻击者可利用该漏洞获取敏感信息。目前，供应商发布了安全公告及相关补丁信息，修复了此漏洞。</patchDescription></vulnerability><vulnerability><number>CNVD-2020-73447</number><cves><cve><cveNumber>CVE-2020-0498</cveNumber><cveUrl>https://nvd.nist.gov/vuln/detail/CVE-2020-0498</cveUrl></cve></cves><title>Google Android缓冲区溢出漏洞（CNVD-2020-73447）</title><serverity>中</serverity><products><product>Google Android 11</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-12-17</submitTime><openTime>2020-12-15</openTime><referenceLink>https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-December-2020-34050</referenceLink><formalWay>目前厂商已发布升级补丁以修复漏洞，补丁获取链接：&#xD;
+https://source.android.com/security/bulletin/2020-12-01</formalWay><description>Google Android是美国谷歌（Google）和开放手持设备联盟（简称oha）的一套以Linux为基础的开源操作系统。System是其中的一个系统组件。Bluetooth是其中的一个蓝牙组件。
+
+Google Android Pixel 存在安全漏洞。攻击者可利用该漏洞获取敏感信息。</description><patchName>Google Android缓冲区溢出漏洞（CNVD-2020-73447）的补丁</patchName><patchDescription>Google Android是美国谷歌（Google）和开放手持设备联盟（简称oha）的一套以Linux为基础的开源操作系统。System是其中的一个系统组件。Bluetooth是其中的一个蓝牙组件。&#xD;
+&#xD;
+Google Android Pixel 存在安全漏洞。攻击者可利用该漏洞获取敏感信息。目前，供应商发布了安全公告及相关补丁信息，修复了此漏洞。</patchDescription></vulnerability><vulnerability><number>CNVD-2020-73446</number><cves><cve><cveNumber>CVE-2020-0499</cveNumber><cveUrl>https://nvd.nist.gov/vuln/detail/CVE-2020-0499</cveUrl></cve></cves><title>Google Android缓冲区溢出漏洞（CNVD-2020-73446）</title><serverity>中</serverity><products><product>Google Android 11</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-12-17</submitTime><openTime>2020-12-15</openTime><referenceLink>https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-December-2020-34050</referenceLink><formalWay>目前厂商已发布升级补丁以修复漏洞，补丁获取链接：&#xD;
+https://source.android.com/security/bulletin/2020-12-01</formalWay><description>Google Android是美国谷歌（Google）和开放手持设备联盟（简称oha）的一套以Linux为基础的开源操作系统。
+
+Google Android Pixel 存在安全漏洞。攻击者可利用该漏洞获取敏感信息。</description><patchName>Google Android缓冲区溢出漏洞（CNVD-2020-73446）的补丁</patchName><patchDescription>Google Android是美国谷歌（Google）和开放手持设备联盟（简称oha）的一套以Linux为基础的开源操作系统。&#xD;
+&#xD;
+Google Android Pixel 存在安全漏洞。攻击者可利用该漏洞获取敏感信息。目前，供应商发布了安全公告及相关补丁信息，修复了此漏洞。</patchDescription></vulnerability><vulnerability><number>CNVD-2020-73445</number><cves><cve><cveNumber>CVE-2020-0500</cveNumber><cveUrl>https://nvd.nist.gov/vuln/detail/CVE-2020-0500</cveUrl></cve></cves><title>Google Android Pixel信息泄露漏洞（CNVD-2020-73445）</title><serverity>低</serverity><products><product>Google Android 11</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-12-17</submitTime><openTime>2020-12-15</openTime><referenceLink>https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-December-2020-34050</referenceLink><formalWay>目前厂商已发布升级补丁以修复漏洞，补丁获取链接：&#xD;
+https://source.android.com/security/bulletin/2020-12-01</formalWay><description>Google Android是美国谷歌（Google）和开放手持设备联盟（简称oha）的一套以Linux为基础的开源操作系统。
+
+Google Android Pixel 存在安全漏洞。攻击者可利用该漏洞获取敏感信息。</description><patchName>Google Android Pixel信息泄露漏洞（CNVD-2020-73445）的补丁</patchName><patchDescription>Google Android是美国谷歌（Google）和开放手持设备联盟（简称oha）的一套以Linux为基础的开源操作系统。&#xD;
+&#xD;
+Google Android Pixel 存在安全漏洞。攻击者可利用该漏洞获取敏感信息。目前，供应商发布了安全公告及相关补丁信息，修复了此漏洞。</patchDescription></vulnerability><vulnerability><number>CNVD-2020-73444</number><cves><cve><cveNumber>CVE-2020-27021</cveNumber><cveUrl>https://nvd.nist.gov/vuln/detail/CVE-2020-27021</cveUrl></cve></cves><title>Google Android信息泄露漏洞（CNVD-2020-73444）</title><serverity>低</serverity><products><product>Google Android 11</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-12-17</submitTime><openTime>2020-12-15</openTime><referenceLink>https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-December-2020-34050</referenceLink><formalWay>目前厂商已发布升级补丁以修复漏洞，补丁获取链接：&#xD;
+https://source.android.com/security/bulletin/2020-12-01</formalWay><description>Google Android是美国谷歌（Google）和开放手持设备联盟（简称oha）的一套以Linux为基础的开源操作系统。
+
+Google Android Pixel 存在安全漏洞。攻击者可利用该漏洞获取敏感信息。</description><patchName>Google Android信息泄露漏洞（CNVD-2020-73444）的补丁</patchName><patchDescription>Google Android是美国谷歌（Google）和开放手持设备联盟（简称oha）的一套以Linux为基础的开源操作系统。&#xD;
+&#xD;
+Google Android Pixel 存在安全漏洞。攻击者可利用该漏洞获取敏感信息。目前，供应商发布了安全公告及相关补丁信息，修复了此漏洞。</patchDescription></vulnerability><vulnerability><number>CNVD-2020-73443</number><cves><cve><cveNumber>CVE-2020-27023</cveNumber><cveUrl>https://nvd.nist.gov/vuln/detail/CVE-2020-27023</cveUrl></cve></cves><title>Google Android信息泄露漏洞（CNVD-2020-73443）</title><serverity>低</serverity><products><product>Google Android 11</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-12-17</submitTime><openTime>2020-12-15</openTime><referenceLink>https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-December-2020-34050</referenceLink><formalWay>目前厂商已发布升级补丁以修复漏洞，补丁获取链接：&#xD;
+https://source.android.com/security/bulletin/2020-12-01</formalWay><description>Google Android是美国谷歌（Google）和开放手持设备联盟（简称oha）的一套以Linux为基础的开源操作系统。
+
+Google Android Pixel 存在安全漏洞。攻击者可利用该漏洞获取敏感信息。</description><patchName>Google Android信息泄露漏洞（CNVD-2020-73443）的补丁</patchName><patchDescription>Google Android是美国谷歌（Google）和开放手持设备联盟（简称oha）的一套以Linux为基础的开源操作系统。&#xD;
+&#xD;
+Google Android Pixel 存在安全漏洞。攻击者可利用该漏洞获取敏感信息。目前，供应商发布了安全公告及相关补丁信息，修复了此漏洞。</patchDescription></vulnerability><vulnerability><number>CNVD-2020-73442</number><cves><cve><cveNumber>CVE-2020-27024</cveNumber><cveUrl>https://nvd.nist.gov/vuln/detail/CVE-2020-27024</cveUrl></cve></cves><title>Google Android信息泄露漏洞（CNVD-2020-73442）</title><serverity>中</serverity><products><product>Google Android 11</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-12-17</submitTime><openTime>2020-12-15</openTime><referenceLink>https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-December-2020-34050</referenceLink><formalWay>目前厂商已发布升级补丁以修复漏洞，补丁获取链接：&#xD;
+https://source.android.com/security/bulletin/2020-12-01</formalWay><description>Google Android是美国谷歌（Google）和开放手持设备联盟（简称oha）的一套以Linux为基础的开源操作系统。
+
+Google Android信息泄露漏洞，攻击者可利用该漏洞获取敏感信息。</description><patchName>Google Android信息泄露漏洞（CNVD-2020-73442）的补丁</patchName><patchDescription>Google Android是美国谷歌（Google）和开放手持设备联盟（简称oha）的一套以Linux为基础的开源操作系统。&#xD;
+&#xD;
+Google Android信息泄露漏洞，攻击者可利用该漏洞获取敏感信息。目前，供应商发布了安全公告及相关补丁信息，修复了此漏洞。</patchDescription></vulnerability><vulnerability><number>CNVD-2020-73441</number><cves><cve><cveNumber>CVE-2020-27025</cveNumber><cveUrl>https://nvd.nist.gov/vuln/detail/CVE-2020-27025</cveUrl></cve></cves><title>Google Android信息泄露漏洞（CNVD-2020-73441）</title><serverity>低</serverity><products><product>Google Android 11</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-12-17</submitTime><openTime>2020-12-15</openTime><referenceLink>https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-December-2020-34050</referenceLink><formalWay>目前厂商已发布升级补丁以修复漏洞，补丁获取链接：&#xD;
+https://source.android.com/security/bulletin/2020-12-01</formalWay><description>Google Android是美国谷歌（Google）和开放手持设备联盟（简称oha）的一套以Linux为基础的开源操作系统。
+
+Google Android Pixel 存在安全漏洞。攻击者可利用该漏洞获取敏感信息。</description><patchName>Google Android信息泄露漏洞（CNVD-2020-73441）的补丁</patchName><patchDescription>Google Android是美国谷歌（Google）和开放手持设备联盟（简称oha）的一套以Linux为基础的开源操作系统。&#xD;
+&#xD;
+Google Android Pixel 存在安全漏洞。攻击者可利用该漏洞获取敏感信息。目前，供应商发布了安全公告及相关补丁信息，修复了此漏洞。</patchDescription></vulnerability><vulnerability><number>CNVD-2020-73440</number><cves><cve><cveNumber>CVE-2020-27026</cveNumber><cveUrl>https://nvd.nist.gov/vuln/detail/CVE-2020-27026</cveUrl></cve></cves><title>Google Android信息泄露漏洞（CNVD-2020-73440）</title><serverity>中</serverity><products><product>Google Android 11</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-12-17</submitTime><openTime>2020-12-15</openTime><referenceLink>https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-December-2020-34050</referenceLink><formalWay>目前厂商已发布升级补丁以修复漏洞，补丁获取链接：&#xD;
+https://source.android.com/security/bulletin/2020-12-01</formalWay><description>Google Android是美国谷歌（Google）和开放手持设备联盟（简称oha）的一套以Linux为基础的开源操作系统。
+
+Google Android Pixel 存在安全漏洞。攻击者可利用该漏洞获取敏感信息。</description><patchName>Google Android信息泄露漏洞（CNVD-2020-73440）的补丁</patchName><patchDescription>Google Android是美国谷歌（Google）和开放手持设备联盟（简称oha）的一套以Linux为基础的开源操作系统。&#xD;
+&#xD;
+Google Android Pixel 存在安全漏洞。攻击者可利用该漏洞获取敏感信息。目前，供应商发布了安全公告及相关补丁信息，修复了此漏洞。</patchDescription></vulnerability><vulnerability><number>CNVD-2020-73439</number><cves><cve><cveNumber>CVE-2020-27027</cveNumber><cveUrl>https://nvd.nist.gov/vuln/detail/CVE-2020-27027</cveUrl></cve></cves><title>Google Android缓冲区溢出漏洞（CNVD-2020-73439）</title><serverity>低</serverity><products><product>Google Android 11</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-12-17</submitTime><openTime>2020-12-15</openTime><referenceLink>https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-December-2020-34050</referenceLink><formalWay>目前厂商已发布升级补丁以修复漏洞，补丁获取链接：&#xD;
+https://source.android.com/security/bulletin/2020-12-01</formalWay><description>Google Android是美国谷歌（Google）和开放手持设备联盟（简称oha）的一套以Linux为基础的开源操作系统。
+
+Google Android Pixel 存在安全漏洞。攻击者可利用该漏洞获取敏感信息。</description><patchName>Google Android缓冲区溢出漏洞（CNVD-2020-73439）的补丁</patchName><patchDescription>Google Android是美国谷歌（Google）和开放手持设备联盟（简称oha）的一套以Linux为基础的开源操作系统。&#xD;
+&#xD;
+Google Android Pixel 存在安全漏洞。攻击者可利用该漏洞获取敏感信息。目前，供应商发布了安全公告及相关补丁信息，修复了此漏洞。</patchDescription></vulnerability><vulnerability><number>CNVD-2020-72721</number><cves><cve><cveNumber>CVE-2020-25622</cveNumber><cveUrl>https://nvd.nist.gov/vuln/detail/CVE-2020-25622</cveUrl></cve></cves><title>SolarWinds N-Central跨站请求伪造漏洞</title><serverity>中</serverity><products><product>SolarWinds N-Central 12.3.0.670</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-12-17</submitTime><openTime>2020-12-18</openTime><referenceLink>https://nvd.nist.gov/vuln/detail/CVE-2020-25622</referenceLink><formalWay>目前厂商已发布升级补丁以修复漏洞，补丁获取链接：&#xD;
+https://www.solarwinds.com/securityadvisory</formalWay><description>SolarWinds N-Central是新加坡SolarWinds公司的一个IT设备管理平台。该平台可提供主动监视客户网络上的所有内容，而不仅仅是服务器和工作站，并快速进行故障排除，使用MFA，防病毒，集成的端点检测和响应，数据备份，磁盘等功能，始终抵御威胁加密，电子邮件保护和密码管理等。
+
+SolarWinds N-Central 12.3.0.670版本存在跨站请求伪造漏洞，该漏洞源于AdvancedScripts HTTP端点允许CSRF。目前没有详细漏洞细节提供。</description><patchName>SolarWinds N-Central跨站请求伪造漏洞的补丁</patchName><patchDescription>SolarWinds N-Central是新加坡SolarWinds公司的一个IT设备管理平台。该平台可提供主动监视客户网络上的所有内容，而不仅仅是服务器和工作站，并快速进行故障排除，使用MFA，防病毒，集成的端点检测和响应，数据备份，磁盘等功能，始终抵御威胁加密，电子邮件保护和密码管理等。&#xD;
+&#xD;
+SolarWinds N-Central 12.3.0.670版本存在跨站请求伪造漏洞，该漏洞源于AdvancedScripts HTTP端点允许CSRF。目前没有详细漏洞细节提供。目前，供应商发布了安全公告及相关补丁信息，修复了此漏洞。</patchDescription></vulnerability><vulnerability><number>CNVD-2020-72736</number><cves><cve><cveNumber>CVE-2020-35476</cveNumber><cveUrl>https://nvd.nist.gov/vuln/detail/CVE-2020-35476</cveUrl></cve></cves><title>OpenTSDB命令注入漏洞</title><serverity>高</serverity><products><product>OpenTSDB OpenTSDB &lt;=2.4.0</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-12-17</submitTime><openTime>2020-12-19</openTime><referenceLink>https://nvd.nist.gov/vuln/detail/CVE-2020-35476</referenceLink><formalWay>厂商尚未提供漏洞修复方案，请关注厂商主页更新：&#xD;
+https://github.com/OpenTSDB/opentsdb</formalWay><description>OpenTSDB是一个基于Hbase的分布式、可扩展的时间序列数据库(TSDB)。
+
+OpenTSDB 2.4.0及更早版本存在命令执行漏洞。攻击者可通过yrange参数注入命令利用该漏洞实现远程代码执行。</description></vulnerability><vulnerability><number>CNVD-2020-72735</number><cves><cve><cveNumber>CVE-2020-13535</cveNumber><cveUrl>https://nvd.nist.gov/vuln/detail/CVE-2020-13535</cveUrl></cve></cves><title>Kepware Linkmaster权限许可和访问控制问题漏洞</title><serverity>高</serverity><products><product>kepware Kepware Linkmaster 3.0.94.0</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-12-17</submitTime><openTime>2020-12-19</openTime><referenceLink>https://talosintelligence.com/vulnerability_reports/TALOS-2020-1147</referenceLink><formalWay>厂商已发布了漏洞修复程序，请及时关注更新：&#xD;
+https://www.kepware.com/en-us/products/linkmaster/</formalWay><description>Kepware Linkmaster是美国Kepware公司的一个适用于Windows平台应用于工业上支持OPC DA服务器之间交换数据的软件。该软件提供了一种在OPC服务器之间链接数据的方法，从而成为OPC系统的通用桥，OPC服务器又充当DDE服务器。
+
+Kepware LinkMaster 3.0.94.0存在权限许可和访问控制问题漏洞。攻击者可以利用该漏洞全局覆盖服务配置，以使用NT系统权限执行任意代码。 </description><patchName>Kepware Linkmaster权限许可和访问控制问题漏洞的补丁</patchName><patchDescription>Kepware Linkmaster是美国Kepware公司的一个适用于Windows平台应用于工业上支持OPC DA服务器之间交换数据的软件。该软件提供了一种在OPC服务器之间链接数据的方法，从而成为OPC系统的通用桥，OPC服务器又充当DDE服务器。&#xD;
+&#xD;
+Kepware LinkMaster 3.0.94.0存在权限许可和访问控制问题漏洞。攻击者可以利用该漏洞全局覆盖服务配置，以使用NT系统权限执行任意代码。目前，供应商发布了安全公告及相关补丁信息，修复了此漏洞。</patchDescription></vulnerability><vulnerability><number>CNVD-2020-72734</number><cves><cve><cveNumber>CVE-2020-13517</cveNumber><cveUrl>https://nvd.nist.gov/vuln/detail/CVE-2020-13517</cveUrl></cve></cves><title>NZXT CAM权限许可和访问控制问题漏洞</title><serverity>低</serverity><products><product>nzxt NZXT CAM 4.8.0</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2020-12-17</submitTime><openTime>2020-12-19</openTime><referenceLink>https://talosintelligence.com/vulnerability_reports/TALOS-2020-1114</referenceLink><formalWay>厂商已发布了漏洞修复程序，请及时关注更新：&#xD;
+https://www.nzxt.com/camapp</formalWay><description>NZXT CAM是美国NZXT公司的一个应用于游戏计算机的性能监控软件。该软件可用于管理计算机性能、温度、设备，确保计算机处于最佳性能。
+
+NZXT CAM 4.8.0版本存在权限许可和访问控制问题漏洞，该漏洞源于WinRing0x64驱动程序IRP 0x9c406104功能，一个特别设计的输入输出请求包(IRP)可以导致敏感信息的泄露。攻击者可利用该漏洞可以发送恶意IRP来触发此漏洞。</description><patchName>NZXT CAM权限许可和访问控制问题漏洞的补丁</patchName><patchDescription>NZXT CAM是美国NZXT公司的一个应用于游戏计算机的性能监控软件。该软件可用于管理计算机性能、温度、设备，确保计算机处于最佳性能。&#xD;
+&#xD;
+NZXT CAM 4.8.0版本存在权限许可和访问控制问题漏洞，该漏洞源于WinRing0x64驱动程序IRP 0x9c406104功能，一个特别设计的输入输出请求包(IRP)可以导致敏感信息的泄露。攻击者可利用该漏洞可以发送恶意IRP来触发此漏洞。目前，供应商发布了安全公告及相关补丁信息，修复了此漏洞。</patchDescription></vulnerability></vulnerabilitys>
